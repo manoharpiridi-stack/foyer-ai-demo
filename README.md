@@ -47,7 +47,7 @@ Requires [uv](https://docs.astral.sh/uv/) and Node.js.
 cp .env.example .env              # add your OPENAI_API_KEY
 uv sync
 
-# Build the data and indexes (once). Already done if data/ is present.
+# Build the data and indexes (once). The vector indexes (data/chroma) are not in the repository.
 uv run python scripts/make_claims.py
 uv run python scripts/build_excel_index.py
 uv run python scripts/build_guide_index.py
@@ -59,6 +59,8 @@ uv run uvicorn backend.main:app --port 8000
 # Frontend on :5173 (proxies /api to :8000)
 cd frontend && npm install && npm run dev
 ```
+
+Tests: `uv run pytest` (also run by GitHub Actions on every push, with the frontend build and Terraform validation).
 
 Evaluation: `uv run python scripts/evaluate.py` writes [eval/results.md](eval/results.md).
 Baseline: `uv run python scripts/baseline.py` compares naive row RAG with the routed approach
