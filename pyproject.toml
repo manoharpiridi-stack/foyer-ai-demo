@@ -1,0 +1,23 @@
+[project]
+name = "foyer-ai-demo"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "duckdb>=2.0.0",
+    "fastapi>=0.162.0",
+    "openai>=3.39.0",
+    "python-dotenv>=1.2.4",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = [
+    "json5>=0.17.3",
+    "openpyxl>=3.1.5",
+    "pandas>=3.1.0",
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

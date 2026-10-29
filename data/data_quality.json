@@ -1,0 +1,46 @@
+{
+ "rows_read": 100360,
+ "rows_kept": 100000,
+ "fixes": [
+  {
+   "issue": "Duplicate claims (same claim_id twice)",
+   "rows": 300,
+   "fix": "Kept the first copy"
+  },
+  {
+   "issue": "Inconsistent product spelling (case, spaces, variants)",
+   "rows": 2002,
+   "fix": "Mapped to the 3 official values"
+  },
+  {
+   "issue": "Inconsistent status spelling (case, spaces, variants)",
+   "rows": 2000,
+   "fix": "Mapped to the 3 official values"
+  },
+  {
+   "issue": "Inconsistent channel spelling (case, spaces, variants)",
+   "rows": 0,
+   "fix": "Mapped to the 3 official values"
+  },
+  {
+   "issue": "Inconsistent canton spelling (case, spaces, variants)",
+   "rows": 2796,
+   "fix": "Mapped to the 12 official values"
+  },
+  {
+   "issue": "Dates typed as text (31/12/2024, 31.12.2024, 2024-12-31)",
+   "rows": 3003,
+   "fix": "Parsed, day first"
+  },
+  {
+   "issue": "Amounts typed as text (1.234,56 \u20ac, EUR 1,234.56)",
+   "rows": 3000,
+   "fix": "Converted to numbers"
+  },
+  {
+   "issue": "Rows missing a required value (e.g. claimed amount)",
+   "rows": 60,
+   "fix": "Removed"
+  }
+ ]
+}

@@ -1,0 +1,2835 @@
+[
+ {
+  "id": "arrivee",
+  "title": "The first eight days",
+  "category": "Administratif",
+  "summary": "Everything starts with the commune. Without this declaration, no registration number, no social security, no bank, no school.",
+  "url": "https://lux-guide.github.io/#fiche/arrivee",
+  "sources": [
+   {
+    "title": "Guichet.lu, citoyenneté et démarches d'arrivée",
+    "url": "https://guichet.public.lu/fr/citoyens/citoyennete.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "arrivee-1",
+    "text": "The first step after moving in is neither the bank nor the employer: it is the commune. You have eight days to declare your arrival at the population office, often called Biergercenter. This procedure, which takes about twenty minutes, literally conditions everything else in your settling in."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-2",
+    "text": "It actually produces two documents that will be repeatedly requested: the residence certificate and, for European Union nationals staying more than three months, the registration certificate."
+   },
+   {
+    "type": "h",
+    "text": "Three deadlines, not just one"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-3",
+    "text": "The eight-day deadline applies to the arrival declaration at the population office. Two other deadlines are added, and missing them costs more than the first."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-4",
+    "text": "A third-country national has not eight days but three days from their arrival on the territory to make the same declaration. The deadline is short and starts from entry, not from moving in."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-5",
+    "text": "Furthermore, the arrival declaration alone is not enough. A European Union citizen who stays more than three months must submit a registration declaration to the same commune within ninety days of arrival. A third-country national must apply for a residence permit within three months of arrival. These are two distinct procedures from the first, with their own deadlines."
+   },
+   {
+    "type": "h",
+    "text": "The registration number, key to everything else"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-6",
+    "text": "The certificate bears your national identification number, commonly called the registration number (matricule). This thirteen-digit number follows a simple logic: your birth date reversed, in the format year, month, day, followed by five digits. It will serve as your identifier with social security, the tax administration, your bank, the school, and the commune itself. Write it down as soon as you have it; you will often need to enter it."
+   },
+   {
+    "type": "h",
+    "text": "What to bring"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-7",
+    "text": "Bring the original identity documents of each household member, the signed lease or purchase deed, and, depending on your family situation, birth and marriage certificates. Some communes require recent or translated documents: check their requirements before going, to avoid a second appointment."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-8",
+    "text": "Most communes now operate by appointment, to be made online. During busy periods, slots fill up quickly, which can cause you to miss the eight-day deadline. Book even before you get the keys."
+   },
+   {
+    "type": "h",
+    "text": "Key points to remember"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-9",
+    "text": "Eight days after moving in, not after signing the lease. Only three days for a third-country national. The registration number is issued by the commune, not social security. Make an appointment online before arrival."
+   },
+   {
+    "type": "h",
+    "text": "Frequently asked questions"
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-10",
+    "q": "Are the arrival deadlines the same outside the European Union?",
+    "a": "No, the deadline is shorter. The arrival declaration at the commune must be made within three days of your entry into the territory, not within eight days. You must then apply for a residence permit within three months of your arrival."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-11",
+    "q": "Is the declaration to the commune sufficient?",
+    "a": "No, a second procedure follows. A European Union citizen staying more than three months must submit a registration declaration to the commune within ninety days of arrival. A third-country national must apply for a residence permit within three months. These are separate procedures from the arrival declaration, each with its own deadline."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-12",
+    "q": "Within what timeframe must one declare to the commune?",
+    "a": "Within eight days following moving in. This declaration produces the residence certificate and the registration number, essential for everything that follows. Book an appointment online even before you get the keys."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-13",
+    "q": "How is the registration number obtained?",
+    "a": "It is assigned during registration at the commune and appears on the residence certificate under the mention 'numéro d'identification'. It consists of thirteen digits: your birth date reversed, followed by five digits."
+   }
+  ]
+ },
+ {
+  "id": "matricule",
+  "title": "Social Security and Reimbursements",
+  "category": "Sante",
+  "summary": "Enrollment is automatic for an employee. The system operates on an advance payment basis.",
+  "url": "https://lux-guide.github.io/#fiche/matricule",
+  "sources": [
+   {
+    "title": "Centre commun de la sécurité sociale",
+    "url": "https://ccss.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "matricule-1",
+    "text": "Once the registration number is assigned, enrollment in social security is automatic if you are an employee: it is the employer who reports your start to the Centre commun de la sécurité sociale (Common Center for Social Security). Your card will then arrive by mail and will be required at the doctor’s office as well as the pharmacy. Self-employed workers must declare their activity themselves within eight days."
+   },
+   {
+    "type": "h",
+    "text": "Pay First, Get Reimbursed Later"
+   },
+   {
+    "type": "p",
+    "id": "matricule-2",
+    "text": "The principle often surprises newcomers: you pay for the consultation in full, and then the Caisse nationale de santé reimburses you, usually between 80% and 88% of the agreed tariff. This reimbursement requires that the fund has your bank details, provided during the first claim. Any change of account must then be reported in writing, including your registration number."
+   },
+   {
+    "type": "p",
+    "id": "matricule-3",
+    "text": "Practically speaking, plan to have some cash flow during the first few weeks while the process gets going. A family that has multiple medical visits on arrival may need to advance several hundred euros before receiving the first reimbursement."
+   },
+   {
+    "type": "h",
+    "text": "Is a Complementary Insurance Necessary?"
+   },
+   {
+    "type": "p",
+    "id": "matricule-4",
+    "text": "Mandatory coverage leaves some out-of-pocket costs for hospital stays in a single room, major dental care, and optical expenses. Therefore, private complementary insurance is common, offered by local insurers as well as some mutual insurance funds (mutuelles). Compare annual coverage limits rather than just the premiums: this is where policies really differ."
+   },
+   {
+    "type": "h",
+    "text": "Key Points to Remember"
+   },
+   {
+    "type": "p",
+    "id": "matricule-5",
+    "text": "Employee: nothing to do, your employer handles it. Self-employed: declaration to the CCSS within eight days. Plan for the cash advance required."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "matricule-6",
+    "q": "Who declares the entry to social security?",
+    "a": "No if you are an employee: the employer declares your entry to the Centre commun de la sécurité sociale without any action on your part. Your card then arrives by mail. Self-employed workers declare their activity themselves within eight days."
+   }
+  ]
+ },
+ {
+  "id": "assurance_sante",
+  "title": "Health Supplementary Insurance",
+  "category": "Sante",
+  "summary": "Optional, but it precisely covers what the basic insurance leaves out: private room, dental care, and optical care.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_sante",
+  "sources": [
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   },
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_sante-1",
+    "text": "Mandatory health insurance covers the essential medical care but leaves out-of-pocket expenses focused on three areas: hospitalization in a private room, major dental care, and optical care. This is exactly what a private supplementary insurance covers, offered by local insurers as well as mutual insurance organizations."
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-2",
+    "text": "It is not compulsory, and its usefulness depends on your situation. A young person without particular dental needs can do without it for several years. A family with children needing braces, or anyone who values having a private room during hospitalization, will quickly benefit from it."
+   },
+   {
+    "type": "h",
+    "text": "Waiting period, the first point to check"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-3",
+    "text": "Most contracts include a waiting period, meaning an initial phase during which some coverage is not yet effective, often several months for dental care and sometimes longer for orthodontics. Subscribing upon arrival, before the need arises, avoids discovering this clause at an inconvenient time. Some contracts also require medical questionnaires or exclude pre-existing conditions: read this section carefully before signing."
+   },
+   {
+    "type": "h",
+    "text": "Compare coverage limits, not the premium"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-4",
+    "text": "Two contracts with the same monthly premium can differ by a factor of two in what they reimburse. Look at the annual limit per category, especially for dental and optical care, the reimbursement rate for private room stays and its maximum duration, and the existence of an overall ceiling covering all categories combined."
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-5",
+    "text": "Also check whether the contract covers care received abroad. This is far from insignificant for a recently settled family, who often continue to see doctors in their country of origin during the first years."
+   },
+   {
+    "type": "h",
+    "text": "A particularity to know"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-6",
+    "text": "Unlike home or car insurance, supplementary health insurances are not covered by the standardized European information document. Therefore, you will not have the two-page summary sheet that facilitates comparison elsewhere: you must read the general conditions and the schedule of guarantees."
+   },
+   {
+    "type": "h",
+    "text": "Key points to remember"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-7",
+    "text": "Subscribe upon arrival, because of the waiting periods. Compare cover limits per category, not the premium. Verify the coverage for care received abroad."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_sante-8",
+    "q": "Is a supplementary health insurance useful?",
+    "a": "It is optional and mainly covers private rooms, dental care, and optical care. If you get one, subscribe upon arrival: most contracts include waiting periods of several months for these categories."
+   }
+  ]
+ },
+ {
+  "id": "administration",
+  "title": "How the administration works",
+  "category": "Administratif",
+  "summary": "Small country, short circuits, and accessible contacts. But mail and physical presence remain the norm for certain procedures.",
+  "url": "https://lux-guide.github.io/#fiche/administration",
+  "sources": [
+   {
+    "title": "Guichet.lu",
+    "url": "https://guichet.public.lu/fr/citoyens.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "administration-1",
+    "text": "The Luxembourg administration pleasantly surprises most newcomers, especially those coming from large countries. The country is small, the circuits are short, and it is not uncommon to obtain in one visit what would take several weeks and three forms elsewhere."
+   },
+   {
+    "type": "h",
+    "text": "What is fast"
+   },
+   {
+    "type": "p",
+    "id": "administration-2",
+    "text": "Many documents are issued immediately at the counter: proof of residence, registration certificate, certified copies. Municipalities operate largely by appointment, which avoids waiting lines, and agents respond in French, German, and often English."
+   },
+   {
+    "type": "p",
+    "id": "administration-3",
+    "text": "Processing times for more complex files remain reasonable, and above all, administrations are reachable. A call or an email usually gets a response from an identifiable person, which changes the nature of exchanges: in case of difficulty, it is almost always possible to speak to someone who knows the case."
+   },
+   {
+    "type": "h",
+    "text": "What remains slow or on paper"
+   },
+   {
+    "type": "p",
+    "id": "administration-4",
+    "text": "Not everything is digitalized for all that. Some procedures are only handled by postal mail or in person, with the registration of a foreign driving license being the most common example. Others require a certificate obtained elsewhere, which creates chains of dependency: without a declaration to the municipality, no proof of residence certificate, therefore no chèque-service (childcare voucher) nor school registration."
+   },
+   {
+    "type": "p",
+    "id": "administration-5",
+    "text": "It is these chains of procedures, more than the slowness of the services, that prolong settling in. Hence the importance of knowing the order of procedures, rather than undertaking them piecemeal."
+   },
+   {
+    "type": "h",
+    "text": "Three useful habits"
+   },
+   {
+    "type": "p",
+    "id": "administration-6",
+    "text": "Make an appointment online whenever possible, especially during the start of the school year, when slots fill up weeks in advance. Check the list of required documents on your municipality's website, as it varies from one municipality to another for the same procedure. And keep a written record of what you are told verbally: the quality of the reception does not replace a dated document."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "administration-7",
+    "text": "Many documents are issued immediately at the counter. It is the chains of procedures that prolong settling in, not the delays. Make appointments early and check the list of documents with your municipality."
+   }
+  ]
+ },
+ {
+  "id": "luxtrust",
+  "title": "LuxTrust and MyGuichet",
+  "category": "Administratif",
+  "summary": "The digital identity that opens online procedures. Much cheaper if you go through your bank.",
+  "url": "https://lux-guide.github.io/#fiche/luxtrust",
+  "sources": [
+   {
+    "title": "MyGuichet.lu",
+    "url": "https://guichet.public.lu/fr/citoyens/support/aide/myguichet.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "luxtrust-1",
+    "text": "LuxTrust is the Luxembourgish digital identity, the functional equivalent of a national electronic identity. It provides access to MyGuichet.lu, where most administrative procedures are handled, and is also used to validate online banking transactions. Without it, you are limited to paper forms and physical counters."
+   },
+   {
+    "type": "h",
+    "text": "Getting it at the best price"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-2",
+    "text": "The least expensive route is through a Luxembourgish bank, which often provides it free to its clients. Without a local account, you need to order it directly, and it becomes payable. This is one more reason to open a bank account early: LuxTrust naturally follows. The Luxembourg identity card can also be used for authentication, provided its certificates were activated at the time of the card application."
+   },
+   {
+    "type": "h",
+    "text": "What cannot be done online"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-3",
+    "text": "Do not assume that everything is digitized. For example, registering a foreign driver's license is handled exclusively by mail or in person at a counter. Conversely, the advantage of the portal goes beyond simply submitting an application: it allows you to track the progress of a procedure, which postal mail does not permit."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-4",
+    "text": "Open the bank account first, LuxTrust follows and costs less. The portal allows you to track the status of a file. Some procedures remain paper-based, including the driver's license."
+   }
+  ]
+ },
+ {
+  "id": "recherche_logement",
+  "title": "Finding Accommodation",
+  "category": "Logement",
+  "summary": "A tight market, where a complete application and an already available guarantee make the difference.",
+  "url": "https://lux-guide.github.io/#fiche/recherche_logement",
+  "sources": [
+   {
+    "title": "luxembourg.public.lu, se loger",
+    "url": "https://luxembourg.public.lu/fr/vivre.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "recherche_logement-1",
+    "text": "The rental market is tight, especially in the capital and its inner ring. Attractive properties go within a few days, and the selected candidate is not always the one who pays the most: it is often the one whose application is complete and immediately usable."
+   },
+   {
+    "type": "h",
+    "text": "Prepare your application before visiting"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-2",
+    "text": "Prepare a complete application in advance: identity documents, employment contract or job offer, last three pay slips, and bank details. Add, if you already have it, the confirmation that your bank can provide the rental guarantee. This is precisely the point that blocks foreign candidates, and the one that will set you apart."
+   },
+   {
+    "type": "h",
+    "text": "Where to look"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-3",
+    "text": "General listing portals concentrate most of the supply, but part of the market circulates through agencies, expatriate groups, and employer word of mouth. Large companies and institutions often have a service or support provider: ask about it, it is frequently included in the hiring package."
+   },
+   {
+    "type": "h",
+    "text": "Expand beyond the capital"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-4",
+    "text": "The price drops significantly as soon as you move away from Luxembourg City, but the decisive variable is not distance: it is transport connections. A municipality located twenty kilometers away on a railway line can be quicker to access than a municipality ten kilometers away but poorly connected. Check actual schedules from the nearest stop, at the times that concern you, before deciding."
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-5",
+    "text": "Finally, anticipate the sequence of delays: opening a bank account, then guarantee, then signing, then inventory of fixtures. Between the first visit and receiving the keys, count rarely less than three to four weeks."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-6",
+    "text": "Complete application ready before the first visit. The bank guarantee is the blocking point for foreign candidates. Judge a municipality based on its transport connections, not on its distance."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "recherche_logement-7",
+    "q": "How does one look for accommodation in Luxembourg?",
+    "a": "By preparing a complete application before the first visit, and above all by already having the ability to provide a bank guarantee. This point, more than the proposed rent, determines the choice between candidates."
+   }
+  ]
+ },
+ {
+  "id": "choisir_commune",
+  "title": "Choosing Your Municipality",
+  "category": "Logement",
+  "summary": "The right criterion is not distance, but your mode of transportation and the trips you will make every day.",
+  "url": "https://lux-guide.github.io/#fiche/choisir_commune",
+  "sources": [
+   {
+    "title": "mobiliteit.lu, horaires et itinéraires",
+    "url": "https://www.mobiliteit.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "choisir_commune-1",
+    "text": "Many newcomers choose their municipality by looking at a map and drawing a radius around the workplace. This is the best way to make a mistake: two municipalities located at the same distance can offer radically different daily experiences depending on the public transport connections and the trips actually made each day."
+   },
+   {
+    "type": "h",
+    "text": "First question: car or public transport?"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-2",
+    "text": "If you travel by car, distance matters little and you can greatly expand the search area, which significantly lowers the rent. Then look at travel time during peak hours, not mileage: routes towards the capital are congested, and twenty kilometers can take forty-five minutes in the morning. Also check parking availability, both at home and at the workplace, which is often expensive and limited."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-3",
+    "text": "If you rely on public transport, the logic is completely reversed. Free public transport is useless if no line passes nearby. Check the actual schedules from the closest stop to the visited accommodation at the relevant times, including evenings and weekends. A municipality served every ten minutes on weekdays may have only one bus per hour on Saturdays."
+   },
+   {
+    "type": "h",
+    "text": "Second question: constrained trips"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-4",
+    "text": "The home-to-work trip is rarely the most restrictive for a family. The one that really structures the days is school, and especially childcare, because it happens twice a day at fixed times. If your children attend a specific school, a European school or a particular language section, look for housing around that school, not around the office."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-5",
+    "text": "Do the test concretely before signing: simulate a full day, drop-off at school, trip to work, return, pick-up at childcare. If the sequence doesn't fit on paper, it won't work in practice."
+   },
+   {
+    "type": "h",
+    "text": "Criteria that are often forgotten"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-6",
+    "text": "Note the walking distance to the bus stop or train station, not just their existence: ten minutes walking in the rain twice a day changes the experience. Also check for park-and-ride facilities if you combine car and train. Finally, look at local shops, the municipal daycare, and the recycling center, these three places you will visit more often than you think."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-7",
+    "text": "One last useful reflex: the municipality is also your administrative desk for registration, chèque-service accueil (childcare vouchers), and school enrollments. Its opening hours and responsiveness are part of your quality of life."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-8",
+    "text": "By car, expand the area and look at travel time during peak hours. By public transport, check actual schedules from the closest stop. Look around the school, not around the office."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "choisir_commune-9",
+    "q": "What criteria should I use to choose my municipality?",
+    "a": "Not distance. By car, expand the area and look at travel times during peak hours. By public transport, check the real schedules from the nearest stop, including weekends. And look around the school, not the office."
+   }
+  ]
+ },
+ {
+  "id": "frontalier",
+  "title": "Living in France, Belgium, or Germany",
+  "category": "Logement",
+  "summary": "Nearly one in two employees lives across the border. The salary remains taxed in Luxembourg, but remote work, healthcare, and schooling follow the country of residence.",
+  "url": "https://lux-guide.github.io/#fiche/frontalier",
+  "sources": [
+   {
+    "title": "Guichet.lu, travail et emploi",
+    "url": "https://guichet.public.lu/fr/citoyens/travail.html"
+   },
+   {
+    "title": "Administration des contributions directes, conventions fiscales",
+    "url": "https://impotsdirects.public.lu/fr/conventions.html"
+   },
+   {
+    "title": "Administration des contributions directes, télétravail",
+    "url": "https://impotsdirects.public.lu/fr/az/t/teletravail.html"
+   },
+   {
+    "title": "Centre commun de la sécurité sociale",
+    "url": "https://ccss.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse pour l'avenir des enfants, allocations",
+    "url": "https://cae.public.lu/fr/allocations.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "frontalier-1",
+    "text": "Working in Luxembourg does not require living there, and this is the choice of nearly one in two employees: over two hundred thousand people cross the border each morning, mainly from France, then Belgium and Germany. Rent is the main reason, and the difference is significant. But the choice is not just about rent, because crossing the border shifts part of your administrative life to the country of residence."
+   },
+   {
+    "type": "h",
+    "text": "Your salary remains taxed in Luxembourg"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-2",
+    "text": "The tax agreements signed by Luxembourg with France, Belgium, and Germany all establish the same rule: a salary is taxable where the work is performed. Therefore, a cross-border worker is taxed in Luxembourg on their Luxembourg salary, with the same withholding tax as a resident, and the same withholding slip."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-3",
+    "text": "The country of residence does not tax this salary a second time, but it takes it into account to calculate the rate applied to your other income. This is called the effective rate: if you have rental income or a spouse's salary in your country of residence, it will be taxed at a rate calculated as if the Luxembourg salary was added there. You must therefore declare this salary at home, even if it is not taxed there. Many new cross-border workers learn this the following year."
+   },
+   {
+    "type": "h",
+    "text": "Remote work has two ceilings, and they are not the same"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-4",
+    "text": "This is the point that surprises the most, because two different rules apply simultaneously to the same day spent at home."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-5",
+    "text": "The first ceiling is fiscal. Beyond a certain number of days worked outside Luxembourg in the year, the corresponding portion of the salary becomes taxable in the country of residence. This threshold is set by an agreement between the two states, has already been raised several times, and is not identical for the three neighboring countries."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-6",
+    "text": "The second ceiling is social. It determines the social security fund to which you contribute, and it is expressed as a part of working time, not in days. A European agreement allows you to remain affiliated with Luxembourg while teleworking from home, provided you stay below this share and request it. Exceeding it shifts all your social security to the country of residence: health insurance, benefits, and retirement change countries simultaneously."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-7",
+    "text": "Keep in mind especially that the two thresholds are independent. You can comply with one and exceed the other, and the consequences are unrelated. The current figures can be verified with the Administration des contributions directes for tax matters, and with the Joint Social Security Center for social matters: this guide does not reproduce them because they change faster than it."
+   },
+   {
+    "type": "h",
+    "text": "Health, benefits, schooling: daily life follows residence"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-8",
+    "text": "You contribute to Luxembourg social security and are affiliated with the Caisse nationale de santé. To get medical care near your home, you request the S1 form, which registers you with the health fund of your country of residence. You are then covered on both sides of the border, which is useful when a child is sick on a Wednesday."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-9",
+    "text": "Family benefits are paid by the Caisse pour l'avenir des enfants, based on your activity in Luxembourg. If your country of residence also pays a benefit for the same child, the two do not add up freely: European rules designate who pays first, and the other country complements the difference if it is more generous."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-10",
+    "text": "Schooling is entirely the responsibility of the country of residence, with its calendar, languages, and holidays. A family hesitating between both sides therefore compares two school systems, not just two rents. Often, this criterion, and not the price, decides."
+   },
+   {
+    "type": "h",
+    "text": "What crossing the border changes in the budget"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-11",
+    "text": "Price levels are not the same on the four sides, and the differences do not always go in the same direction. Eurostat indices, published in the tab Les communes en passant de l'autre côté de la frontière, show that food, clothing, and telecommunications are cheaper in the neighboring countries, while energy, fuel, and tobacco are cheaper in Luxembourg. Consequently, a cross-border household rarely does everything on the same side."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-12",
+    "text": "Finally, travel is measured in time, not kilometers. The routes toward the capital congest in the morning, and a municipality forty kilometers away by a direct train line may be closer in time than a municipality twenty kilometers away by highway. The other two tabs in the section Où habiter are precisely for making this calculation."
+   },
+   {
+    "type": "h",
+    "text": "Key takeaways"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-13",
+    "text": "The salary remains taxed in Luxembourg but must also be declared in the country of residence for the rate applied to the rest. Two telework ceilings coexist: a fiscal one in days and a social one in part of working time; they differ in value and consequences. The S1 document enables healthcare in the country of residence while remaining affiliated with the Luxembourg fund. Schooling follows the country of residence, and benefits coordinate between both."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-14",
+    "q": "Can I work in Luxembourg and live in France, Belgium, or Germany?",
+    "a": "Yes, and nearly one in two employees does so. The salary remains taxed in Luxembourg, where the work is performed, but must also be declared in the country of residence, where it is used to calculate the rate applied to your other income. Health care, benefits, and schooling follow coordination rules between the two countries."
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-15",
+    "q": "How many days of remote work can a cross-border worker do?",
+    "a": "Two different ceilings apply simultaneously, and they are not similar. The fiscal ceiling is counted in days per year and determines the portion of salary taxable in the country of residence. The social ceiling is counted as a share of working time and decides the fund to which you contribute. The values change regularly and can be verified with the Administration des contributions directes and the Joint Social Security Center."
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-16",
+    "q": "What costs less across the border?",
+    "a": "According to Eurostat price level indices, food, clothing, and telecommunications are cheaper in the three neighboring countries, while energy, fuel, and tobacco are cheaper in Luxembourg. The tab Les communes publishes the details by category when crossing the border."
+   }
+  ]
+ },
+ {
+  "id": "reclamation",
+  "title": "Disputing a bill or a service",
+  "category": "Quotidien",
+  "summary": "A written complaint is a mandatory prerequisite for any mediation. A phone call, even followed by a refusal, does not count.",
+  "url": "https://lux-guide.github.io/#fiche/reclamation",
+  "sources": [
+   {
+    "title": "ILR, service de médiation",
+    "url": "https://www.ilr.lu/mediation/"
+   },
+   {
+    "title": "Médiateur de la consommation",
+    "url": "https://www.mediateurconsommation.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "reclamation-1",
+    "text": "Whether the disagreement concerns a telecom bill, an energy service, or a financial service, the process is always the same, and it starts with a written statement."
+   },
+   {
+    "type": "h",
+    "text": "Write first, always"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-2",
+    "text": "Mediation bodies require, as a condition of admissibility, a prior written complaint addressed to the professional, which went unanswered or was followed by an unsatisfactory response. A phone call, even when a representative explicitly refused you, does not meet this condition and leaves no record. Therefore, always write, even after a call, if only to record in writing what was said to you."
+   },
+   {
+    "type": "h",
+    "text": "Who to turn to next"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-3",
+    "text": "For electronic communications, mediation is handled by the Institut luxembourgeois de régulation (Luxembourg Institute of Regulation) and it is free of charge. For other consumer disputes, the national Consumer Mediator service is competent. In both cases, the written complaint and any response from the professional are mandatory documents for the file."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-4",
+    "text": "A phone call does not count as a written complaint. For telecoms, mediation by the ILR is free. For other disputes, the Consumer Mediator is competent."
+   },
+   {
+    "type": "h",
+    "text": "Frequently asked questions"
+   },
+   {
+    "type": "faq",
+    "id": "reclamation-5",
+    "q": "Who should I turn to in case of a dispute with a professional?",
+    "a": "For electronic communications, mediation is handled by the Institut luxembourgeois de régulation and it is free of charge. For other consumer disputes, the national Consumer Mediator service is competent. In both cases, a prior written complaint to the professional is a condition of admissibility: a phone call is not sufficient."
+   }
+  ]
+ },
+ {
+  "id": "emmenagement",
+  "title": "Moving in and furnishing",
+  "category": "Logement",
+  "summary": "Housing is often handed over without installed light fixtures, and stores from four countries are within driving distance.",
+  "url": "https://lux-guide.github.io/#fiche/emmenagement",
+  "sources": [
+   {
+    "title": "Guichet.lu, bail à loyer",
+    "url": "https://guichet.public.lu/fr/citoyens/logement/location.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "emmenagement-1",
+    "text": "Two things surprise when moving in here, and neither aligns with common sense: what the housing contains when the keys are handed over, and the fact that stores from four countries are within driving distance."
+   },
+   {
+    "type": "h",
+    "text": "Housing is often rented without light fixtures"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-2",
+    "text": "Many homes are handed over with wires hanging from the ceiling and no installed light points. This is not a defect or an oversight by the landlord; it is common practice here, whereas in several neighboring countries a fitted socket remains in place. Plan for light fixtures and their installation from day one, otherwise the first evenings will be spent by work lamp. This point should be checked during the inventory of fixtures, not afterward."
+   },
+   {
+    "type": "h",
+    "text": "Shopping on both sides of the border"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-3",
+    "text": "Furniture and household appliance stores are established on both sides of the border, and their promotions are not synchronized from one country to another. For a significant purchase, comparing prices in nearby stores in Belgium, France, or Germany often justifies the trip, provided you factor in the sometimes prohibitive cost of cross-border delivery."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-4",
+    "text": "Compare prices on both sides of the border before making a major purchase. Plan for light fixtures: they are rarely in place when the keys are handed over."
+   }
+  ]
+ },
+ {
+  "id": "bail",
+  "title": "Signing a Lease",
+  "category": "Logement",
+  "summary": "The reform of August 1, 2024 capped the security deposit at two months and split agency fees.",
+  "url": "https://lux-guide.github.io/#fiche/bail",
+  "sources": [
+   {
+    "title": "Guichet.lu, bail à loyer",
+    "url": "https://guichet.public.lu/fr/citoyens/logement/location.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "bail-1",
+    "text": "The legal framework has significantly improved for tenants. The rental lease reform effective August 1, 2024 capped the rental guarantee at two months' rent, down from three previously, and split the agency fees equally between landlord and tenant, whereas they were previously fully borne by the tenant. For a rent of 2,000 euros, the combined savings easily exceed 3,000 euros when moving in."
+   },
+   {
+    "type": "h",
+    "text": "The Bank Guarantee, a Timing Trap"
+   },
+   {
+    "type": "p",
+    "id": "bail-2",
+    "text": "The guarantee most often takes the form of a bank guarantee, which in practice is issued only by a Luxembourg bank. A foreign IBAN, even from Europe, is generally not sufficient. However, opening an account itself requires time and supporting documents. Plan ahead for this process, otherwise you risk losing the housing to a better-prepared candidate."
+   },
+   {
+    "type": "h",
+    "text": "The Inventory of Fixtures Determines Your Deposit"
+   },
+   {
+    "type": "p",
+    "id": "bail-3",
+    "text": "A joint inventory of fixtures is carried out at entry and exit, and it is this that will determine the refund of your guarantee two or three years later. Systematically photograph every room, including what seems trivial to you, and keep meter readings. This quarter-hour effort is worth several thousand euros at the time of departure."
+   },
+   {
+    "type": "h",
+    "text": "Read the Restrictions Before Buying Furniture"
+   },
+   {
+    "type": "p",
+    "id": "bail-4",
+    "text": "Many leases prohibit, without the landlord’s written consent, making holes or modifications, subletting, and having pets. You will avoid buying wall-mounted furniture that you cannot install. Note that these clauses rarely forbid making holes per se: they require written consent, which is often obtained by email. In case of persistent disagreement, the local rent commission is the first recourse before any legal action."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "bail-5",
+    "text": "Deposit: maximum two months since August 1, 2024. Agency fees split equally. Photograph the inventory of fixtures at entry without exception."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "bail-6",
+    "q": "What rental guarantee can a landlord require?",
+    "a": "A maximum of two months’ rent since the reform of August 1, 2024, compared to three previously. Agency fees are also split equally between landlord and tenant."
+   }
+  ]
+ },
+ {
+  "id": "assurance_habitation",
+  "title": "Insuring Your Home",
+  "category": "Logement",
+  "summary": "Required before handing over the keys, and to be compared based on coverage rather than the premium.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_habitation",
+  "sources": [
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_habitation-1",
+    "text": "The insurance certificate is requested before handing over the keys, both by a landlord and by a bank in case of purchase. Therefore, it is not a formality dealt with after moving in: it is part of the signing file, on the same level as the security deposit."
+   },
+   {
+    "type": "h",
+    "text": "What a contract actually covers"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-2",
+    "text": "The usual foundation includes fire, water damage, theft, glass breakage, and civil liability, the latter covering damages caused to third parties, including by children. Differences between contracts rarely lie in this foundation: they are found in the compensation limits, deductibles, and exclusions."
+   },
+   {
+    "type": "h",
+    "text": "The four points to compare"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-3",
+    "text": "First look at the deductible, that is what remains your responsibility for each claim. Then see if goods are compensated at new value or after depreciation, which makes a big difference for recent furniture. Check the ceiling applicable to valuables, often much lower than the general ceiling. Finally, verify exclusions related to prolonged absence from the home, which are common and rarely read."
+   },
+   {
+    "type": "h",
+    "text": "Documents to request before signing"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-4",
+    "text": "Three documents truly describe the contract, and the commercial quote is not one of them. The first is the standardized information document about the insurance product, two pages in a standardized format throughout the Union, summarizing coverage, exclusions, and obligations. It facilitates comparison between insurers but does not replace anything: it is deliberately brief."
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-5",
+    "text": "The other two are contractual. The general conditions describe the extent of coverage, deductibles, and exclusions applicable to all insured persons. The specific conditions specify what concerns you, insured amounts and chosen options, and they take precedence over the general conditions in case of discrepancy. Request all three, and prioritize reading the exclusions: this is the section that determines what will be denied on the day of the claim."
+   },
+   {
+    "type": "h",
+    "text": "In case of purchase"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-6",
+    "text": "The lender will also require a balance repayment insurance, which reimburses the loan in case of death. It is not mandatory to take it out with the lending bank: putting several insurers in competition on this single item often represents several thousand euros over the duration of the loan."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-7",
+    "text": "The certificate is required before handing over the keys. Compare deductibles, new value, ceilings, and exclusions. Demand the general conditions, not just the quote."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_habitation-8",
+    "q": "How to compare two insurance contracts?",
+    "a": "Based on exclusions and deductibles, not on the premium. Request the standardized two-page information document, the general conditions and the specific conditions: a quote does not say what will be denied on the day of the claim."
+   },
+   {
+    "type": "faq",
+    "id": "assurance_habitation-9",
+    "q": "When to take out home insurance?",
+    "a": "Before handing over the keys: the certificate is part of the signing file. Compare deductibles, new value and exclusions, demanding the general conditions and not just the quote."
+   }
+  ]
+ },
+ {
+  "id": "achat",
+  "title": "Buying a Property",
+  "category": "Logement",
+  "summary": "Capped financing quotas, and a 3% VAT that is neither automatic nor unlimited.",
+  "url": "https://lux-guide.github.io/#fiche/achat",
+  "sources": [
+   {
+    "title": "Guichet.lu, TVA logement",
+    "url": "https://guichet.public.lu/fr/citoyens/aides/logement-construction/aides-indirectes/remboursement-tva-taux-reduit.html"
+   },
+   {
+    "title": "Comité du risque systémique, quotités",
+    "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2020/11-novembre/18-comite-risque-cssf.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "achat-1",
+    "text": "Real estate financing is regulated by maximum quotas set by the CSSF on the recommendation of the Systemic Risk Committee. A first-time buyer can finance up to 100% of the price for their main residence, compared to 90% for a buyer who has already been a property owner, and only 80% for a rental investment. These percentages apply to the price of the property: the deed fees must always be financed with personal funds."
+   },
+   {
+    "type": "h",
+    "text": "3% VAT: conditional and capped"
+   },
+   {
+    "type": "p",
+    "id": "achat-2",
+    "text": "The super-reduced rate of 3%, instead of 17%, is one of the most talked-about advantages in the Luxembourg market. It is also the most misunderstood. It first requires the property to be used as the main residence for at least two years, and prior approval from the Registration Administration, hence the phrase “subject to acceptance” appearing on the listings."
+   },
+   {
+    "type": "p",
+    "id": "achat-3",
+    "text": "More importantly, the benefit is capped at 50,000 euros per property. Since the difference between 17% and 3% represents fourteen percentage points, this cap covers about 357,000 euros of tax-exclusive base. Beyond this, the remaining portion is subject to the 17% rate again. On a high-priced new property, a portion of the price therefore bears the full rate, which can amount to several tens of thousands of euros."
+   },
+   {
+    "type": "p",
+    "id": "achat-4",
+    "text": "The question to ask the developer is therefore specific: does the listed price already include this portion at 17%, or does it assume 3% on the entire amount? Some listings honestly state “VAT at 3% and 17% included,” others do not. There is also a tax credit on registration fees, known as Bëllegen Akt, available for purchasing a main residence; its amount changes, so please check it at the date of your project."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "achat-5",
+    "text": "First-time buyer: up to 100% of the price, excluding fees. Rental investment: maximum 80%, hence 20% down payment. 3% VAT capped at a 50,000 euro benefit, then 17%."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "achat-6",
+    "q": "What portion of the price does a bank finance?",
+    "a": "Up to 100% for a first-time buyer for a main residence, 90% for a buyer who already owns property, and 80% for a rental investment. The deed fees must be financed with personal funds."
+   },
+   {
+    "type": "faq",
+    "id": "achat-7",
+    "q": "Is the VAT on a new property always 3%?",
+    "a": "No. The 3% rate requires allocation as the main residence for two years and prior approval from the administration, and the benefit is capped at 50,000 euros per property. Beyond this, the remaining portion is subject to 17%."
+   }
+  ]
+ },
+ {
+  "id": "logement_abordable",
+  "title": "Affordable and Moderately Priced Housing",
+  "category": "Logement",
+  "summary": "A price below the market, in exchange for income ceilings and regulated resale.",
+  "url": "https://lux-guide.github.io/#fiche/logement_abordable",
+  "sources": [
+   {
+    "title": "Logement.lu, certificat d'éligibilité",
+    "url": "https://logement.public.lu/fr/proprietaire/obtenir-aide-achat-construction/certificat-eligibilite-logabo.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "logement_abordable-1",
+    "text": "Public developers market housing at a price below the market level. Access requires an eligibility certificate issued by the Guichet unique des aides au logement (Single Housing Aid Desk), valid for the year of issuance and at least six months. Two conditions must be met simultaneously, with the first eliminating more candidates than the second."
+   },
+   {
+    "type": "h",
+    "text": "Not Owning Any Other Property"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-2",
+    "text": "Neither you nor anyone living under your roof may be owner, usufructuary, emphyteutic tenant, or holder of a right of habitation over more than one-third undivided share of another property, in Luxembourg or abroad, no later than nine months after the deed. An apartment kept in the country of origin, even if rented out, is sufficient to disqualify the entire household."
+   },
+   {
+    "type": "h",
+    "text": "Staying Below the Income Ceiling"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-3",
+    "text": "The income considered is that of the entire household community, meaning all people living in the dwelling. Only the income of dependent children is excluded. Since 2026, the calculation includes all income, including those not taxed in Luxembourg."
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-4",
+    "text": "A counterintuitive consequence should be noted: hosting an elderly parent does not raise the ceiling, which only increases with dependent children, but adds their income to the calculation and includes their potential real estate assets in the non-ownership condition."
+   },
+   {
+    "type": "h",
+    "text": "Resale at a Regulated Price"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-5",
+    "text": "These properties come with a buy-back right registered in the authentic deed. The resale price corresponds to the price paid, reindexed according to the construction cost index and reduced by wear and tear. In other words, no market capital gain can be expected: it is housing to live in, not an investment."
+   },
+   {
+    "type": "table",
+    "id": "logement_abordable-6",
+    "title": "Annual Net Household Income Ceilings",
+    "columns": [
+     "Household Composition",
+     "Affordable Sale",
+     "Moderately Priced Sale"
+    ],
+    "rows": [
+     [
+      "1 adult without dependent child",
+      "61,422.07 €",
+      "72,339.21 €"
+     ],
+     [
+      "Household without dependent children",
+      "92,137.91 €",
+      "108,518.41 €"
+     ],
+     [
+      "With 1 dependent child",
+      "116,708.66 €",
+      "137,448.34 €"
+     ],
+     [
+      "With 2 dependent children",
+      "141,279.41 €",
+      "166,387.86 €"
+     ],
+     [
+      "With 3 dependent children",
+      "165,850.16 €",
+      "195,327.38 €"
+     ],
+     [
+      "Per additional child",
+      "+ 18,425.66 €",
+      "+ 21,699.84 €"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-7",
+    "text": "Property owned abroad disqualifies the entire household. The ceiling only increases with dependent children. Resale at a regulated price: for living in, not for investment."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "logement_abordable-8",
+    "q": "Who is eligible for a moderately priced home?",
+    "a": "You must remain below a net household income ceiling and not own any other property, in Luxembourg or abroad, no later than nine months after the deed. This last condition also applies to all persons living with you."
+   }
+  ]
+ },
+ {
+  "id": "impots_classes",
+  "title": "Tax Classes",
+  "category": "Impots",
+  "summary": "Only three classes: 1, 1a, and 2; there is no class 1b. With the same income, the difference between class 1 and class 2 often exceeds a thousand euros per month.",
+  "url": "https://lux-guide.github.io/#fiche/impots_classes",
+  "sources": [
+   {
+    "title": "Administration des contributions directes, barèmes",
+    "url": "https://impotsdirects.public.lu/fr/baremes.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "impots_classes-1",
+    "text": "Only three tax classes coexist, and only three: there is no class 1b, nor subclasses like 1a/1 or 2/2, which disappeared in 2008. Your tax class has a greater impact on your net income than many salary negotiations."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-2",
+    "text": "Class 2 applies to spouses and partners who are taxed collectively, with a splitting mechanism that significantly reduces the tax burden. It also applies, during a transitional period of three years, to people whose marriage has been dissolved by death, divorce, or separation."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-3",
+    "text": "Class 1a covers three situations, provided you do not fall under class 2: widowed persons, those who benefit from a child tax relief, and people who have reached their 64th birthday at the beginning of the tax year. It applies an intermediate scale, whose advantage decreases as income increases. Be aware of the second case: it is not limited to single parents; it covers any person who benefits from the child tax relief for a child in their household."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-4",
+    "text": "Class 1 is the residual category: it includes people who belong neither to class 1a nor class 2. It is the class for most singles without children and for a couple whose spouse still resides abroad."
+   },
+   {
+    "type": "h",
+    "text": "When Both Spouses Work"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-5",
+    "text": "This is the most common case and also the most misunderstood. A household taxed collectively receives only one main withholding slip, usually assigned to the higher and more stable salary. The second income is subject to an additional slip, on which the administration applies a fixed rate: 15% for class 2, 21% for class 1a, and 33% for class 1."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-6",
+    "text": "Key point: this rate depends only on the tax class, never on the actual household income. Your employer therefore does not know your spouse’s salary and cannot deduct it from the rate communicated. They simply apply what the administration transmits, now electronically."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-7",
+    "text": "Direct consequence: this flat rate often under-withholds tax, sometimes by several thousand euros per year. The difference appears at the joint tax declaration, which recalculates the actual tax owed on the combined income."
+   },
+   {
+    "type": "h",
+    "text": "Do Not Rely Solely on Adjustment"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-8",
+    "text": "Two mechanisms avoid waiting for the declaration. If the withholding is too high, you can request a reduced rate: the request must be made in writing, attaching the pay slips of both spouses for the last three months. Conversely, if withholding is insufficient, know that a higher rate cannot be applied on an additional slip: the supplementary amount then takes the form of quarterly advances set by the administration."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-9",
+    "text": "In other words, the first year is usually settled in one payment, then the system smooths out with advances. Anticipate this initial settlement; it is the most common unpleasant surprise for two-income households."
+   },
+   {
+    "type": "h",
+    "text": "The Common Case of the Non-Resident Spouse"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-10",
+    "text": "A couple where one member still resides abroad is by default assigned to class 1, which is considerably less favorable. The option for collective taxation exists and is worth examining with concrete figures: depending on the respective incomes, it may represent several thousand euros per year, either positively or negatively."
+   },
+   {
+    "type": "h",
+    "text": "Two Surprising Mechanisms"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-11",
+    "text": "In addition to the calculated tax, there is a contribution to the employment fund of 7%, increased to 9% above 150,000 euros of taxable income for classes 1 and 1a, or 300,000 euros for class 2. Additionally, foreign income exempt in Luxembourg is nevertheless taken into account to determine the rate applied to Luxembourg income; this is the global average rate, which often explains the difference between simulation and the first declaration."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-12",
+    "text": "Finally, request your tax withholding slip as soon as you arrive and make sure your employer has received it. Without this document, withholding is carried out at the maximum rate, and adjustment will only occur with the next declaration."
+   },
+   {
+    "type": "h",
+    "text": "Key Points to Remember"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-13",
+    "text": "Class 2 makes a big difference at high income. Request the withholding slip as soon as you arrive. Exempt foreign income still influences the rate."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-14",
+    "q": "How is tax withheld when both spouses work?",
+    "a": "No, and your employer cannot deduct it. The rate on the additional slip for the second salary depends only on the tax class: 15% for class 2, 21% for class 1a, 33% for class 1. It contains no information about household income."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-15",
+    "q": "Why does the tax declaration often result in an amount to pay?",
+    "a": "Because the flat rate applied to the second salary often under-withholds tax. The joint declaration recalculates the actual tax owed on the combined income. In subsequent years, the administration smooths out the difference with quarterly advances."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-16",
+    "q": "Is there a tax class 1b?",
+    "a": "No. There are only three classes: 1, 1a, and 2. Subclasses like 1a/1, 1a/2 or 2/3 disappeared in 2008 when the child tax relief ceased to act directly on the class."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-17",
+    "q": "Who falls under class 1a?",
+    "a": "Three situations, provided you do not fall under class 2: widowed persons, those who benefit from child tax relief, and those who have reached their 64th birthday at the beginning of the tax year. The second case is not limited to single parents."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-18",
+    "q": "Does divorce or bereavement immediately change tax class?",
+    "a": "No. A transitional period of three years keeps divorced, separated persons, or those whose marriage was dissolved by death in class 2. The switch to class 1 or 1a occurs afterwards, depending on the situation."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-19",
+    "q": "What is the difference between class 1 and class 2?",
+    "a": "Class 2 applies splitting to couples taxed collectively, which greatly reduces tax for equal income. At high income, the difference often exceeds a thousand euros per month. The simulator calculates this precisely."
+   }
+  ]
+ },
+ {
+  "id": "deductions",
+  "title": "What Reduces Your Tax",
+  "category": "Impots",
+  "summary": "Beyond the tax class, several items are deductible: commuting, insurance, home savings, childcare.",
+  "url": "https://lux-guide.github.io/#fiche/deductions",
+  "sources": [
+   {
+    "title": "ACD, index des matières",
+    "url": "https://impotsdirects.public.lu/fr/az.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "deductions-1",
+    "text": "The net amount received each month does not tell the whole story: part of the tax is adjusted during the declaration, and several items are deductible. Knowing them can change the result by several thousand euros for a household."
+   },
+   {
+    "type": "h",
+    "text": "Standard Allowances Applied Automatically"
+   },
+   {
+    "type": "p",
+    "id": "deductions-2",
+    "text": "A standard deduction for acquisition costs and a standard deduction for special expenses are automatically applied without proof. They represent a minimum amount: if your actual expenses exceed them, it is in your interest to declare the real amounts."
+   },
+   {
+    "type": "h",
+    "text": "Main Deductible Items"
+   },
+   {
+    "type": "p",
+    "id": "deductions-3",
+    "text": "Commuting expenses between home and workplace are deductible according to a flat-rate scale based on distance, which especially concerns those who live far from their employer. Interest on a loan for the main residence is subject to a specific regime, detailed in a dedicated information sheet."
+   },
+   {
+    "type": "p",
+    "id": "deductions-4",
+    "text": "Next are individual retirement insurance contributions, life insurance and liability insurance premiums, home savings contributions, and, for households with children, childcare expenses. Each of these items has its own ceiling, which sometimes depends on the household composition."
+   },
+   {
+    "type": "h",
+    "text": "Pensions Paid"
+   },
+   {
+    "type": "p",
+    "id": "deductions-5",
+    "text": "Alimony paid to an ex-spouse may be deducted under conditions, including when the beneficiary lives abroad. This is an item often overlooked by newcomers and often significant."
+   },
+   {
+    "type": "p",
+    "id": "deductions-6",
+    "text": "The amounts and ceilings of these provisions regularly change. The simulator in this guide deliberately focuses on withholding tax, which depends on class and scale; for optimizing the declaration, rely on the official administration sheets or get assistance the first year."
+   },
+   {
+    "type": "h",
+    "text": "To Remember"
+   },
+   {
+    "type": "p",
+    "id": "deductions-7",
+    "text": "The standard allowances are a minimum amount, not a maximum. Commuting, insurance, home savings, and childcare are deductible. Get assistance for the first declaration."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "deductions-8",
+    "q": "What is deductible from taxes?",
+    "a": "Beyond the standard allowances applied automatically: commuting expenses, insurance contributions, insurance premiums, home savings, childcare costs, and, under conditions, alimonies paid."
+   }
+  ]
+ },
+ {
+  "id": "conseil_fiscal",
+  "title": "Tax advice: levers for the first year",
+  "category": "Impots",
+  "summary": "Check the tax class and have it corrected, then activate deductions that bring benefits: 111bis raised to €4,500 in 2026, home savings.",
+  "url": "https://lux-guide.github.io/#fiche/conseil_fiscal",
+  "sources": [
+   {
+    "title": "Guichet.lu, faire modifier la fiche de retenue d'impôt",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/declaration-impot-decompte/fiche-retenue-impot/demander-modifier-fiche-impot.html"
+   },
+   {
+    "title": "Guichet.lu, contrat de prévoyance-vieillesse",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/declaration-impot-decompte/depenses-deductibles/contrat-prevoyance-resident.html"
+   },
+   {
+    "title": "Guichet.lu, cotisations d'épargne-logement",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/immobilier/depenses-deductibles/epargne-logement-resident.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "conseil_fiscal-1",
+    "text": "In the first year, a few simple decisions have more impact on the final tax than everything else. This sheet gathers the concrete levers in the order they occur."
+   },
+   {
+    "type": "h",
+    "text": "First, check the tax class and have it corrected if it is wrong"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-2",
+    "text": "The monthly withholding is based on the tax withholding certificate. For an employee starting work in Luxembourg, it is automatically issued by the administration after registration with the Joint Social Security Centre, done by the employer, within about thirty working days: no action is needed to obtain it. The step is to verify it. For a newcomer, the family situation is sometimes recorded incorrectly and the assigned class is then erroneous, which happens more often than one might think. Neither you nor your employer have the right to correct the certificate yourselves."
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-3",
+    "text": "The correction must be requested promptly at the RTS office competent for your municipality, preferably with form 164 R. As long as the certificate is not corrected, withholding is based on the wrong class; the difference is regularized afterward, but better not to advance this money for months on end."
+   },
+   {
+    "type": "h",
+    "text": "The old-age insurance contract, called 111bis"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-4",
+    "text": "The premiums paid into an old-age insurance contract are deductible up to 4,500 euros per year and per taxpayer since January 1, 2026, compared to 3,200 euros previously. The ceiling applies regardless of age, and each spouse who takes out their own contract has their own. In return, it is long-term savings: contract of at least ten years, savings refundable no earlier than at 60 years and no later than at 75 years, as capital, life annuity, or mixed. Early repayment is excluded, except for serious illness or disability."
+   },
+   {
+    "type": "h",
+    "text": "Home savings"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-5",
+    "text": "Contributions to a home savings contract are deductible up to 1,344 euros per year and per household member when the subscriber is between 18 and 41 years old, 672 euros thereafter. The ceiling increases for the spouse taxed jointly and for each child entitling to a tax reduction: for a family, this multiplies quickly. The savings must finance the personal dwelling; if used for something else before ten years, the deduction is reclaimed by corrective taxation."
+   },
+   {
+    "type": "h",
+    "text": "Other levers, already detailed in the guide"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-6",
+    "text": "Actual expenses beyond flat-rate amounts, insurance premiums, and childcare costs are detailed in the sheet \"What reduces your tax\". Interest on a loan for the main residence has its own sheet, and the regime for expatriates its own. For a couple where one works outside Luxembourg, the choice of taxation in class 2 deserves calculation, see the sheet on tax classes."
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-7",
+    "text": "The ceilings cited here are those published by Guichet.lu at the date this guide was checked. They evolve: before signing a contract for tax reasons, the official page prevails."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-8",
+    "text": "Wrong class: request correction at the RTS office, form 164 R, without delay. 111bis: up to €4,500 per year and per taxpayer since 2026, savings blocked until at least 60 years old. Home savings: €1,344 per person up to 41 years old, €672 thereafter, ceiling multiplied by household size."
+   },
+   {
+    "type": "h",
+    "text": "Frequently asked questions"
+   },
+   {
+    "type": "faq",
+    "id": "conseil_fiscal-9",
+    "q": "How do I have an incorrect tax class corrected?",
+    "a": "This happens, especially in the first year. Neither you nor the employer can correct the withholding certificate: request the correction at the RTS office competent for your municipality, preferably with form 164 R, without delay."
+   },
+   {
+    "type": "faq",
+    "id": "conseil_fiscal-10",
+    "q": "How do you obtain your tax withholding certificate?",
+    "a": "No, for an employee it is automatically issued by the administration after registration with social security, done by the employer, within about thirty working days. The useful step is to check the class listed as soon as you receive it."
+   }
+  ]
+ },
+ {
+  "id": "impatries",
+  "title": "Impatriate Regime",
+  "category": "Impots",
+  "summary": "Reserved for specific profiles: half of the gross salary exempted from tax, for a maximum of nine years.",
+  "url": "https://lux-guide.github.io/#fiche/impatries",
+  "sources": [
+   {
+    "title": "Administration des contributions directes",
+    "url": "https://impotsdirects.public.lu/fr/az.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "impatries-1",
+    "text": "This regime concerns only a minority of new arrivals, but its effect is significant for those eligible. Since January 1, 2025, it exempts 50% of the total annual gross salary from tax, up to a limit of 400,000 euros of eligible salary. The difference with the previous system is important: it is no longer a separate bonus, but an exemption applying to the entire salary."
+   },
+   {
+    "type": "h",
+    "text": "Who Can Benefit"
+   },
+   {
+    "type": "p",
+    "id": "impatries-2",
+    "text": "The regime is intended for people who have truly come from abroad to occupy the position. One must not have been a Luxembourg tax resident, nor have carried out any activity in Luxembourg, nor have lived less than 150 kilometers from the border during the previous five years. This last condition effectively excludes a large part of candidates coming from Lorraine, Wallonia or Saarland."
+   },
+   {
+    "type": "p",
+    "id": "impatries-3",
+    "text": "There is also a salary condition, with a fixed minimum annual gross salary of around 75,000 euros excluding benefits in kind. On the employer's side, the number of impatriates must not exceed 30% of the workforce, with some relaxations for recent companies."
+   },
+   {
+    "type": "h",
+    "text": "Two Often Forgotten Effects"
+   },
+   {
+    "type": "p",
+    "id": "impatries-4",
+    "text": "First effect: the exemption automatically increases your net income, which may push you over thresholds used elsewhere, notably for access to affordable housing or certain aids. A tax benefit can therefore close another door."
+   },
+   {
+    "type": "p",
+    "id": "impatries-5",
+    "text": "Second, more structural effect: the regime ends. It covers the year of the start of activity in Luxembourg plus the following eight years, i.e., a maximum of nine tax years. A mortgage over twenty-five or thirty years must therefore be based on the income after the regime, not only on today's income. This is the most costly mistake made by well-paid new arrivals."
+   },
+   {
+    "type": "p",
+    "id": "impatries-6",
+    "text": "Finally, the benefit is not automatic: it must be requested via the employer, who has reporting obligations. Check its application on your first pay slips."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "impatries-7",
+    "text": "Strict conditions, including living more than 150 km from the border during the past five years. Maximum of nine tax years, then expiry. Build any long-term credit based on income after the regime."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "impatries-8",
+    "q": "What is the impatriate regime?",
+    "a": "A tax exemption on half of the gross salary, for a maximum of nine years. Be careful, the conditions are strict: in particular, you must not have lived less than 150 km from the border during the previous five years."
+   },
+   {
+    "type": "faq",
+    "id": "impatries-9",
+    "q": "Does the impatriate regime depend on the tax class?",
+    "a": "Yes. The regime applies to the salary, not the tax class: it applies regardless of the tax class. The simulator comparison table shows the gain for all three classes, because a newly arrived single person most often falls under class 1 and that is where the regime most affects the net salary."
+   }
+  ]
+ },
+ {
+  "id": "interets",
+  "title": "Deducting Loan Interest",
+  "category": "Impots",
+  "summary": "The limit is multiplied by the number of household members, which makes a big difference for a family.",
+  "url": "https://lux-guide.github.io/#fiche/interets",
+  "sources": [
+   {
+    "title": "ACD, habitation personnelle du propriétaire",
+    "url": "https://impotsdirects.public.lu/fr/az/h/habit_pers.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "interets-1",
+    "text": "The interest on a loan financing the housing you occupy is deductible under the category of income from property rental. Since the 2024 tax year, the annual limit depends on the length of occupancy: the deduction is full in the year the rental value is fixed and the following year, then limited to 4,000 euros for four years, to 3,000 euros for the next five years, and 2,000 euros thereafter."
+   },
+   {
+    "type": "h",
+    "text": "The Decisive Factor: Household Composition"
+   },
+   {
+    "type": "p",
+    "id": "interets-2",
+    "text": "These amounts are often cited alone, which gives a false picture of the system. In reality, the limit is increased by its own amount for the spouse or partner taxed jointly, as well as for each child eligible for a tax reduction. For a couple with two children, the effective limit is therefore quadrupled: 16,000 euros per year, then 12,000, then 8,000."
+   },
+   {
+    "type": "p",
+    "id": "interets-3",
+    "text": "On an 800,000 euro loan at 4.3%, the first year's interest is about 34,000 euros. The first two years are fully covered, but from the third year, the limit cuts nearly half of the interest. It's worth calculating before committing."
+   },
+   {
+    "type": "p",
+    "id": "interets-4",
+    "text": "Two final limits: interest subsidies paid by the State reduce the deductible expense accordingly, and interest related to a secondary residence is not deductible."
+   },
+   {
+    "type": "table",
+    "id": "interets-5",
+    "title": "Annual Limit According to Household Composition",
+    "columns": [
+     "Period",
+     "1 person",
+     "Couple",
+     "Couple with 2 children"
+    ],
+    "rows": [
+     [
+      "Years 1 and 2",
+      "full",
+      "full",
+      "full"
+     ],
+     [
+      "Years 3 to 6",
+      "€4,000",
+      "€8,000",
+      "€16,000"
+     ],
+     [
+      "Years 7 to 11",
+      "€3,000",
+      "€6,000",
+      "€12,000"
+     ],
+     [
+      "Afterward",
+      "€2,000",
+      "€4,000",
+      "€8,000"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "Key Takeaways"
+   },
+   {
+    "type": "p",
+    "id": "interets-6",
+    "text": "The limit is multiplied by the number of household members. The first two years have no limit. Principal residence only."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "interets-7",
+    "q": "Are the interest payments on a mortgage loan deductible?",
+    "a": "Yes, for the main residence. The deduction is full for the first two years, then capped. Above all, the cap is multiplied by the number of household members, including spouse and children."
+   }
+  ]
+ },
+ {
+  "id": "independant",
+  "title": "Working as a self-employed person",
+  "category": "Travail",
+  "summary": "Declaration to the CCSS within eight days, possible exemption, and an establishment authorization to check before invoicing.",
+  "url": "https://lux-guide.github.io/#fiche/independant",
+  "sources": [
+   {
+    "title": "CCSS, s'affilier comme indépendant",
+    "url": "https://ccss.public.lu/fr/independants/commencer-arreter-activite/affilier.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "independant-1",
+    "text": "Starting a self-employed activity must be declared to the Joint Social Security Center (Centre commun de la sécurité sociale) within eight days, by means of the entry declaration for self-employed workers. When carried out alongside salaried employment, the activity is considered secondary: contributions are then calculated on the actual income, but with a minimum threshold set at one third of the minimum social wage."
+   },
+   {
+    "type": "h",
+    "text": "Exemption for insignificant income"
+   },
+   {
+    "type": "p",
+    "id": "independant-2",
+    "text": "If the income from the activity does not exceed this one third during the year, you can request an affiliation exemption. Two points require attention. First, it is never applied automatically: it must be explicitly requested using a form separate from the entry declaration. Secondly, it comes with a written trade-off: the exempt person is not covered against health, pension, accident, and dependency risks in relation to this activity. This has no consequence if you are otherwise employed, but should be considered otherwise."
+   },
+   {
+    "type": "p",
+    "id": "independant-3",
+    "text": "Also note that an affiliation exemption does not produce an affiliation number. If a client requires this number to pay you, the exemption is not the right option. Finally, if the tax administration later establishes an income above the threshold, affiliation becomes mandatory and retroactive."
+   },
+   {
+    "type": "h",
+    "text": "Establishment authorization, the classic oversight"
+   },
+   {
+    "type": "p",
+    "id": "independant-4",
+    "text": "Many activities, including consulting and training provided to third parties, require prior establishment authorization. Invoicing without it exposes you to penalties. Check this point before issuing any invoice, not after: it is the most frequent and time-consuming issue to regularize."
+   },
+   {
+    "type": "h",
+    "text": "Key points"
+   },
+   {
+    "type": "p",
+    "id": "independant-5",
+    "text": "Within eight days after starting the activity. The exemption must be requested on a second form. Check the establishment authorization before invoicing."
+   },
+   {
+    "type": "h",
+    "text": "Frequently asked questions"
+   },
+   {
+    "type": "faq",
+    "id": "independant-6",
+    "q": "Can a self-employed activity be carried out alongside salaried employment?",
+    "a": "Declare it to the CCSS within eight days. If the income remains below one third of the minimum social wage, explicitly request the exemption for insignificant income. Above all, check if your activity requires an establishment authorization."
+   }
+  ]
+ },
+ {
+  "id": "allocations",
+  "title": "Family Allowances",
+  "category": "Famille",
+  "summary": "Paid regardless of nationality, with an additional amount based on age and an automatic back-to-school allowance.",
+  "url": "https://lux-guide.github.io/#fiche/allocations",
+  "sources": [
+   {
+    "title": "Caisse pour l'avenir des enfants",
+    "url": "https://cae.public.lu/fr/allocations.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "allocations-1",
+    "text": "Family benefits are paid by the Caisse pour l'avenir des enfants (Fund for the Future of Children), and they are due for every child residing in Luxembourg, regardless of nationality. Residence is what matters, not the passport, making it one of the easiest aids to obtain for a newcomer."
+   },
+   {
+    "type": "p",
+    "id": "allocations-2",
+    "text": "The base amount is 315.04 euros per month per child, increased by 23.81 euros for children over six years old and by 59.44 euros for those over twelve years old, values applicable as of June 1, 2026. In addition, each year in August, there is a back-to-school allowance of 115 euros for a child over six and 235 euros for children over twelve, paid automatically without any application."
+   },
+   {
+    "type": "p",
+    "id": "allocations-3",
+    "text": "Only the initial application requires a procedure, with the fund, online via MyGuichet or by form. These amounts follow general indexation: they are increased at each index step, which explains why an amount read a year ago no longer corresponds."
+   },
+   {
+    "type": "table",
+    "id": "allocations-4",
+    "title": "Monthly Amounts Per Child as of June 1, 2026",
+    "columns": [
+     "Situation",
+     "Amount"
+    ],
+    "rows": [
+     [
+      "Base amount",
+      "315.04 €"
+     ],
+     [
+      "Supplement over 6 years",
+      "+ 23.81 €"
+     ],
+     [
+      "Supplement over 12 years",
+      "+ 59.44 €"
+     ],
+     [
+      "Back-to-school allowance, over 6 years",
+      "115 € in August"
+     ],
+     [
+      "Back-to-school allowance, over 12 years",
+      "235 € in August"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "allocations-5",
+    "text": "No nationality requirement, only residence counts. The back-to-school allowance is automatic. Amounts are increased at each index step."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "allocations-6",
+    "q": "What is the amount of family allowances?",
+    "a": "315.04 euros per month per child, plus 23.81 euros for children over six and 59.44 euros for those over twelve, amounts as of June 1, 2026. A back-to-school allowance of 115 or 235 euros is paid automatically in August."
+   }
+  ]
+ },
+ {
+  "id": "conges",
+  "title": "Holidays and Public Holidays",
+  "category": "Travail",
+  "summary": "Twenty-six working days of legal leave and eleven public holidays, often improved by collective agreements.",
+  "url": "https://lux-guide.github.io/#fiche/conges",
+  "sources": [
+   {
+    "title": "Inspection du travail et des mines",
+    "url": "https://itm.public.lu/fr/conditions-travail/conges.html"
+   },
+   {
+    "title": "Guichet.lu, congé légal annuel",
+    "url": "https://guichet.public.lu/fr/citoyens/travail/conges-jours-feries/annuel/conge-legal-annuel.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "conges-1",
+    "text": "The legal annual leave amounts to twenty-six working days per year. The right arises after three uninterrupted months of work with the same employer, then is accrued by twelfths. A week of leave counts for a maximum of five working days, even if your working hours are spread over more days. In addition, there are eleven legal public holidays, which the employer can partially replace with local or professional holidays, provided the total is respected."
+   },
+   {
+    "type": "p",
+    "id": "conges-2",
+    "text": "These figures are only a minimum. Collective agreements, very common in finance and services, often grant several additional days. Before comparing two job offers, check the applicable collective agreement: the difference can be as much as a whole week."
+   },
+   {
+    "type": "h",
+    "text": "Trial Period and Notice"
+   },
+   {
+    "type": "p",
+    "id": "conges-3",
+    "text": "The trial period must be stipulated in writing at the latest at the start of employment, and its duration determines the applicable notice period during this time. At the end of the contract, keep in mind a point often overlooked: leave remains owed during the notice period, even if you are exempted from work, and the employer cannot force you to take your leave at that time."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "conges-4",
+    "text": "At least twenty-six working days and eleven public holidays. Right opens after three months with the same employer. Check the collective agreement before comparing two offers."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "conges-5",
+    "q": "How many days of leave does the law provide?",
+    "a": "Twenty-six working days of legal leave per year, plus eleven public holidays. The right opens after three months with the same employer, and collective agreements often grant more."
+   }
+  ]
+ },
+ {
+  "id": "emploi",
+  "title": "Looking for a Job",
+  "category": "Travail",
+  "summary": "A very international market, where vacancies must be declared to the public employment service.",
+  "url": "https://lux-guide.github.io/#fiche/emploi",
+  "sources": [
+   {
+    "title": "ADEM",
+    "url": "https://adem.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "emploi-1",
+    "text": "The Agence pour le développement de l'emploi is the public employment service. Registering there opens access to support, training, and, under certain conditions, compensation. One detail alone justifies registration: employers are legally required to declare their vacancies to it, making it a source of job offers that do not always circulate elsewhere."
+   },
+   {
+    "type": "p",
+    "id": "emploi-2",
+    "text": "The market is deeply international. A considerable portion of employees come each day from France, Belgium, and Germany, which increases competition for each position, but also explains why multilingualism is a selection criterion in its own right. The most active sectors remain finance, technology, logistics, health, and European institutions."
+   },
+   {
+    "type": "p",
+    "id": "emploi-3",
+    "text": "Regarding applications, the local presentation is simple, in French or English depending on the employer. Explicitly state your level in each language, rather than an imprecise list: this is the information the recruiter looks for first, and its absence is often read as an admission."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "emploi-4",
+    "text": "Registration with the ADEM opens access to offers not published elsewhere. Specify the level achieved in each language. Competition is extended to the border regions."
+   }
+  ]
+ },
+ {
+  "id": "banque",
+  "title": "Banking and Payment Methods",
+  "category": "Finances",
+  "summary": "A local account is not mandatory, but it unlocks the rental guarantee and digital identity.",
+  "url": "https://lux-guide.github.io/#fiche/banque",
+  "sources": [
+   {
+    "title": "luxembourg.public.lu, vivre au Luxembourg",
+    "url": "https://luxembourg.public.lu/fr/vivre.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "banque-1",
+    "text": "A European IBAN is legally sufficient to receive a salary and pay rent: refusing an account from another SEPA zone country is prohibited. In practice, two obstacles still justify opening a Luxembourg account. The first is the rental guarantee, which foreign banks generally do not issue. The second is LuxTrust, often offered to clients of a local bank and paying directly."
+   },
+   {
+    "type": "p",
+    "id": "banque-2",
+    "text": "Opening an account requires an identity document, proof of address, and, most often, the work contract. The main retail players are Spuerkeess, the State bank, as well as BIL, BGL BNP Paribas, ING, and Banque Raiffeisen."
+   },
+   {
+    "type": "p",
+    "id": "banque-3",
+    "text": "Compare the fee schedules before choosing, as they vary significantly from one institution to another. Look not only at account maintenance fees but also at the cost of cards, transfer fees, and conditions for fee waivers linked to salary domiciliation."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "banque-4",
+    "text": "A foreign SEPA IBAN cannot be refused for salary payments. A local account is practically necessary for the rental guarantee. Open the account before signing a lease."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "banque-5",
+    "q": "Can a foreign bank account be used to receive the salary?",
+    "a": "Yes, an IBAN from the SEPA zone cannot be refused for salary payment or rent. In practice, two reasons still encourage opening a local account: the rental guarantee, which foreign banks generally do not issue, and LuxTrust (a digital identity service), often offered to clients of a Luxembourg bank."
+   },
+   {
+    "type": "faq",
+    "id": "banque-6",
+    "q": "What is needed to open a bank account?",
+    "a": "An identity document, proof of address, and usually the work contract. Compare fee schedules before choosing: they vary significantly between institutions, regarding account maintenance fees as well as card and transfer costs."
+   },
+   {
+    "type": "faq",
+    "id": "banque-7",
+    "q": "Is a Luxembourg bank account mandatory?",
+    "a": "Not legally: a European IBAN is enough for salary and rent. In practice, a local account remains necessary to issue a rental guarantee, and it often makes LuxTrust free."
+   }
+  ]
+ },
+ {
+  "id": "cout_vie",
+  "title": "Salary, cost of living and indexation",
+  "category": "Finances",
+  "summary": "High salaries, expensive housing, and an automatic indexation that does not exist elsewhere.",
+  "url": "https://lux-guide.github.io/#fiche/cout_vie",
+  "sources": [
+   {
+    "title": "STATEC",
+    "url": "https://statistiques.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "cout_vie-1",
+    "text": "Luxembourg applies automatic wage indexation: as soon as the price index increases by 2.5%, a wage bracket is triggered and all salaries, pensions and social minima are adjusted accordingly. This mechanism, rare in Europe, explains why the legal amounts change several times within the same period and why a value found online quickly becomes outdated."
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-2",
+    "text": "The social minimum wage is among the highest in Europe and serves as a reference for many social and fiscal ceilings, starting with the contribution ceiling, set at five times its amount."
+   },
+   {
+    "type": "h",
+    "text": "Where the salary advantage goes"
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-3",
+    "text": "Housing absorbs the main part of the wage difference with neighboring regions, which explains why a significant proportion of employees choose to live on the other side of the border. In return, public transport is free and household taxation, especially in tax class 2, often proves more favorable than in neighboring countries."
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-4",
+    "text": "One last point to check before signing: the thirteenth month salary is common but is not a legal obligation. It depends on the contract or the collective agreement. Therefore, compare offers based on the total annual gross salary and not on the monthly salary displayed."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-5",
+    "text": "Automatic indexation at each 2.5% inflation. Contribution ceiling: five times the social minimum wage. Compare offers on the annual gross salary, including the thirteenth month."
+   },
+   {
+    "type": "h",
+    "text": "Frequently asked questions"
+   },
+   {
+    "type": "faq",
+    "id": "cout_vie-6",
+    "q": "Does the Luxembourg salary offset the cost of living?",
+    "a": "Compare based on the annual gross salary, including the thirteenth month, and include housing costs from the start of the calculation: it is housing that absorbs most of the wage difference with neighboring regions. The social minimum wage is among the highest in Europe and serves as a reference for many social and fiscal ceilings."
+   },
+   {
+    "type": "faq",
+    "id": "cout_vie-7",
+    "q": "What is wage indexation?",
+    "a": "An automatic mechanism: as soon as the price index increases by 2.5%, a wage bracket is triggered and salaries, pensions and minima are adjusted accordingly."
+   }
+  ]
+ },
+ {
+  "id": "ecole",
+  "title": "Enrolling Your Children in School",
+  "category": "Famille",
+  "summary": "Three possible paths, and a choice that should be prepared well before moving.",
+  "url": "https://lux-guide.github.io/#fiche/ecole",
+  "sources": [
+   {
+    "title": "Ministère de l'Éducation nationale",
+    "url": "https://men.public.lu/fr.html"
+   },
+   {
+    "title": "Écoles européennes",
+    "url": "https://www.eursc.eu/fr"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "ecole-1",
+    "text": "This is the longest and most constrained process of settling in, and the one you should start first, even before looking for housing. Three very different paths coexist."
+   },
+   {
+    "type": "h",
+    "text": "Public School, Free and Multilingual"
+   },
+   {
+    "type": "p",
+    "id": "ecole-2",
+    "text": "Luxembourg public education teaches literacy in Luxembourgish, then introduces German, then French. It integrates young children who have recently arrived very well. However, for later arrivals, the language barrier is real and must be assessed frankly, depending on the child's age and background."
+   },
+   {
+    "type": "h",
+    "text": "European and International Schools"
+   },
+   {
+    "type": "p",
+    "id": "ecole-3",
+    "text": "European schools offer courses by language section leading to the European Baccalaureate. Priority access is given to children of European institution staff; other families are admitted depending on available places and pay a tuition fee (minerval). There are also public international schools, free of charge, with English, French, or German sections, which are in high demand. Finally, private institutions offer the International Baccalaureate or foreign curricula, with significant fees."
+   },
+   {
+    "type": "h",
+    "text": "Plan Ahead and Bring the Right Documents"
+   },
+   {
+    "type": "p",
+    "id": "ecole-4",
+    "text": "Registration at the local municipality usually precedes school enrollment, and places in the most sought-after language sections sometimes fill up a year in advance. Check the availability of the language section desired, not just the school. Before leaving your country, request from your current school a certificate of withdrawal (certificat de radiation) as well as the last years' report cards: these are almost always required and much harder to obtain once you have left. The school year starts at the beginning of September."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "ecole-5",
+    "text": "Start with the school, even before the housing. Check the language section, not just the establishment. Obtain the certificate of withdrawal and report cards before leaving."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "ecole-6",
+    "q": "How is school enrollment done?",
+    "a": "Begin there, even before housing. Registration at the municipality precedes school enrollment, and the most sought-after sections sometimes fill up a year in advance."
+   }
+  ]
+ },
+ {
+  "id": "garde",
+  "title": "Childcare and chèque-service",
+  "category": "Famille",
+  "summary": "State aid that significantly reduces the cost of childcare, on condition that the facility is approved.",
+  "url": "https://lux-guide.github.io/#fiche/garde",
+  "sources": [
+   {
+    "title": "Guichet.lu, famille et éducation",
+    "url": "https://guichet.public.lu/fr/citoyens/famille-education.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "garde-1",
+    "text": "The chèque-service accueil (childcare service voucher) subsidizes hours of care with approved providers. It is obtained from the municipality of residence, upon presentation of the residence certificate and identity documents, which requires that the arrival declaration has already been made. The hourly rate you pay depends on household income and the child’s rank among siblings, and certain supervision hours as well as meals are covered within defined limits."
+   },
+   {
+    "type": "p",
+    "id": "garde-2",
+    "text": "One key point stands out above all: check that the facility is indeed approved. Not all private daycares are approved, and the cost difference between an approved place and a non-approved place amounts to hundreds of euros per month."
+   },
+   {
+    "type": "p",
+    "id": "garde-3",
+    "text": "Finally, register on waiting lists very early, without waiting for a permanent residence or a confirmed arrival date. In the most sought-after municipalities, waiting times are counted in months, sometimes even longer for very young children."
+   },
+   {
+    "type": "h",
+    "text": "Key points to remember"
+   },
+   {
+    "type": "p",
+    "id": "garde-4",
+    "text": "Go through the municipality after registration. Check approval before signing. Register on waiting lists as early as possible."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "garde-5",
+    "q": "Is there aid available for daycare?",
+    "a": "Yes, the chèque-service accueil, which can be obtained from the municipality after registration. It subsidizes childcare hours with approved providers, with your co-payment depending on income."
+   }
+  ]
+ },
+ {
+  "id": "sante_pratique",
+  "title": "Everyday Healthcare",
+  "category": "Sante",
+  "summary": "Free choice of doctor, no mandatory care pathway, and a single number for emergencies.",
+  "url": "https://lux-guide.github.io/#fiche/sante_pratique",
+  "sources": [
+   {
+    "title": "Portail Santé",
+    "url": "https://sante.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "sante_pratique-1",
+    "text": "The emergency number is 112, free of charge and valid throughout the country from any phone. For routine care, the system is quite different from the French model: there is no mandatory primary care doctor nor imposed care pathway. You are free to choose your doctor and can see a specialist directly without going through a general practitioner."
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-2",
+    "text": "This freedom has a practical downside: finding a doctor who accepts new patients can take time when you arrive. Start looking without waiting until you need one, especially for a pediatrician or gynecologist."
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-3",
+    "text": "For evenings and weekends, on-call pharmacies and medical centers ensure continuity of care, with lists published online and updated daily. Identify the one serving your municipality as soon as you settle in."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-4",
+    "text": "112 for emergencies, free of charge. No mandatory care pathway, direct access to specialists. Look for a doctor as soon as you arrive, before you need one."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "sante_pratique-5",
+    "q": "Which emergency number should I call?",
+    "a": "112, free of charge and valid everywhere. For routine care, there is no mandatory primary doctor nor care pathway: you see the specialist of your choice directly."
+   }
+  ]
+ },
+ {
+  "id": "permis",
+  "title": "Driving License",
+  "category": "Mobilite",
+  "summary": "A European license remains valid indefinitely. Registration is optional, free, and cannot be done online.",
+  "url": "https://lux-guide.github.io/#fiche/permis",
+  "sources": [
+   {
+    "title": "Guichet.lu, permis étranger",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/permis-conduire/international/transcription-enregistement-permis.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "permis-1",
+    "text": "A license issued by a country of the European Economic Area remains valid in Luxembourg, with no time limit. Neither exchange nor registration is mandatory, contrary to a common misconception among newcomers."
+   },
+   {
+    "type": "p",
+    "id": "permis-2",
+    "text": "Registration with the Société nationale de circulation automobile (National Road Traffic Society) is still practically useful: in case of loss or theft, the administration is aware of your license and its details, and can quickly issue a duplicate. Without this registration, you must go back to the issuing authority, often abroad, which can take weeks."
+   },
+   {
+    "type": "p",
+    "id": "permis-3",
+    "text": "Applications must be submitted by postal mail to the driving license service, or in person at the Guichet.lu reception. They cannot be made by email or via MyGuichet: the only driving license procedure available online is booking an appointment for the theoretical exam. Include the transcription, exchange, or registration form, a clear double-sided photocopy of the license, and a copy of a valid ID. Registration is free, while exchanging for a Luxembourg license is paid."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "permis-4",
+    "text": "European license valid indefinitely, no obligation. Free registration by mail or at the counter. Mainly useful to quickly obtain a duplicate."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "permis-5",
+    "q": "Does a European driving license remain valid?",
+    "a": "Yes, indefinitely and with no obligation to exchange or register. Registration remains useful to quickly obtain a duplicate in case of loss or theft."
+   }
+  ]
+ },
+ {
+  "id": "vehicule",
+  "title": "Registering Your Vehicle",
+  "category": "Mobilite",
+  "summary": "A required sequence, a document to obtain at each step, and six months after the arrival declaration to complete everything.",
+  "url": "https://lux-guide.github.io/#fiche/vehicule",
+  "sources": [
+   {
+    "title": "Guichet.lu, immatriculer un véhicule lors d'un déménagement",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/vehicule-demenagement-transfrontalier.html"
+   },
+   {
+    "title": "SNCA, véhicule d'occasion immatriculé dans l'Union",
+    "url": "https://snca.public.lu/fr/vehicules/immatriculation/immatriculer-vehicule-occasion/vehicule-immatricule-eu.html"
+   },
+   {
+    "title": "Douanes, émission de la vignette 705",
+    "url": "https://douanes.public.lu/fr/vehicules/Emission_vignette_705.html"
+   },
+   {
+    "title": "Douanes, questions sur les véhicules",
+    "url": "https://douanes.public.lu/fr/support/faq/faq-vehicules.html"
+   },
+   {
+    "title": "Guichet.lu, acheter un véhicule immatriculé au Luxembourg",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/acheter-vehicule-luxembourg.html"
+   },
+   {
+    "title": "Guichet.lu, conformité du véhicule",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/conformite-vehicule.html"
+   },
+   {
+    "title": "Guichet.lu, contrôle technique",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/controle-technique-pneumatiques/controle-technique-obligatoire-vehicule.html"
+   },
+   {
+    "title": "SNCT, prix du contrôle technique",
+    "url": "https://snct.lu/prix/"
+   },
+   {
+    "title": "France, déclarer la cession d'un véhicule",
+    "url": "https://immatriculation.ants.gouv.fr/"
+   },
+   {
+    "title": "France, certificat de cession Cerfa 15776",
+    "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15776.do"
+   },
+   {
+    "title": "Belgique, exporter un véhicule",
+    "url": "https://mobilit.belgium.be/fr/route/immatriculer-et-radier/exporter-un-vehicule-plaque-x"
+   },
+   {
+    "title": "Belgique, Car-Pass",
+    "url": "https://www.car-pass.be/fr"
+   },
+   {
+    "title": "Allemagne, plaque d'exportation, service de Berlin",
+    "url": "https://service.berlin.de/dienstleistung/121476/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "vehicule-1",
+    "text": "Deadline — 6 months — after the arrival declaration at the municipality"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-2",
+    "text": "Cost — €50 — chancery fee, excluding plates and inspection"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-3",
+    "text": "Submission — SNCA — by appointment, plates already made"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-4",
+    "text": "My vehicle comes from a European Union country — The complete procedure below."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-5",
+    "text": "I buy a used vehicle already registered in Luxembourg — The seller gives you the two parts of the registration certificate and a sales document-invoice. You insure the vehicle."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-6",
+    "text": "I buy new from a dealer — They register it for you. You just need insurance."
+   },
+   {
+    "type": "h",
+    "text": "Steps"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-7",
+    "text": "In this order: each step provides a document that the next requires, and the SNCA refuses incomplete files."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-8",
+    "text": "Reserve a number, then make the plates — Number from the current series or a personalized number. Once confirmed, have the plates made by an authorized manufacturer in Luxembourg: they are required at the appointment. — Online at MyGuichet.lu — Or nplaques@snca.lu, (+352) 26 62 64 00 — No extra charge for a current series number, €200 for a personalized number — Number reservation, then plates"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-9",
+    "text": "Insure the vehicle — Civil liability insurance with a company authorized in Luxembourg. The insurance certificate is part of the file: insurance must be obtained before submission. — The insurance certificate — Before canceling the old policy, request the information statement — assurance_auto"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-10",
+    "text": "Pay the chancery fee — At the counter of the Administration of Registration, Domains, and VAT, or by bank transfer. The stamp is also sold at the SNCA with €3 in fees. — Transfer to AED-GUICHET UNIQUE-TIMBRES — IBAN LU76 0019 5955 4404 7000, BIC BCEELULL — €50 — The stamp, or proof of transfer with name, surname, reason, registration number, and chassis number"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-11",
+    "text": "Obtain sticker 705 at Customs — Required for any vehicle coming from another Member State, even when no VAT is due. The vehicle must be presented if it is older than six months and has more than 6,000 km. — Luxembourg-Howald Customs Center, 1 rue in Bouler (Croix de Gasperich), L-1350 Luxembourg, (+352) 281 84 499 — North Customs Center, 2 rue Clairefontaine, L-9290 Diekirch, (+352) 81 70 45 1 — Monday to Friday, 8 a.m. to 5 p.m. — The vehicle, the foreign registration certificate, the invoice or sales contract, an ID — Sticker 705"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-12",
+    "text": "Submit the file to the SNCA — By appointment, at the center of your choice. Check beforehand that the technical inspection meets Luxembourg standards. — Sandweiler, 11 rue de Luxembourg, L-5230 Sandweiler — Esch-sur-Alzette, 22 rue Jos Kieffer, L-4149 Esch-sur-Alzette — Fridhaff, 8 rue Fridhaff, L-9379 Diekirch — (+352) 26 62 64 00, Monday to Friday, 7:30 a.m. to 4:30 p.m. — The complete file and the plates — See the checklist — The registration certificate in your name, and a provisional tax sticker valid for 30 days"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-13",
+    "text": "Afterward, Customs will bill you the vehicle tax. The provisional sticker covers the waiting period."
+   },
+   {
+    "type": "h",
+    "text": "File"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-14",
+    "text": "Form \"Application for a registration certificate,\" signed — Available on Guichet.lu"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-15",
+    "text": "Chancery fee — The stamp, or proof of transfer."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-16",
+    "text": "Valid insurance certificate"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-17",
+    "text": "Sticker 705"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-18",
+    "text": "Complete foreign registration certificate — In the EU, it usually has two parts."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-19",
+    "text": "European Certificate of Conformity — If the first registration date is after February 1, 2016."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-20",
+    "text": "Valid technical inspection certificate — If the vehicle is subject to it. See Special cases."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-21",
+    "text": "Invoice or sales contract — Without it, you are registered as holder, not owner."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-22",
+    "text": "Identity document — If someone submits on your behalf: a mandate and a copy of your ID."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-23",
+    "text": "Luxembourg plates — Manufactured before the appointment."
+   },
+   {
+    "type": "h",
+    "text": "Seller"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-24",
+    "text": "The Luxembourg procedure is the same everywhere. What changes is the documents the seller gives you and what they must do at home. If they forget, your file is incomplete, or they keep receiving fines."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-25",
+    "text": "France — The seller gives you — The crossed-out registration card: \"sold on,\" date, time, signature — The transfer certificate, Cerfa 15776, in two copies — The transfer code — A certificate of administrative status less than 15 days old — The technical inspection less than 6 months old if the vehicle is older than 4 years — They do at home — Declare the transfer online within 15 days, which generates the transfer code"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-26",
+    "text": "Belgium — The seller gives you — The two parts of the registration certificate — The certificate of conformity — The Car-Pass, mandatory, showing the mileage — The technical inspection for sale purposes — They do at home — Keep their plate, which is personal, and deregister it with the DIV"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-27",
+    "text": "Germany — The seller gives you — The two parts of the certificate: Zulassungsbescheinigung Teil I and Teil II — The report of the last technical inspection — They do at home — Return the German plates — Request an export plate to drive here without prior deregistration"
+   },
+   {
+    "type": "h",
+    "text": "Costs"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-28",
+    "text": "Item — Amount — Chancery fee — €50 — Stamp bought at SNCA — + €3 — Current series number — no extra charge — Personalized number — + €200 — Transfer of a personalized number — + €24 — Plates — manufacturer’s price — Technical inspection in Luxembourg, if necessary — €98.50 — VAT — only if the vehicle is new for tax purposes — Vehicle tax — depending on the vehicle, invoiced by Customs"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-29",
+    "text": "Technical inspection in Luxembourg: €77 for a car, plus €21.50 administrative fees for an imported vehicle (SNCT, price as of May 2, 2025)."
+   },
+   {
+    "type": "h",
+    "text": "Special cases"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-30",
+    "text": "The certificate is not in the seller’s name — A sales deed signed by both parties, dated, including the chassis number, establishes ownership. A professional invoice does as well. — If the certificate shows a name different from the seller’s, request the complete chain: the deed between the person registered and your seller, then yours. — Without any of these documents, SNCA registers you as holder, and the certificate states you are not identified as owner. You can drive, insure, and pay taxes, but resale and disputes become complicated."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-31",
+    "text": "Technical inspection done abroad — A certificate issued in another Member State or Switzerland remains valid, but for the duration prescribed in Luxembourg: first inspection 4 years after first registration, the next 2 years later, then annually. — Example: a car older than six years inspected in France more than a year ago must undergo inspection again. — It is easiest to redo it in the country of origin before submission. A Luxembourg center can refuse a vehicle still bearing foreign plates: a refusal was reported in September 2026."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-32",
+    "text": "Driving before registration — With plates showing your future number and civil liability insurance, you can drive the vehicle to the registration place and to a garage or technical inspection."
+   },
+   {
+    "type": "h",
+    "text": "To remember"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-33",
+    "text": "Order: number and plates, insurance, chancery fee, sticker 705, SNCA. Plates are made before the SNCA appointment. Sticker 705 is required even without VAT due. Without a sales deed, you are the holder, not the owner. Six months after the arrival declaration."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-34",
+    "q": "The registration card is not in the seller’s name, is that a problem?",
+    "a": "No, and a sales deed resolves this. A contract signed by both parties, dated, identifying the vehicle by its chassis number, establishes ownership; when the certificate is in a third party’s name, request the full chain of deeds from the registered person to your seller to you. Without proof, SNCA registers you as holder, but the certificate notes the holder is not identified as owner."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-35",
+    "q": "Do I need to redo the technical inspection when arriving in Luxembourg?",
+    "a": "Not if the foreign inspection is still valid. A certificate issued in another Member State or Switzerland remains valid but its duration becomes that of Luxembourg law: first inspection 4 years after first registration, second 2 years later, then annually."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-36",
+    "q": "What is the deadline to register a vehicle I bring with me?",
+    "a": "Within six months of the arrival declaration at the municipality. Before going to SNCA, you need the registration number, Luxembourg insurance, and the Customs sticker 705, which is required even when no VAT is due."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-37",
+    "q": "How do you register an imported vehicle?",
+    "a": "It depends on your case. Import: technical inspection, insurance, then registration. Buying from a professional: they handle it. Buying between private individuals: the process is yours, with both parts of the certificate."
+   }
+  ]
+ },
+ {
+  "id": "assurance_auto",
+  "title": "Insuring Your Vehicle",
+  "category": "Mobilite",
+  "summary": "Mandatory before driving, and the information statement from your previous insurer is valuable.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_auto",
+  "sources": [
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   },
+   {
+    "title": "Directive européenne 2021/2118, relevé de sinistres",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021L2118"
+   },
+   {
+    "title": "France, contenu du relevé d'information, annexe à l'article A121-1",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051155686"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_auto-1",
+    "text": "Liability insurance is mandatory for every registered vehicle, and the certificate is required at the time of registration. It must therefore be taken out before, not after."
+   },
+   {
+    "type": "h",
+    "text": "The information statement is a right, not a favor"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-2",
+    "text": "The factor that most affects the premium is your claims history, and the document that reports this is called relevé d'information in France, attestation de sinistralité in Belgium, and certificat bonus-malus in Luxembourg. It is the same document. Since the 2021 European directive on motor insurance, your insurer must provide it within fifteen days of your request, and it covers at least the past five years. An insurer from another Member State must take it into account just as it would a national document: the directive prohibits treating a driver differently based on nationality or previous country of residence."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-3",
+    "text": "Request it before cancelling. After cancellation it is still due, but you often need to follow up."
+   },
+   {
+    "type": "h",
+    "text": "If you have never had a contract in your name"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-4",
+    "text": "This applies to those who drove a vehicle owned by a parent, spouse, or stepparent without being listed on the contract. The statement belongs to the policyholder and only names the drivers designated on the contract: your relative’s does not mention you, and their no-claims bonus does not transfer to you."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-5",
+    "text": "Practically, you start at the neutral level of the Luxembourg scale, which runs from -3 to 22, where level 11 corresponds to the base premium. This is not a barrier: no statement is required to insure or register a vehicle; it only affects the price. Two things are worth trying: ask your relative’s insurer for a written certificate confirming you drove the vehicle without claims, which a Luxembourg insurer may choose to accept or not, and have yourself added as a designated driver on a contract while you drive without having one in your own name."
+   },
+   {
+    "type": "h",
+    "text": "What distinguishes insurance contracts"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-6",
+    "text": "Beyond mandatory liability coverage, so-called all-risk policies also cover damage to your own vehicle. Useful comparisons focus on specific points: the amount of deductibles, whether roadside assistance is provided from home or only beyond a certain distance, availability of a replacement vehicle, and coverage for glass breakage."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-7",
+    "text": "As with home insurance, these elements appear in the general conditions and not the quotation. Request the standardized information document, general conditions, and special conditions: two contracts at the same price can differ significantly in terms of deductible and assistance, which are precisely what you will notice on the day of a claim."
+   },
+   {
+    "type": "h",
+    "text": "Key points to remember"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-8",
+    "text": "Insurance is mandatory before registration. The information statement must be requested within fifteen days; it is a right. Without a contract in your name, you are placed at the neutral level, and nothing is blocked. Compare deductibles and assistance, not just the premium."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_auto-9",
+    "q": "Is an information statement required to insure a car in Luxembourg?",
+    "a": "It is not required, neither for insurance nor for registration: it only affects the price. If you have had a contract in your name, request it—it is your right: your insurer must provide it within fifteen days and it covers at least five years. Without a contract in your name, there is nothing to request, and you start at the neutral level of the Luxembourg scale, level 11 on a scale from -3 to 22."
+   },
+   {
+    "type": "faq",
+    "id": "assurance_auto-10",
+    "q": "I drove a relative’s car without being listed on the contract; does that count?",
+    "a": "Not automatically. The statement belongs to the policyholder and only lists drivers designated on the contract: your relative’s does not mention you. You can ask their insurer for a written certificate confirming you drove without claims, but no Luxembourg insurer is obliged to accept it. Being listed as a designated driver avoids this issue going forward."
+   }
+  ]
+ },
+ {
+  "id": "transport",
+  "title": "Free Public Transport",
+  "category": "Mobilite",
+  "summary": "Completely free since February 2020, but service varies greatly depending on the municipality.",
+  "url": "https://lux-guide.github.io/#fiche/transport",
+  "sources": [
+   {
+    "title": "mobiliteit.lu",
+    "url": "https://www.mobiliteit.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "transport-1",
+    "text": "Since February 29, 2020, public transport has been free for everyone throughout the entire territory: buses, trams, and second-class trains, without needing to purchase a ticket. Free access also applies to cross-border workers, but only on the Luxembourg portion of their journey. Only first-class train travel remains charged."
+   },
+   {
+    "type": "p",
+    "id": "transport-2",
+    "text": "This free transport has a greater impact on a family budget than one might think, and can legitimately call into question the purchase of a second car. However, service must keep up: the network is dense around the capital and along railway lines, but significantly sparser in rural areas, where a car often remains essential."
+   },
+   {
+    "type": "p",
+    "id": "transport-3",
+    "text": "Before choosing a municipality, therefore, check the actual schedules from the nearest stop, at the times that concern you, and not just the existence of a line. Free park-and-ride facilities on the outskirts also allow for combining car and train travel, and help avoid expensive and limited city parking."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "transport-4",
+    "text": "Free everywhere, without needing a ticket. Check the real service before choosing a municipality. Can call into question the purchase of a second car."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "transport-5",
+    "q": "Is public transport really free?",
+    "a": "Yes, since February 2020, throughout the entire territory and for everyone, including cross-border workers on the Luxembourg portion of their journey. Only first-class train travel remains charged."
+   }
+  ]
+ },
+ {
+  "id": "telecom",
+  "title": "Internet and Telephony",
+  "category": "Quotidien",
+  "summary": "Highly variable delays depending on the season, a provisional solution to request, and free mediation.",
+  "url": "https://lux-guide.github.io/#fiche/telecom",
+  "sources": [
+   {
+    "title": "ILR, service de médiation",
+    "url": "https://www.ilr.lu/mediation/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "telecom-1",
+    "text": "The main fixed operators are POST, the historic operator, as well as Orange, Tango, Eltrona, and Luxembourg Online. Fiber covers the main localities, but eligibility must be checked at the exact address, not just the municipality: in old buildings, the connection may stop at the foot of the building."
+   },
+   {
+    "type": "h",
+    "text": "Delays Depending on the Season"
+   },
+   {
+    "type": "p",
+    "id": "telecom-2",
+    "text": "Expect two to three weeks between subscription and installation during normal periods. This average can be misleading: the months with high mobility, typically from June to September, the time for moves and new school years, considerably lengthen delays, sometimes beyond one month. The end of the year and holiday periods have the same effect for another reason: the number of available technicians decreases."
+   },
+   {
+    "type": "p",
+    "id": "telecom-3",
+    "text": "If your home is not yet connected, a two-visit intervention may be necessary, one to bring the fiber and another to install the equipment. Each visit requires your presence, and a missed appointment can be charged. Have the date and time slot confirmed in writing, and immediately report any access particularities, such as a street number or intercom name different from that on the contract."
+   },
+   {
+    "type": "h",
+    "text": "Don’t Stay Without Connection"
+   },
+   {
+    "type": "p",
+    "id": "telecom-4",
+    "text": "Always request a provisional 4G solution: several operators lend one during the waiting period, but rarely without it being asked for. This reflex prevents starting teleworking without a connection."
+   },
+   {
+    "type": "h",
+    "text": "Choosing Your Offer"
+   },
+   {
+    "type": "p",
+    "id": "telecom-5",
+    "text": "Offers often combine internet, fixed line, and television, with a commitment of twelve to twenty-four months. A simple rule should be remembered: upgrading is possible at any time, downgrading rarely. So start small, you can adjust later. Provide an ID, the lease or deed of ownership, and your bank details."
+   },
+   {
+    "type": "h",
+    "text": "In Case of Dispute"
+   },
+   {
+    "type": "p",
+    "id": "telecom-6",
+    "text": "The mediation service of the Institut luxembourgeois de régulation is competent for disputes with an operator, and its referral is free. One condition is mandatory: you must have sent a written complaint to the operator and received no response, or an unsatisfactory response. A phone call, even if followed by an explicit refusal, does not fulfill this condition. Write, and keep proof."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "telecom-7",
+    "text": "Two to three weeks, but more from June to September. Request provisional 4G; it is not offered automatically. In case of dispute: written complaint first, then free mediation."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "telecom-8",
+    "q": "How long does it take to get internet?",
+    "a": "Two to three weeks during normal periods, but significantly longer from June to September, the moving season. Request a provisional 4G solution: several operators lend one, rarely without being asked."
+   }
+  ]
+ },
+ {
+  "id": "langues",
+  "title": "Languages and Integration",
+  "category": "Quotidien",
+  "summary": "Three administrative languages, English widely used at work, and subsidized courses.",
+  "url": "https://lux-guide.github.io/#fiche/langues",
+  "sources": [
+   {
+    "title": "Institut national des langues",
+    "url": "https://www.inll.lu/"
+   },
+   {
+    "title": "Formation des adultes",
+    "url": "https://men.public.lu/fr/themes-transversaux/formation-adultes.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "langues-1",
+    "text": "The country operates with three administrative languages. French dominates in administration and shops, German in the press and primary school, Luxembourgish in social and community life. English has become established in the financial and European sectors, to the point that it is possible to work there long-term without speaking the other three."
+   },
+   {
+    "type": "p",
+    "id": "langues-2",
+    "text": "However, this flexibility has a clear limit: Luxembourgish becomes indispensable for naturalization, as well as for many public service jobs or positions involving contact with the public. If either is part of your plans, start early, as the required level takes time to achieve."
+   },
+   {
+    "type": "p",
+    "id": "langues-3",
+    "text": "The Institut national des langues offers reduced-price courses in all four languages, with evening sessions adapted for employees. Municipalities and the adult education service also organize courses, often cheaper and closer to home, with the advantage of meeting other neighborhood residents."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "langues-4",
+    "text": "Three administrative languages, plus English at work. Luxembourgish is a condition for naturalization. Subsidized courses at the INL and in municipalities."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "langues-5",
+    "q": "Is Luxembourgish necessary for work?",
+    "a": "It depends on the position. Three languages are administrative: French, German, and Luxembourgish, and English is widespread in international companies. However, public service jobs often require all three of the country's languages."
+   },
+   {
+    "type": "faq",
+    "id": "langues-6",
+    "q": "Should I learn Luxembourgish?",
+    "a": "Not for work: English and French suffice in many sectors. However, yes for naturalization and many public service jobs. Subsidized courses are available."
+   }
+  ]
+ },
+ {
+  "id": "nationalite",
+  "title": "Luxembourg Nationality",
+  "category": "Administratif",
+  "summary": "Dual nationality is allowed, but naturalization requires long-term residence and a language test.",
+  "url": "https://lux-guide.github.io/#fiche/nationalite",
+  "sources": [
+   {
+    "title": "Guichet.lu, nationalité luxembourgeoise",
+    "url": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "nationalite-1",
+    "text": "Luxembourg allows dual nationality: becoming Luxembourgish does not require renouncing your original nationality. This is a significant difference from several neighboring countries, and it explains the interest of many long-term residents in the procedure."
+   },
+   {
+    "type": "p",
+    "id": "nationalite-2",
+    "text": "The main route is naturalization. It requires a minimum period of regular residence, passing a spoken Luxembourgish test, and attending civic instruction courses. Other routes exist depending on family circumstances, especially for children born in Luxembourg or people with a Luxembourgish ancestor."
+   },
+   {
+    "type": "p",
+    "id": "nationalite-3",
+    "text": "The exact conditions, particularly the required length of residence and expected language level, have changed several times in recent years. Check them on the official information sheet before starting anything, and especially plan ahead for the language part, which is by far the longest to prepare."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "nationalite-4",
+    "text": "Dual nationality allowed. Spoken Luxembourgish test and civic instruction required. Check the required residence duration as it changes."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "nationalite-5",
+    "q": "How long does it take to obtain nationality?",
+    "a": "Naturalization requires long-term residence and a language test. The language part is the longest to prepare, so it is worth starting courses in the first year if you are interested in naturalization, rather than waiting until it becomes mandatory."
+   },
+   {
+    "type": "faq",
+    "id": "nationalite-6",
+    "q": "Is it possible to have dual nationality?",
+    "a": "Yes, Luxembourg allows it. Naturalization requires long-term residence, a spoken Luxembourgish test, and civic instruction courses. Plan ahead for the language part."
+   }
+  ]
+ },
+ {
+  "id": "dechets",
+  "title": "Waste and Community Life",
+  "category": "Quotidien",
+  "summary": "The municipality provides the bins, publishes the schedule, and grants access to the recycling center.",
+  "url": "https://lux-guide.github.io/#fiche/dechets",
+  "sources": [
+   {
+    "title": "Portail de l'environnement",
+    "url": "https://environnement.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "dechets-1",
+    "text": "Waste management is entirely the responsibility of the municipality: it provides the bins, publishes the collection schedule, and grants access to the recycling center. Sorting is detailed, with separate collection days for household waste, paper and cardboard, glass, packaging, organic waste, and green waste."
+   },
+   {
+    "type": "p",
+    "id": "dechets-2",
+    "text": "Bulky items and special waste can be dropped off at the recycling center, often upon presentation of proof of residence. Locate its location and opening hours as soon as you move in: this is precisely when people produce the most cardboard and dispose of furniture."
+   },
+   {
+    "type": "p",
+    "id": "dechets-3",
+    "text": "More broadly, the municipality is the point of contact for many everyday services: certificates, residential parking permits, school and extracurricular registrations, chèque-service accueil (a service voucher). Obtaining the collection schedule and identifying your municipal contact are among the steps that prevent many frustrations during the first weeks."
+   },
+   {
+    "type": "h",
+    "text": "Key Points"
+   },
+   {
+    "type": "p",
+    "id": "dechets-4",
+    "text": "Everything goes through the municipality. Locate the recycling center as soon as you move in. Obtain the collection schedule."
+   },
+   {
+    "type": "h",
+    "text": "Frequently Asked Questions"
+   },
+   {
+    "type": "faq",
+    "id": "dechets-5",
+    "q": "How does waste sorting work?",
+    "a": "Everything goes through the municipality: it provides the bins, publishes the collection schedule, and grants access to the recycling center. Obtain this schedule as soon as you move in."
+   }
+  ]
+ }
+]

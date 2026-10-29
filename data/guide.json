@@ -1,0 +1,2835 @@
+[
+ {
+  "id": "arrivee",
+  "title": "Les huit premiers jours",
+  "category": "Administratif",
+  "summary": "Tout part de la commune. Sans cette déclaration, ni matricule, ni sécurité sociale, ni banque, ni école.",
+  "url": "https://lux-guide.github.io/#fiche/arrivee",
+  "sources": [
+   {
+    "title": "Guichet.lu, citoyenneté et démarches d'arrivée",
+    "url": "https://guichet.public.lu/fr/citoyens/citoyennete.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "arrivee-1",
+    "text": "La première démarche après l'emménagement n'est ni la banque ni l'employeur : c'est la commune. Vous disposez de huit jours pour déclarer votre arrivée au bureau de la population, souvent appelé Biergercenter. Cette formalité, qui prend une vingtaine de minutes, conditionne littéralement tout le reste de votre installation."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-2",
+    "text": "Elle produit en effet deux documents que l'on vous redemandera partout : le certificat de résidence et, pour les ressortissants de l'Union restant plus de trois mois, l'attestation d'enregistrement."
+   },
+   {
+    "type": "h",
+    "text": "Trois délais, pas un seul"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-3",
+    "text": "Le délai de huit jours vaut pour la déclaration d'arrivée au bureau de la population. Deux autres délais s'y ajoutent, et les manquer coûte plus cher que le premier."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-4",
+    "text": "Un ressortissant de pays tiers dispose non pas de huit jours mais de trois jours à compter de son arrivée sur le territoire pour cette même déclaration. Le délai est court, et il court dès l'entrée, pas depuis l'emménagement."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-5",
+    "text": "Ensuite, la déclaration d'arrivée ne suffit pas à elle seule. Un citoyen de l'Union qui reste plus de trois mois doit remplir, dans les quatre-vingt-dix jours de son arrivée, une déclaration d'enregistrement auprès de la même commune. Un ressortissant de pays tiers doit, lui, introduire une demande de titre de séjour dans les trois mois de son arrivée. Ce sont deux formalités distinctes de la première, avec leur propre échéance."
+   },
+   {
+    "type": "h",
+    "text": "Le matricule, clé de tout le reste"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-6",
+    "text": "Le certificat porte votre numéro d'identification national, communément appelé matricule. Ce numéro à treize chiffres suit une logique simple : votre date de naissance inversée, au format année, mois, jour, suivie de cinq chiffres. Il vous servira d'identifiant auprès de la sécurité sociale, de l'administration fiscale, de votre banque, de l'école et de la commune elle-même. Notez-le dès que vous l'avez, vous le taperez souvent."
+   },
+   {
+    "type": "h",
+    "text": "Ce qu'il faut apporter"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-7",
+    "text": "Prévoyez les originaux des pièces d'identité de chaque membre du foyer, le bail signé ou l'acte d'achat, et, selon votre situation familiale, les actes de naissance et de mariage. Certaines communes exigent des documents récents ou traduits : vérifiez leurs demandes avant de vous déplacer, cela évite un second rendez-vous."
+   },
+   {
+    "type": "p",
+    "id": "arrivee-8",
+    "text": "La plupart des communes fonctionnent désormais sur rendez-vous, à prendre en ligne. En période de rentrée, les créneaux partent vite, ce qui peut suffire à faire dépasser le délai de huit jours. Réservez avant même d'avoir les clés."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "arrivee-9",
+    "text": "Huit jours après l'emménagement, pas après la signature du bail. Trois jours seulement pour un ressortissant de pays tiers. Le matricule vient de la commune, pas de la sécurité sociale. Prendre rendez-vous en ligne avant l'arrivée."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-10",
+    "q": "Les délais d'arrivée sont-ils les mêmes hors Union européenne ?",
+    "a": "Non, le délai est plus court. La déclaration d'arrivée à la commune doit être faite dans les trois jours de votre entrée sur le territoire, et non dans les huit jours. Vous devez ensuite introduire une demande de titre de séjour dans les trois mois de votre arrivée."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-11",
+    "q": "La déclaration à la commune suffit-elle ?",
+    "a": "Non, une seconde formalité suit. Un citoyen de l'Union qui reste plus de trois mois doit remplir une déclaration d'enregistrement auprès de la commune dans les quatre-vingt-dix jours de son arrivée. Un ressortissant de pays tiers doit demander son titre de séjour dans les trois mois. Ce sont des démarches distinctes de la déclaration d'arrivée, avec leur propre échéance."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-12",
+    "q": "Dans quel délai faut-il se déclarer à la commune ?",
+    "a": "Dans les huit jours suivant l'emménagement. Cette déclaration produit le certificat de résidence et le matricule, indispensables à toute la suite. Prenez rendez-vous en ligne avant même d'avoir les clés."
+   },
+   {
+    "type": "faq",
+    "id": "arrivee-13",
+    "q": "Comment obtient-on le matricule ?",
+    "a": "Il est attribué lors de l'enregistrement à la commune et figure sur le certificat de résidence, sous la mention numéro d'identification. Il compte treize chiffres : votre date de naissance inversée, suivie de cinq chiffres."
+   }
+  ]
+ },
+ {
+  "id": "matricule",
+  "title": "Sécurité sociale et remboursements",
+  "category": "Sante",
+  "summary": "L'affiliation est automatique pour un salarié. Le système fonctionne par avance de frais.",
+  "url": "https://lux-guide.github.io/#fiche/matricule",
+  "sources": [
+   {
+    "title": "Centre commun de la sécurité sociale",
+    "url": "https://ccss.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "matricule-1",
+    "text": "Une fois le matricule attribué, l'affiliation à la sécurité sociale se fait sans démarche de votre part si vous êtes salarié : c'est l'employeur qui déclare votre entrée au Centre commun de la sécurité sociale. Votre carte arrive ensuite par courrier, et sera demandée chez le médecin comme en pharmacie. Les travailleurs indépendants, eux, doivent déclarer eux-mêmes leur activité, dans un délai de huit jours."
+   },
+   {
+    "type": "h",
+    "text": "Payer d'abord, être remboursé ensuite"
+   },
+   {
+    "type": "p",
+    "id": "matricule-2",
+    "text": "Le principe surprend souvent les nouveaux arrivants : vous réglez la consultation intégralement, puis la Caisse nationale de santé vous rembourse, généralement entre 80 et 88 % du tarif conventionné. Ce remboursement suppose que la caisse dispose de vos coordonnées bancaires, communiquées lors de la première demande. Tout changement de compte doit ensuite être signalé par écrit, en mentionnant votre matricule."
+   },
+   {
+    "type": "p",
+    "id": "matricule-3",
+    "text": "Concrètement, prévoyez une petite trésorerie les premières semaines, le temps que le circuit s'amorce. Une famille qui enchaîne les visites médicales à l'arrivée peut avancer plusieurs centaines d'euros avant le premier remboursement."
+   },
+   {
+    "type": "h",
+    "text": "Faut-il une complémentaire ?"
+   },
+   {
+    "type": "p",
+    "id": "matricule-4",
+    "text": "La couverture obligatoire laisse un reste à charge sur l'hospitalisation en chambre individuelle, les soins dentaires lourds et l'optique. Une assurance complémentaire privée est donc courante, proposée par les assureurs locaux comme par certaines mutuelles. Comparez les plafonds annuels plutôt que les seules cotisations : c'est là que les contrats se différencient réellement."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "matricule-5",
+    "text": "Salarié : rien à faire, l'employeur s'en charge. Indépendant : déclaration au CCSS sous huit jours. Prévoir la trésorerie de l'avance de frais."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "matricule-6",
+    "q": "Qui déclare l'entrée à la sécurité sociale ?",
+    "a": "Non si vous êtes salarié : c'est l'employeur qui déclare votre entrée au Centre commun de la sécurité sociale, sans démarche de votre part. Votre carte arrive ensuite par courrier. Les travailleurs indépendants, eux, déclarent leur activité eux-mêmes, dans un délai de huit jours."
+   }
+  ]
+ },
+ {
+  "id": "assurance_sante",
+  "title": "La complémentaire santé",
+  "category": "Sante",
+  "summary": "Facultative, mais elle couvre précisément ce que la caisse laisse de côté : chambre seule, dentaire et optique.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_sante",
+  "sources": [
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   },
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_sante-1",
+    "text": "L'assurance maladie obligatoire couvre l'essentiel des soins, mais laisse un reste à charge concentré sur trois postes : l'hospitalisation en chambre individuelle, les soins dentaires lourds et l'optique. C'est précisément ce que vient couvrir une complémentaire privée, proposée par les assureurs locaux comme par des mutuelles."
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-2",
+    "text": "Elle n'a rien d'obligatoire, et son utilité dépend de votre situation. Une personne jeune et sans besoin dentaire particulier peut s'en passer plusieurs années. Une famille avec des enfants à appareiller, ou toute personne attachée à la chambre seule en cas d'hospitalisation, l'amortit rapidement."
+   },
+   {
+    "type": "h",
+    "text": "Le délai de carence, le point à vérifier en premier"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-3",
+    "text": "La plupart des contrats prévoient un délai de carence, c'est-à-dire une période initiale pendant laquelle certaines garanties ne jouent pas encore, souvent plusieurs mois pour le dentaire et parfois davantage pour l'orthodontie. Souscrire à l'arrivée, avant d'en avoir besoin, évite de découvrir cette clause au mauvais moment. Certains contrats prévoient également des questionnaires médicaux ou des exclusions pour les affections antérieures : lisez cette partie avant de signer."
+   },
+   {
+    "type": "h",
+    "text": "Comparer sur les plafonds, pas sur la cotisation"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-4",
+    "text": "Deux contrats affichant la même cotisation mensuelle peuvent différer du simple au double sur ce qu'ils remboursent. Regardez le plafond annuel par poste, en particulier pour le dentaire et l'optique, le taux de remboursement de la chambre seule et sa durée maximale, et l'existence d'un plafond global tous postes confondus."
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-5",
+    "text": "Vérifiez également si le contrat couvre les soins reçus à l'étranger. C'est loin d'être anecdotique pour une famille récemment installée, qui continue souvent de consulter dans son pays d'origine les premières années."
+   },
+   {
+    "type": "h",
+    "text": "Une particularité à connaître"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-6",
+    "text": "Contrairement aux assurances habitation ou automobile, les complémentaires santé ne sont pas couvertes par le document d'information standardisé européen. Vous ne disposerez donc pas de la fiche synthétique de deux pages qui facilite la comparaison ailleurs : il faut lire les conditions générales et le tableau de garanties."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "assurance_sante-7",
+    "text": "Souscrire à l'arrivée, à cause des délais de carence. Comparer les plafonds par poste, pas la cotisation. Vérifier la couverture des soins reçus à l'étranger."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_sante-8",
+    "q": "Une complémentaire santé est-elle utile ?",
+    "a": "Elle est facultative et couvre surtout la chambre seule, le dentaire et l'optique. Si vous en prenez une, souscrivez dès l'arrivée : la plupart des contrats prévoient des délais de carence de plusieurs mois sur ces postes."
+   }
+  ]
+ },
+ {
+  "id": "administration",
+  "title": "Comment fonctionne l'administration",
+  "category": "Administratif",
+  "summary": "Petit pays, circuits courts et interlocuteurs accessibles. Mais le courrier et la présence physique restent la règle pour certaines démarches.",
+  "url": "https://lux-guide.github.io/#fiche/administration",
+  "sources": [
+   {
+    "title": "Guichet.lu",
+    "url": "https://guichet.public.lu/fr/citoyens.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "administration-1",
+    "text": "L'administration luxembourgeoise surprend agréablement la plupart des nouveaux arrivants, en particulier ceux venus de grands pays. Le pays est petit, les circuits sont courts, et il n'est pas rare d'obtenir en une visite ce qui demanderait ailleurs plusieurs semaines et trois formulaires."
+   },
+   {
+    "type": "h",
+    "text": "Ce qui va vite"
+   },
+   {
+    "type": "p",
+    "id": "administration-2",
+    "text": "Beaucoup de documents sont délivrés immédiatement au guichet : certificat de résidence, attestation d'enregistrement, copies conformes. Les communes fonctionnent largement sur rendez-vous, ce qui évite les files d'attente, et les agents répondent en français, en allemand, souvent en anglais."
+   },
+   {
+    "type": "p",
+    "id": "administration-3",
+    "text": "Les délais de traitement des dossiers plus lourds restent raisonnables, et surtout, les administrations sont joignables. Un appel ou un courriel obtient généralement une réponse d'une personne identifiable, ce qui change la nature des échanges : en cas de difficulté, il est presque toujours possible de parler à quelqu'un qui connaît le dossier."
+   },
+   {
+    "type": "h",
+    "text": "Ce qui reste lent, ou papier"
+   },
+   {
+    "type": "p",
+    "id": "administration-4",
+    "text": "Tout n'est pas dématérialisé pour autant. Certaines démarches ne se traitent que par courrier postal ou en personne, l'enregistrement d'un permis de conduire étranger en étant l'exemple le plus courant. D'autres exigent un certificat obtenu ailleurs, ce qui crée des chaînes de dépendance : sans déclaration à la commune, pas de certificat de résidence, donc pas de chèque-service ni d'inscription scolaire."
+   },
+   {
+    "type": "p",
+    "id": "administration-5",
+    "text": "Ce sont ces enchaînements, plus que la lenteur des services, qui allongent une installation. D'où l'intérêt de connaître l'ordre des démarches, plutôt que de les entreprendre au fil de l'eau."
+   },
+   {
+    "type": "h",
+    "text": "Trois réflexes utiles"
+   },
+   {
+    "type": "p",
+    "id": "administration-6",
+    "text": "Prenez rendez-vous en ligne dès que c'est possible, en particulier en période de rentrée, où les créneaux se remplissent plusieurs semaines à l'avance. Vérifiez la liste des pièces sur le site de votre commune, car elle varie d'une commune à l'autre pour une même démarche. Et gardez une trace écrite de ce qui vous est dit oralement : la qualité de l'accueil ne remplace pas un document daté."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "administration-7",
+    "text": "Beaucoup de documents sont délivrés immédiatement au guichet. Ce sont les enchaînements de démarches qui allongent l'installation, pas les délais. Prendre rendez-vous tôt, et vérifier la liste des pièces auprès de sa commune."
+   }
+  ]
+ },
+ {
+  "id": "luxtrust",
+  "title": "LuxTrust et MyGuichet",
+  "category": "Administratif",
+  "summary": "L'identité numérique qui ouvre les démarches en ligne. Bien moins chère si vous passez par votre banque.",
+  "url": "https://lux-guide.github.io/#fiche/luxtrust",
+  "sources": [
+   {
+    "title": "MyGuichet.lu",
+    "url": "https://guichet.public.lu/fr/citoyens/support/aide/myguichet.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "luxtrust-1",
+    "text": "LuxTrust est l'identité numérique luxembourgeoise, l'équivalent fonctionnel d'une identité électronique nationale. Elle donne accès à MyGuichet.lu, où se traitent la plupart des démarches administratives, et sert également à valider les opérations bancaires en ligne. Sans elle, vous restez cantonné aux formulaires papier et aux guichets physiques."
+   },
+   {
+    "type": "h",
+    "text": "L'obtenir au meilleur prix"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-2",
+    "text": "Le chemin le moins coûteux passe par une banque luxembourgeoise, qui la fournit souvent gratuitement à ses clients. Sans compte local, il faut la commander en direct, et elle devient payante. C'est une raison de plus pour ouvrir le compte bancaire tôt : LuxTrust suit naturellement. La carte d'identité luxembourgeoise permet aussi de s'authentifier, à condition d'avoir activé ses certificats au moment de la demande de carte."
+   },
+   {
+    "type": "h",
+    "text": "Ce qui ne se fait pas en ligne"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-3",
+    "text": "Ne présumez pas que tout est dématérialisé. L'enregistrement d'un permis de conduire étranger, par exemple, se traite exclusivement par courrier ou au guichet. À l'inverse, l'intérêt du portail dépasse le simple dépôt de dossier : il permet de suivre l'avancement d'une démarche, ce qu'un envoi postal ne permet pas."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "luxtrust-4",
+    "text": "Ouvrir le compte bancaire d'abord, LuxTrust suit et coûte moins cher. Le portail permet de suivre l'état d'un dossier. Certaines démarches restent papier, dont le permis de conduire."
+   }
+  ]
+ },
+ {
+  "id": "recherche_logement",
+  "title": "Trouver un logement",
+  "category": "Logement",
+  "summary": "Un marché tendu, où un dossier complet et une garantie déjà disponible font la différence.",
+  "url": "https://lux-guide.github.io/#fiche/recherche_logement",
+  "sources": [
+   {
+    "title": "luxembourg.public.lu, se loger",
+    "url": "https://luxembourg.public.lu/fr/vivre.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "recherche_logement-1",
+    "text": "Le marché locatif est tendu, en particulier dans la capitale et sa première couronne. Les biens intéressants partent en quelques jours, et le candidat retenu n'est pas toujours celui qui paie le plus : c'est souvent celui dont le dossier est complet et immédiatement exploitable."
+   },
+   {
+    "type": "h",
+    "text": "Préparer le dossier avant de visiter"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-2",
+    "text": "Constituez à l'avance un dossier unique : pièces d'identité, contrat de travail ou promesse d'embauche, trois derniers bulletins de salaire, et coordonnées bancaires. Ajoutez, si vous l'avez déjà, la confirmation que votre banque peut émettre la garantie locative. C'est précisément le point qui bloque les candidats étrangers, et celui qui vous distinguera."
+   },
+   {
+    "type": "h",
+    "text": "Où chercher"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-3",
+    "text": "Les portails d'annonces généralistes concentrent l'essentiel de l'offre, mais une partie du marché circule par les agences, par les groupes d'expatriés et par le bouche-à-oreille des employeurs. Les grandes entreprises et les institutions disposent souvent d'un service ou d'un prestataire d'accompagnement : demandez-le, c'est fréquemment inclus dans le package d'embauche."
+   },
+   {
+    "type": "h",
+    "text": "Élargir au-delà de la capitale"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-4",
+    "text": "Le prix baisse nettement dès que l'on s'éloigne de Luxembourg-ville, mais la variable décisive n'est pas la distance : c'est la desserte. Une commune située à vingt kilomètres sur un axe ferroviaire peut être plus rapide d'accès qu'une commune à dix kilomètres mal reliée. Vérifiez les horaires réels depuis l'arrêt le plus proche, aux heures qui vous concernent, avant de vous décider."
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-5",
+    "text": "Anticipez enfin l'enchaînement des délais : ouverture du compte bancaire, puis garantie, puis signature, puis état des lieux. Entre la première visite et la remise des clés, comptez rarement moins de trois à quatre semaines."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "recherche_logement-6",
+    "text": "Dossier complet prêt avant la première visite. La garantie bancaire est le point bloquant des candidats étrangers. Juger une commune sur sa desserte, pas sur sa distance."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "recherche_logement-7",
+    "q": "Comment se cherche un logement au Luxembourg ?",
+    "a": "En préparant le dossier complet avant la première visite, et surtout en ayant déjà la capacité d'émettre une garantie bancaire. C'est ce point, plus que le loyer proposé, qui départage les candidats."
+   }
+  ]
+ },
+ {
+  "id": "choisir_commune",
+  "title": "Choisir sa commune",
+  "category": "Logement",
+  "summary": "Le bon critère n'est pas la distance, mais votre mode de déplacement et les trajets que vous ferez tous les jours.",
+  "url": "https://lux-guide.github.io/#fiche/choisir_commune",
+  "sources": [
+   {
+    "title": "mobiliteit.lu, horaires et itinéraires",
+    "url": "https://www.mobiliteit.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "choisir_commune-1",
+    "text": "Beaucoup de nouveaux arrivants choisissent leur commune sur une carte, en traçant un rayon autour du lieu de travail. C'est le meilleur moyen de se tromper : deux communes situées à la même distance peuvent offrir des quotidiens radicalement différents selon la desserte et selon les trajets réellement effectués chaque jour."
+   },
+   {
+    "type": "h",
+    "text": "Première question : voiture ou transports ?"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-2",
+    "text": "Si vous vous déplacez en voiture, la distance pèse peu et vous pouvez élargir largement la zone de recherche, ce qui fait baisser le loyer de façon significative. Regardez alors le temps de trajet aux heures de pointe, et non le kilométrage : les axes vers la capitale saturent, et vingt kilomètres peuvent prendre quarante-cinq minutes le matin. Vérifiez aussi le stationnement, à la fois au logement et sur le lieu de travail, souvent cher et contingenté."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-3",
+    "text": "Si vous comptez sur les transports publics, la logique s'inverse totalement. La gratuité ne sert à rien si aucune ligne ne passe. Ouvrez les horaires réels depuis l'arrêt le plus proche du logement visité, aux heures qui vous concernent, y compris le soir et le week-end. Une commune desservie toutes les dix minutes en semaine peut n'avoir qu'un bus par heure le samedi."
+   },
+   {
+    "type": "h",
+    "text": "Deuxième question : les trajets contraints"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-4",
+    "text": "Le trajet domicile-travail est rarement le plus contraignant pour une famille. Celui qui structure vraiment les journées, c'est l'école, et surtout la garde, parce qu'il a lieu deux fois par jour à heure fixe. Si les enfants sont scolarisés dans un établissement précis, une école européenne ou une section linguistique donnée, cherchez le logement autour de cette école, pas autour du bureau."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-5",
+    "text": "Faites le test concrètement, avant de signer : simulez une journée complète, dépose à l'école, trajet vers le travail, retour, récupération à la garde. Si l'enchaînement ne tient pas sur le papier, il ne tiendra pas en pratique."
+   },
+   {
+    "type": "h",
+    "text": "Les critères qu'on oublie"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-6",
+    "text": "Repérez la distance à pied jusqu'à l'arrêt de bus ou à la gare, et pas seulement leur existence : dix minutes de marche sous la pluie deux fois par jour changent l'expérience. Vérifiez la présence d'un parking relais si vous combinez voiture et train. Regardez enfin les commerces de proximité, la crèche communale et le centre de recyclage, ces trois adresses que vous fréquenterez plus que vous ne le pensez."
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-7",
+    "text": "Un dernier réflexe utile : la commune est aussi votre guichet administratif pour l'enregistrement, le chèque-service et les inscriptions scolaires. Ses horaires d'ouverture et sa réactivité font partie du confort de vie."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "choisir_commune-8",
+    "text": "En voiture, élargir la zone et regarder le temps aux heures de pointe. En transports, vérifier les horaires réels depuis l'arrêt le plus proche. Chercher autour de l'école, pas autour du bureau."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "choisir_commune-9",
+    "q": "Sur quels critères choisir sa commune ?",
+    "a": "Pas sur la distance. En voiture, élargissez la zone et regardez le temps aux heures de pointe. En transports, vérifiez les horaires réels depuis l'arrêt le plus proche, y compris le week-end. Et cherchez autour de l'école, pas autour du bureau."
+   }
+  ]
+ },
+ {
+  "id": "frontalier",
+  "title": "Habiter en France, en Belgique ou en Allemagne",
+  "category": "Logement",
+  "summary": "Près d'un salarié sur deux habite de l'autre côté. Le salaire reste imposé au Luxembourg, mais le télétravail, les soins et l'école suivent le pays de résidence.",
+  "url": "https://lux-guide.github.io/#fiche/frontalier",
+  "sources": [
+   {
+    "title": "Guichet.lu, travail et emploi",
+    "url": "https://guichet.public.lu/fr/citoyens/travail.html"
+   },
+   {
+    "title": "Administration des contributions directes, conventions fiscales",
+    "url": "https://impotsdirects.public.lu/fr/conventions.html"
+   },
+   {
+    "title": "Administration des contributions directes, télétravail",
+    "url": "https://impotsdirects.public.lu/fr/az/t/teletravail.html"
+   },
+   {
+    "title": "Centre commun de la sécurité sociale",
+    "url": "https://ccss.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse nationale de santé",
+    "url": "https://cns.public.lu/fr.html"
+   },
+   {
+    "title": "Caisse pour l'avenir des enfants, allocations",
+    "url": "https://cae.public.lu/fr/allocations.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "frontalier-1",
+    "text": "Travailler au Luxembourg n'oblige pas à y habiter, et c'est le choix de près d'un salarié sur deux : plus de deux cent mille personnes franchissent la frontière chaque matin, de France surtout, puis de Belgique et d'Allemagne. Le loyer est la première raison, et l'écart est réel. Mais le choix ne se résume pas à un loyer, parce que passer la frontière déplace une partie de votre vie administrative dans le pays de résidence."
+   },
+   {
+    "type": "h",
+    "text": "Votre salaire reste imposé au Luxembourg"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-2",
+    "text": "Les conventions fiscales signées par le Luxembourg avec la France, la Belgique et l'Allemagne posent toutes la même règle : un salaire est imposable là où le travail est exercé. Un frontalier est donc imposé au Luxembourg sur son salaire luxembourgeois, avec la même retenue à la source qu'un résident, et la même fiche de retenue."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-3",
+    "text": "Le pays de résidence n'impose pas ce salaire une seconde fois, mais il le prend en compte pour calculer le taux appliqué à vos autres revenus. C'est ce qu'on appelle le taux effectif : si vous avez un revenu locatif ou un salaire de conjoint dans votre pays de résidence, il sera imposé à un taux calculé comme si le salaire luxembourgeois s'y ajoutait. Vous devez donc déclarer ce salaire chez vous, même s'il n'y est pas imposé. Beaucoup de nouveaux frontaliers l'apprennent l'année suivante."
+   },
+   {
+    "type": "h",
+    "text": "Le télétravail a deux plafonds, et ce ne sont pas les mêmes"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-4",
+    "text": "C'est le point qui surprend le plus, parce que deux règles différentes s'appliquent en même temps à la même journée passée à la maison."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-5",
+    "text": "Le premier plafond est fiscal. Au-delà d'un certain nombre de jours travaillés hors du Luxembourg dans l'année, la part correspondante du salaire devient imposable dans le pays de résidence. Ce seuil est fixé par un accord entre les deux États, il a déjà été relevé plusieurs fois, et il n'est pas identique pour les trois pays voisins."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-6",
+    "text": "Le second plafond est social. Il décide de la caisse à laquelle vous cotisez, et il s'exprime en part du temps de travail, pas en jours. Un accord européen permet de rester affilié au Luxembourg tout en télétravaillant depuis chez soi, à condition de rester sous cette part et d'en faire la demande. La dépasser fait basculer toute votre sécurité sociale vers le pays de résidence : caisse maladie, allocations et retraite changent de pays en même temps."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-7",
+    "text": "Retenez surtout que les deux seuils sont indépendants. On peut respecter l'un et dépasser l'autre, et les conséquences n'ont rien à voir. Les chiffres en vigueur se vérifient auprès de l'Administration des contributions directes pour le fiscal, et du Centre commun de la sécurité sociale pour le social : ce guide ne les recopie pas, parce qu'ils changent plus vite que lui."
+   },
+   {
+    "type": "h",
+    "text": "Santé, allocations, école : le quotidien suit la résidence"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-8",
+    "text": "Vous cotisez à la sécurité sociale luxembourgeoise et vous êtes affilié à la Caisse nationale de santé. Pour vous soigner près de chez vous, vous demandez le document S1, qui vous inscrit auprès de la caisse de votre pays de résidence. Vous êtes alors couvert des deux côtés de la frontière, ce qui est utile le jour où un enfant est malade un mercredi."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-9",
+    "text": "Les allocations familiales sont versées par la Caisse pour l'avenir des enfants, au titre de votre activité au Luxembourg. Si votre pays de résidence verse lui aussi une prestation pour le même enfant, les deux ne s'additionnent pas librement : les règles européennes désignent qui paie en premier, l'autre pays complétant la différence s'il est plus généreux."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-10",
+    "text": "L'école relève entièrement du pays de résidence, avec son calendrier, ses langues et ses vacances. Une famille qui hésite entre les deux côtés compare donc deux systèmes scolaires, et pas seulement deux loyers. C'est souvent ce critère, et non le prix, qui tranche."
+   },
+   {
+    "type": "h",
+    "text": "Ce que la frontière change dans le budget"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-11",
+    "text": "Les niveaux de prix ne sont pas les mêmes des quatre côtés, et l'écart ne va pas toujours dans le même sens. Les indices d'Eurostat, publiés dans l'onglet Les communes en passant de l'autre côté de la frontière, montrent que l'alimentation, l'habillement et les télécommunications reviennent moins cher chez les voisins, tandis que l'énergie, les carburants et le tabac le sont au Luxembourg. Un ménage frontalier fait donc rarement tout du même côté."
+   },
+   {
+    "type": "p",
+    "id": "frontalier-12",
+    "text": "Le trajet, enfin, se mesure en temps et non en kilomètres. Les axes vers la capitale saturent le matin, et une commune à quarante kilomètres sur une ligne de train directe peut être plus proche, en temps, qu'une commune à vingt kilomètres sur l'autoroute. Les deux autres onglets de la famille Où habiter servent exactement à ce calcul."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "frontalier-13",
+    "text": "Le salaire reste imposé au Luxembourg, mais il se déclare aussi dans le pays de résidence, pour le taux appliqué au reste. Deux plafonds de télétravail coexistent, un fiscal en jours et un social en part du temps : ils n'ont ni la même valeur ni les mêmes conséquences. Le document S1 ouvre les soins dans le pays de résidence, tout en restant affilié à la caisse luxembourgeoise. L'école suit le pays de résidence, les allocations se coordonnent entre les deux."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-14",
+    "q": "Puis-je travailler au Luxembourg et habiter en France, en Belgique ou en Allemagne ?",
+    "a": "Oui, et près d'un salarié sur deux le fait. Le salaire reste imposé au Luxembourg, là où le travail est exercé, mais il doit aussi être déclaré dans le pays de résidence, où il sert à calculer le taux appliqué à vos autres revenus. La santé, les allocations et l'école suivent des règles de coordination entre les deux pays."
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-15",
+    "q": "Combien de jours de télétravail un frontalier peut-il faire ?",
+    "a": "Deux plafonds différents s'appliquent en même temps, et ils ne se ressemblent pas. Le plafond fiscal se compte en jours par an et décide de la part du salaire imposable dans le pays de résidence. Le plafond social se compte en part du temps de travail et décide de la caisse à laquelle vous cotisez. Les valeurs changent régulièrement : elles se vérifient auprès de l'Administration des contributions directes et du Centre commun de la sécurité sociale."
+   },
+   {
+    "type": "faq",
+    "id": "frontalier-16",
+    "q": "Qu'est-ce qui coûte moins cher de l'autre côté de la frontière ?",
+    "a": "D'après les indices de niveau des prix d'Eurostat, l'alimentation, l'habillement et les télécommunications reviennent moins cher chez les trois voisins, tandis que l'énergie, les carburants et le tabac sont moins chers au Luxembourg. L'onglet Les communes publie le détail par catégorie, en passant de l'autre côté de la frontière."
+   }
+  ]
+ },
+ {
+  "id": "reclamation",
+  "title": "Contester une facture ou un service",
+  "category": "Quotidien",
+  "summary": "Une réclamation écrite est le préalable obligatoire à toute médiation. Un appel téléphonique, même suivi d'un refus, ne compte pas.",
+  "url": "https://lux-guide.github.io/#fiche/reclamation",
+  "sources": [
+   {
+    "title": "ILR, service de médiation",
+    "url": "https://www.ilr.lu/mediation/"
+   },
+   {
+    "title": "Médiateur de la consommation",
+    "url": "https://www.mediateurconsommation.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "reclamation-1",
+    "text": "Que le désaccord porte sur une facture de télécoms, une prestation d'énergie ou un service financier, la mécanique est toujours la même, et elle commence par un écrit."
+   },
+   {
+    "type": "h",
+    "text": "Écrire d'abord, toujours"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-2",
+    "text": "Les organismes de médiation exigent, comme condition de recevabilité, une réclamation écrite préalable adressée au professionnel, restée sans réponse ou suivie d'une réponse insatisfaisante. Un échange téléphonique, même lorsqu'un conseiller vous a explicitement opposé un refus, ne remplit pas cette condition et ne laisse aucune trace. Écrivez donc systématiquement, même après un appel, ne serait-ce que pour acter par écrit ce qui vous a été dit."
+   },
+   {
+    "type": "h",
+    "text": "Vers qui se tourner ensuite"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-3",
+    "text": "Pour les communications électroniques, la médiation relève de l'Institut luxembourgeois de régulation, et elle est gratuite. Pour les autres litiges de consommation, le service national du Médiateur de la consommation est compétent. Dans les deux cas, la réclamation écrite et l'éventuelle réponse du professionnel font partie des pièces obligatoires du dossier."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "reclamation-4",
+    "text": "Un appel téléphonique ne vaut pas réclamation écrite. Pour les télécoms, la médiation de l'ILR est gratuite. Pour les autres litiges, le Médiateur de la consommation est compétent."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "reclamation-5",
+    "q": "Vers qui se tourner en cas de litige avec un professionnel ?",
+    "a": "Pour les communications électroniques, la médiation relève de l'Institut luxembourgeois de régulation et elle est gratuite. Pour les autres litiges de consommation, le service national du Médiateur de la consommation est compétent. Dans les deux cas, une réclamation écrite préalable au professionnel est une condition de recevabilité : un appel téléphonique ne suffit pas."
+   }
+  ]
+ },
+ {
+  "id": "emmenagement",
+  "title": "Emménager et meubler",
+  "category": "Logement",
+  "summary": "Le logement se remet souvent sans luminaires montés, et les magasins de quatre pays sont à portée de voiture.",
+  "url": "https://lux-guide.github.io/#fiche/emmenagement",
+  "sources": [
+   {
+    "title": "Guichet.lu, bail à loyer",
+    "url": "https://guichet.public.lu/fr/citoyens/logement/location.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "emmenagement-1",
+    "text": "Deux choses surprennent en emménageant ici, et aucune des deux ne relève du bon sens général : ce que le logement contient à la remise des clés, et le fait que les magasins des quatre pays soient à portée de voiture."
+   },
+   {
+    "type": "h",
+    "text": "Le logement se loue souvent sans luminaires"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-2",
+    "text": "Beaucoup de logements sont remis avec des fils qui pendent au plafond et aucun point lumineux monté. Ce n'est pas un défaut ni un oubli du bailleur, c'est l'usage courant ici, alors que dans plusieurs pays voisins une douille équipée reste en place. Prévoyez les luminaires et leur pose dès le premier jour, sans quoi les premières soirées se passent à la lampe de chantier. Le point est à vérifier à l'état des lieux, pas après."
+   },
+   {
+    "type": "h",
+    "text": "Acheter de part et d'autre de la frontière"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-3",
+    "text": "Les enseignes de mobilier et d'électroménager sont implantées des deux côtés de la frontière, et leurs promotions ne sont pas synchronisées d'un pays à l'autre. Sur un achat conséquent, comparer les prix dans les magasins voisins de Belgique, de France ou d'Allemagne vaut souvent le déplacement, à condition d'intégrer le coût de la livraison transfrontalière, parfois dissuasif."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "emmenagement-4",
+    "text": "Comparer les prix des deux côtés de la frontière avant un achat conséquent. Prévoir les luminaires : ils sont rarement en place à la remise des clés."
+   }
+  ]
+ },
+ {
+  "id": "bail",
+  "title": "Signer un bail",
+  "category": "Logement",
+  "summary": "La réforme du 1er août 2024 a plafonné la caution à deux mois et partagé les frais d'agence.",
+  "url": "https://lux-guide.github.io/#fiche/bail",
+  "sources": [
+   {
+    "title": "Guichet.lu, bail à loyer",
+    "url": "https://guichet.public.lu/fr/citoyens/logement/location.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "bail-1",
+    "text": "Le cadre juridique s'est nettement amélioré pour les locataires. La réforme du bail à loyer entrée en vigueur le 1er août 2024 a plafonné la garantie locative à deux mois de loyer, contre trois auparavant, et réparti les frais d'agence par moitié entre bailleur et locataire, alors qu'ils pesaient jusque-là entièrement sur le locataire. Sur un loyer de 2 000 euros, l'économie combinée dépasse facilement 3 000 euros à l'entrée dans les lieux."
+   },
+   {
+    "type": "h",
+    "text": "La garantie bancaire, un piège de calendrier"
+   },
+   {
+    "type": "p",
+    "id": "bail-2",
+    "text": "La garantie prend le plus souvent la forme d'une garantie bancaire, que seule une banque luxembourgeoise émet en pratique. Un IBAN étranger, même européen, ne suffit généralement pas. Or l'ouverture d'un compte demande elle-même du temps et des justificatifs. Anticipez cette chaîne, sinon vous perdrez le logement au profit d'un candidat mieux préparé."
+   },
+   {
+    "type": "h",
+    "text": "L'état des lieux décide de votre caution"
+   },
+   {
+    "type": "p",
+    "id": "bail-3",
+    "text": "Un état des lieux contradictoire est réalisé à l'entrée et à la sortie, et c'est lui qui déterminera la restitution de votre garantie deux ou trois ans plus tard. Photographiez systématiquement chaque pièce, y compris ce qui vous semble anodin, et conservez les relevés de compteurs. Ce quart d'heure d'effort vaut plusieurs milliers d'euros au moment du départ."
+   },
+   {
+    "type": "h",
+    "text": "Lire les interdictions avant d'acheter des meubles"
+   },
+   {
+    "type": "p",
+    "id": "bail-4",
+    "text": "Beaucoup de baux interdisent, sans accord écrit du bailleur, les percements et modifications, la sous-location et la présence d'animaux. Vous éviterez d'acheter des meubles à fixer au mur que vous ne pourrez pas installer. Notez que ces clauses interdisent rarement de percer en soi : elles exigent un accord écrit, qu'un courriel suffit souvent à obtenir. En cas de désaccord persistant, la commission des loyers de la commune constitue le premier recours, avant toute action judiciaire."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "bail-5",
+    "text": "Caution : deux mois maximum depuis le 1er août 2024. Frais d'agence partagés par moitié. Photographier l'état des lieux d'entrée, sans exception."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "bail-6",
+    "q": "Quelle garantie locative un bailleur peut-il demander ?",
+    "a": "Deux mois de loyer au maximum depuis la réforme du 1er août 2024, contre trois auparavant. Les frais d'agence sont par ailleurs partagés par moitié entre bailleur et locataire."
+   }
+  ]
+ },
+ {
+  "id": "assurance_habitation",
+  "title": "Assurer son logement",
+  "category": "Logement",
+  "summary": "Exigée avant la remise des clés, et à comparer sur les garanties plutôt que sur la prime.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_habitation",
+  "sources": [
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_habitation-1",
+    "text": "L'attestation d'assurance est demandée avant la remise des clés, aussi bien par un bailleur que par une banque en cas d'achat. Ce n'est donc pas une formalité que l'on traite après l'emménagement : elle fait partie du dossier de signature, au même titre que la garantie locative."
+   },
+   {
+    "type": "h",
+    "text": "Ce que couvre réellement un contrat"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-2",
+    "text": "Le socle habituel réunit l'incendie, les dégâts des eaux, le vol, le bris de glace et la responsabilité civile, cette dernière couvrant les dommages causés à des tiers, y compris par les enfants. Les écarts entre contrats se logent rarement dans ce socle : ils se trouvent dans les plafonds d'indemnisation, les franchises, et les exclusions."
+   },
+   {
+    "type": "h",
+    "text": "Les quatre points à comparer"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-3",
+    "text": "Regardez d'abord la franchise, c'est-à-dire ce qui reste à votre charge à chaque sinistre. Regardez ensuite si les biens sont indemnisés en valeur à neuf ou après vétusté, ce qui change tout sur du mobilier récent. Vérifiez le plafond applicable aux objets de valeur, souvent bien plus bas que le plafond général. Vérifiez enfin les exclusions liées à l'absence prolongée du logement, fréquentes et rarement lues."
+   },
+   {
+    "type": "h",
+    "text": "Les documents à réclamer avant de signer"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-4",
+    "text": "Trois documents décrivent réellement le contrat, et le devis commercial n'en fait pas partie. Le premier est le document d'information standardisé sur le produit d'assurance, deux pages au format normé dans toute l'Union, qui résume garanties, exclusions et obligations. Il facilite la comparaison entre assureurs, mais il ne remplace rien : il est volontairement succinct."
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-5",
+    "text": "Les deux autres sont contractuels. Les conditions générales décrivent l'étendue des garanties, les franchises et les exclusions applicables à tous les assurés. Les conditions particulières précisent ce qui vous concerne, montants assurés et options retenues, et elles priment sur les conditions générales en cas de divergence. Demandez les trois, et lisez en priorité les exclusions : c'est la partie qui décide de ce qui sera refusé le jour du sinistre."
+   },
+   {
+    "type": "h",
+    "text": "En cas d'achat"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-6",
+    "text": "Le prêteur exigera en plus une assurance solde restant dû, qui rembourse le crédit en cas de décès. Elle n'est pas obligatoirement souscrite auprès de la banque prêteuse : mettre plusieurs assureurs en concurrence sur ce seul poste représente souvent plusieurs milliers d'euros sur la durée du prêt."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "assurance_habitation-7",
+    "text": "L'attestation est demandée avant la remise des clés. Comparer franchises, valeur à neuf, plafonds et exclusions. Exiger les conditions générales, pas seulement le devis."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_habitation-8",
+    "q": "Comment comparer deux contrats d'assurance ?",
+    "a": "Sur les exclusions et les franchises, pas sur la prime. Demandez le document d'information standardisé de deux pages, les conditions générales et les conditions particulières : un devis ne dit rien de ce qui sera refusé le jour du sinistre."
+   },
+   {
+    "type": "faq",
+    "id": "assurance_habitation-9",
+    "q": "À quel moment souscrire l'assurance habitation ?",
+    "a": "Avant la remise des clés : l'attestation fait partie du dossier de signature. Comparez sur les franchises, la valeur à neuf et les exclusions, en exigeant les conditions générales et pas seulement le devis."
+   }
+  ]
+ },
+ {
+  "id": "achat",
+  "title": "Acheter un logement",
+  "category": "Logement",
+  "summary": "Quotités de financement encadrées, et une TVA à 3 % qui n'est ni automatique ni illimitée.",
+  "url": "https://lux-guide.github.io/#fiche/achat",
+  "sources": [
+   {
+    "title": "Guichet.lu, TVA logement",
+    "url": "https://guichet.public.lu/fr/citoyens/aides/logement-construction/aides-indirectes/remboursement-tva-taux-reduit.html"
+   },
+   {
+    "title": "Comité du risque systémique, quotités",
+    "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2020/11-novembre/18-comite-risque-cssf.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "achat-1",
+    "text": "Le financement immobilier est encadré par des quotités maximales, fixées par la CSSF sur recommandation du Comité du risque systémique. Un primo-accédant peut financer jusqu'à 100 % du prix pour sa résidence principale, contre 90 % pour un acquéreur qui a déjà été propriétaire, et 80 % seulement pour un investissement locatif. Ces pourcentages portent sur le prix du bien : les frais d'acte restent, dans tous les cas, à financer sur fonds propres."
+   },
+   {
+    "type": "h",
+    "text": "La TVA à 3 % : conditionnelle et plafonnée"
+   },
+   {
+    "type": "p",
+    "id": "achat-2",
+    "text": "Le taux super-réduit de 3 %, au lieu de 17 %, est l'un des avantages les plus commentés du marché luxembourgeois. Il est aussi le plus mal compris. Il suppose d'abord une affectation à l'habitation principale pendant au moins deux ans, et l'accord préalable de l'Administration de l'enregistrement, d'où la mention « sous réserve d'acceptation » qui figure sur les annonces."
+   },
+   {
+    "type": "p",
+    "id": "achat-3",
+    "text": "Surtout, l'avantage est plafonné à 50 000 euros par logement. Comme l'écart entre 17 % et 3 % représente quatorze points, ce plafond couvre environ 357 000 euros de base hors taxe. Au-delà, la part restante repasse à 17 %. Sur un bien neuf à prix élevé, une fraction du prix supporte donc le taux plein, ce qui peut représenter plusieurs dizaines de milliers d'euros."
+   },
+   {
+    "type": "p",
+    "id": "achat-4",
+    "text": "La question à poser au promoteur est donc précise : le prix affiché intègre-t-il déjà cette part à 17 %, ou suppose-t-il 3 % sur la totalité ? Certaines annonces mentionnent honnêtement « TVA à 3 % et 17 % comprises », d'autres non. Un crédit d'impôt sur les droits d'enregistrement, connu sous le nom de Bëllegen Akt, existe par ailleurs pour l'acquisition d'une habitation principale ; son montant évolue, vérifiez-le à la date de votre projet."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "achat-5",
+    "text": "Primo-accédant : jusqu'à 100 % du prix, hors frais. Investissement locatif : 80 % maximum, donc 20 % d'apport. TVA à 3 % plafonnée à 50 000 euros d'avantage, puis 17 %."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "achat-6",
+    "q": "Quelle part du prix une banque finance-t-elle ?",
+    "a": "Jusqu'à 100 % pour un primo-accédant en résidence principale, 90 % pour un acquéreur déjà propriétaire, et 80 % pour un investissement locatif. Les frais d'acte restent à financer sur fonds propres."
+   },
+   {
+    "type": "faq",
+    "id": "achat-7",
+    "q": "La TVA sur un logement neuf est-elle toujours de 3 % ?",
+    "a": "Non. Le taux de 3 % suppose une affectation en habitation principale pendant deux ans et l'accord préalable de l'administration, et l'avantage est plafonné à 50 000 euros par logement. Au-delà, la part restante repasse à 17 %."
+   }
+  ]
+ },
+ {
+  "id": "logement_abordable",
+  "title": "Logement abordable et à coût modéré",
+  "category": "Logement",
+  "summary": "Un prix sous le marché, en échange de plafonds de revenus et d'une revente encadrée.",
+  "url": "https://lux-guide.github.io/#fiche/logement_abordable",
+  "sources": [
+   {
+    "title": "Logement.lu, certificat d'éligibilité",
+    "url": "https://logement.public.lu/fr/proprietaire/obtenir-aide-achat-construction/certificat-eligibilite-logabo.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "logement_abordable-1",
+    "text": "Des promoteurs publics commercialisent des logements à un prix inférieur au marché. L'accès suppose un certificat d'éligibilité délivré par le Guichet unique des aides au logement, valable pour l'année de son émission et au moins six mois. Deux conditions doivent être réunies simultanément, et la première élimine plus de candidats que la seconde."
+   },
+   {
+    "type": "h",
+    "text": "Ne posséder aucun autre logement"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-2",
+    "text": "Ni vous, ni aucune personne vivant sous votre toit, ne devez être propriétaire, usufruitier, emphytéote ou titulaire d'un droit d'habitation portant sur plus d'un tiers indivis d'un autre logement, au Luxembourg comme à l'étranger, au plus tard neuf mois après l'acte. Un appartement conservé dans le pays d'origine, même loué, suffit à disqualifier tout le ménage."
+   },
+   {
+    "type": "h",
+    "text": "Rester sous le plafond de revenus"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-3",
+    "text": "Le revenu retenu est celui de l'ensemble de la communauté domestique, c'est-à-dire de toutes les personnes vivant dans le logement. Seuls les revenus des enfants à charge en sont exclus. Depuis 2026, le calcul intègre l'ensemble des revenus, y compris ceux qui ne sont pas imposables au Luxembourg."
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-4",
+    "text": "Une conséquence contre-intuitive mérite d'être signalée : héberger un parent âgé n'élève pas le plafond, qui ne progresse qu'avec les enfants à charge, mais ajoute ses revenus au calcul et importe son éventuel patrimoine immobilier dans la condition de non-propriété."
+   },
+   {
+    "type": "h",
+    "text": "Une revente à prix encadré"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-5",
+    "text": "Ces logements sont assortis d'un droit de rachat inscrit dans l'acte authentique. Le prix de revente correspond au prix payé, réindexé sur l'indice du coût de la construction et minoré de l'usure. Autrement dit, il n'y a pas de plus-value de marché à espérer : c'est un logement pour habiter, pas un placement."
+   },
+   {
+    "type": "table",
+    "id": "logement_abordable-6",
+    "title": "Plafonds de revenu annuel net du ménage",
+    "columns": [
+     "Composition du ménage",
+     "Vente abordable",
+     "Vente à coût modéré"
+    ],
+    "rows": [
+     [
+      "1 adulte sans enfant à charge",
+      "61 422,07 €",
+      "72 339,21 €"
+     ],
+     [
+      "Ménage sans enfant à charge",
+      "92 137,91 €",
+      "108 518,41 €"
+     ],
+     [
+      "Avec 1 enfant à charge",
+      "116 708,66 €",
+      "137 448,34 €"
+     ],
+     [
+      "Avec 2 enfants à charge",
+      "141 279,41 €",
+      "166 387,86 €"
+     ],
+     [
+      "Avec 3 enfants à charge",
+      "165 850,16 €",
+      "195 327,38 €"
+     ],
+     [
+      "Par enfant supplémentaire",
+      "+ 18 425,66 €",
+      "+ 21 699,84 €"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "logement_abordable-7",
+    "text": "Un bien possédé à l'étranger disqualifie tout le ménage. Le plafond ne progresse qu'avec les enfants à charge. Revente à prix encadré : pour habiter, pas pour investir."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "logement_abordable-8",
+    "q": "Qui peut prétendre à un logement à coût modéré ?",
+    "a": "Il faut rester sous un plafond de revenu net du ménage et ne posséder aucun autre logement, au Luxembourg comme à l'étranger, au plus tard neuf mois après l'acte. Cette dernière condition vise aussi toutes les personnes vivant avec vous."
+   }
+  ]
+ },
+ {
+  "id": "impots_classes",
+  "title": "Classes d'impôt",
+  "category": "Impots",
+  "summary": "Trois classes seulement, 1, 1a et 2 : pas de classe 1b. À revenu égal, l'écart entre classe 1 et classe 2 dépasse souvent mille euros par mois.",
+  "url": "https://lux-guide.github.io/#fiche/impots_classes",
+  "sources": [
+   {
+    "title": "Administration des contributions directes, barèmes",
+    "url": "https://impotsdirects.public.lu/fr/baremes.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "impots_classes-1",
+    "text": "Trois classes d'imposition coexistent, et trois seulement : il n'existe pas de classe 1b, ni de sous-classes du type 1a/1 ou 2/2, qui ont disparu en 2008. Votre classe pèse davantage sur votre net que bien des négociations salariales."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-2",
+    "text": "La classe 2 s'applique aux époux et partenaires imposés collectivement, avec un mécanisme de splitting qui allège fortement l'impôt. Elle s'applique aussi, pendant une période transitoire de trois ans, aux personnes dont le mariage a été dissous par décès, par divorce ou par séparation."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-3",
+    "text": "La classe 1a regroupe trois situations, à condition de ne pas relever de la classe 2 : les personnes veuves, les personnes qui bénéficient d'une modération d'impôt pour enfants, et les personnes ayant terminé leur soixante-quatrième année au début de l'année d'imposition. Elle applique un barème intermédiaire, dont l'avantage se réduit à mesure que le revenu augmente. Attention au deuxième cas : il ne se limite pas aux parents isolés, il vise toute personne qui bénéficie de la modération pour un enfant de son ménage."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-4",
+    "text": "La classe 1 est la catégorie résiduelle : elle comprend les personnes qui n'appartiennent ni à la classe 1a, ni à la classe 2. C'est la classe de la plupart des célibataires sans enfant, et celle d'un couple dont le conjoint réside encore à l'étranger."
+   },
+   {
+    "type": "h",
+    "text": "Quand les deux conjoints travaillent"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-5",
+    "text": "C'est le cas le plus fréquent, et le plus mal compris. Un ménage imposé collectivement ne reçoit qu'une seule fiche de retenue principale, portée par usage par la rémunération la plus élevée et la plus stable. Le second salaire relève d'une fiche additionnelle, sur laquelle l'administration inscrit un taux fixe : 15 % en classe 2, 21 % en classe 1a, 33 % en classe 1."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-6",
+    "text": "Point essentiel : ce taux ne dépend que de la classe d'impôt, jamais du revenu réel du ménage. Votre employeur ne connaît donc pas le salaire de votre conjoint, et ne peut pas le déduire du taux qui lui est communiqué. Il applique simplement ce que l'administration lui transmet, désormais par voie électronique."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-7",
+    "text": "Conséquence directe : ce taux forfaitaire sous-prélève souvent, parfois de plusieurs milliers d'euros par an. L'écart apparaît à la déclaration commune, qui recalcule l'impôt réellement dû sur le revenu cumulé."
+   },
+   {
+    "type": "h",
+    "text": "Ne pas tout laisser à la régularisation"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-8",
+    "text": "Deux mécanismes évitent d'attendre la déclaration. Si le prélèvement est trop élevé, vous pouvez demander un taux réduit : la demande se fait par écrit, en joignant les fiches de salaire des trois derniers mois des deux conjoints. Si au contraire il est insuffisant, sachez qu'un taux plus élevé ne peut pas être inscrit sur une fiche additionnelle : le complément prend alors la forme d'avances trimestrielles fixées par l'administration."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-9",
+    "text": "Autrement dit, la première année se solde généralement en une fois, puis le système se lisse par des avances. Anticipez ce solde initial, c'est la mauvaise surprise la plus courante des ménages à deux revenus."
+   },
+   {
+    "type": "h",
+    "text": "Le cas fréquent du conjoint non résident"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-10",
+    "text": "Un couple dont l'un des membres réside encore à l'étranger relève par défaut de la classe 1, nettement moins favorable. L'option pour l'imposition collective existe et mérite d'être étudiée chiffres en main : selon les revenus respectifs, elle peut représenter plusieurs milliers d'euros par an, dans un sens comme dans l'autre."
+   },
+   {
+    "type": "h",
+    "text": "Deux mécanismes qui surprennent"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-11",
+    "text": "À l'impôt calculé s'ajoute une contribution au fonds pour l'emploi de 7 %, portée à 9 % au-delà de 150 000 euros de revenu imposable en classe 1 et 1a, ou 300 000 euros en classe 2. Par ailleurs, les revenus étrangers exonérés au Luxembourg sont malgré tout retenus pour déterminer le taux appliqué aux revenus luxembourgeois : c'est le taux moyen mondial, qui explique souvent l'écart entre la simulation et la première déclaration."
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-12",
+    "text": "Réclamez enfin votre fiche de retenue d'impôt dès l'arrivée, et vérifiez que l'employeur l'a bien reçue. Sans ce document, la retenue s'effectue au taux maximal, et la régularisation n'interviendra qu'à la déclaration suivante."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "impots_classes-13",
+    "text": "La classe 2 change tout à haut revenu. Réclamer la fiche de retenue dès l'arrivée. Les revenus étrangers exonérés influencent quand même le taux."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-14",
+    "q": "Comment l'impôt est-il prélevé quand on est deux à travailler ?",
+    "a": "Non, et il ne peut pas le déduire. Le taux inscrit sur la fiche additionnelle du second salaire ne dépend que de la classe d'impôt : 15 % en classe 2, 21 % en classe 1a, 33 % en classe 1. Il ne contient aucune information sur le revenu du ménage."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-15",
+    "q": "Pourquoi la déclaration se solde-t-elle souvent par un montant à payer ?",
+    "a": "Parce que le taux forfaitaire appliqué au second salaire sous-prélève souvent. La déclaration commune recalcule l'impôt réellement dû sur le revenu cumulé. Les années suivantes, l'administration lisse l'écart par des avances trimestrielles."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-16",
+    "q": "Existe-t-il une classe d'impôt 1b ?",
+    "a": "Non. Il n'existe que trois classes, 1, 1a et 2. Les sous-classes du type 1a/1, 1a/2 ou 2/3 ont disparu en 2008, quand la modération d'impôt pour enfant a cessé d'agir directement sur la classe."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-17",
+    "q": "Qui relève de la classe 1a ?",
+    "a": "Trois situations, à condition de ne pas relever de la classe 2 : les personnes veuves, celles qui bénéficient d'une modération d'impôt pour enfants, et celles ayant terminé leur soixante-quatrième année au début de l'année d'imposition. Le deuxième cas ne se limite pas aux parents isolés."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-18",
+    "q": "Un divorce ou un décès fait-il changer de classe d'impôt immédiatement ?",
+    "a": "Non. Une période transitoire de trois ans maintient en classe 2 les personnes divorcées, séparées, ou dont le mariage a été dissous par décès. Le basculement en classe 1 ou 1a intervient ensuite, selon la situation."
+   },
+   {
+    "type": "faq",
+    "id": "impots_classes-19",
+    "q": "Quelle différence entre classe 1 et classe 2 ?",
+    "a": "La classe 2 applique le splitting aux couples imposés collectivement, ce qui allège fortement l'impôt à revenu égal. À haut revenu, l'écart dépasse souvent mille euros par mois. Le simulateur le chiffre précisément."
+   }
+  ]
+ },
+ {
+  "id": "deductions",
+  "title": "Ce qui réduit votre impôt",
+  "category": "Impots",
+  "summary": "Au-delà de la classe, plusieurs postes viennent en déduction : trajets, prévoyance, épargne-logement, garde d'enfants.",
+  "url": "https://lux-guide.github.io/#fiche/deductions",
+  "sources": [
+   {
+    "title": "ACD, index des matières",
+    "url": "https://impotsdirects.public.lu/fr/az.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "deductions-1",
+    "text": "Le net perçu chaque mois ne dit pas tout : une part de l'impôt se régularise à la déclaration, et plusieurs postes viennent en déduction. Les connaître change le résultat de plusieurs milliers d'euros pour un ménage."
+   },
+   {
+    "type": "h",
+    "text": "Les forfaits appliqués d'office"
+   },
+   {
+    "type": "p",
+    "id": "deductions-2",
+    "text": "Un forfait de frais d'obtention et un forfait de dépenses spéciales sont retenus automatiquement, sans justificatif. Ils constituent un plancher : si vos dépenses réelles les dépassent, vous avez intérêt à les déclarer au réel."
+   },
+   {
+    "type": "h",
+    "text": "Les principaux postes déductibles"
+   },
+   {
+    "type": "p",
+    "id": "deductions-3",
+    "text": "Les frais de déplacement entre domicile et lieu de travail sont déductibles selon un barème forfaitaire fondé sur la distance, ce qui concerne particulièrement ceux qui résident loin de leur employeur. Les intérêts d'un prêt pour l'habitation principale font l'objet d'un régime propre, détaillé dans une fiche dédiée."
+   },
+   {
+    "type": "p",
+    "id": "deductions-4",
+    "text": "Viennent ensuite les cotisations de prévoyance vieillesse individuelle, les primes d'assurance vie et de responsabilité civile, les cotisations d'épargne-logement, et, pour les ménages avec enfants, les frais de garde. Chacun de ces postes obéit à son propre plafond, qui dépend parfois de la composition du foyer."
+   },
+   {
+    "type": "h",
+    "text": "Les rentes versées"
+   },
+   {
+    "type": "p",
+    "id": "deductions-5",
+    "text": "Une pension alimentaire versée à un ex-conjoint peut être déduite sous conditions, y compris lorsque le bénéficiaire réside à l'étranger. C'est un poste fréquemment oublié par les nouveaux arrivants, et souvent significatif."
+   },
+   {
+    "type": "p",
+    "id": "deductions-6",
+    "text": "Les montants et plafonds de ces dispositifs évoluent régulièrement. Le simulateur de ce guide se concentre volontairement sur la retenue à la source, qui dépend de la classe et du barème ; pour l'optimisation de la déclaration, appuyez-vous sur les fiches officielles de l'administration, ou faites-vous accompagner la première année."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "deductions-7",
+    "text": "Les forfaits sont un plancher, pas un plafond. Déplacements, prévoyance, épargne-logement et garde d'enfants sont déductibles. Se faire accompagner pour la première déclaration."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "deductions-8",
+    "q": "Qu'est-ce qui se déduit des impôts ?",
+    "a": "Au-delà des forfaits appliqués d'office : les frais de déplacement, les cotisations de prévoyance, les primes d'assurance, l'épargne-logement, les frais de garde et, sous conditions, les pensions alimentaires versées."
+   }
+  ]
+ },
+ {
+  "id": "conseil_fiscal",
+  "title": "Conseil fiscal : les leviers de la première année",
+  "category": "Impots",
+  "summary": "Vérifier la classe d'impôt et la faire corriger, puis activer les déductions qui rapportent : 111bis relevé à 4 500 € en 2026, épargne-logement.",
+  "url": "https://lux-guide.github.io/#fiche/conseil_fiscal",
+  "sources": [
+   {
+    "title": "Guichet.lu, faire modifier la fiche de retenue d'impôt",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/declaration-impot-decompte/fiche-retenue-impot/demander-modifier-fiche-impot.html"
+   },
+   {
+    "title": "Guichet.lu, contrat de prévoyance-vieillesse",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/declaration-impot-decompte/depenses-deductibles/contrat-prevoyance-resident.html"
+   },
+   {
+    "title": "Guichet.lu, cotisations d'épargne-logement",
+    "url": "https://guichet.public.lu/fr/citoyens/fiscalite/immobilier/depenses-deductibles/epargne-logement-resident.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "conseil_fiscal-1",
+    "text": "La première année, quelques décisions simples pèsent plus sur l'impôt final que tout le reste. Cette fiche regroupe les leviers concrets, dans l'ordre où ils se présentent."
+   },
+   {
+    "type": "h",
+    "text": "D'abord, vérifier la classe d'impôt, et la faire corriger si elle est fausse"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-2",
+    "text": "La retenue mensuelle repose sur la fiche de retenue d'impôt. Pour un salarié qui commence à travailler au Luxembourg, elle est émise automatiquement par l'administration après l'affiliation au Centre commun de la sécurité sociale, faite par l'employeur, sous une trentaine de jours ouvrables : il n'y a pas de démarche à faire pour l'obtenir. La démarche, c'est de la vérifier. Pour un nouvel arrivant, la situation familiale est parfois mal reprise et la classe attribuée est alors erronée, ce qui arrive plus souvent qu'on ne le croit. Ni vous ni votre employeur n'avez le droit de corriger la fiche vous-mêmes."
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-3",
+    "text": "La modification se demande sans tarder au bureau RTS compétent pour votre commune, de préférence avec le formulaire 164 R. Tant que la fiche n'est pas corrigée, la retenue se fait sur la mauvaise classe ; l'écart se régularise ensuite, mais autant ne pas avancer cet argent des mois durant."
+   },
+   {
+    "type": "h",
+    "text": "Le contrat de prévoyance-vieillesse, dit 111bis"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-4",
+    "text": "Les primes versées à un contrat de prévoyance-vieillesse se déduisent jusqu'à 4 500 euros par an et par contribuable depuis le 1er janvier 2026, contre 3 200 euros auparavant. Le plafond vaut quel que soit l'âge, et chaque conjoint qui souscrit son propre contrat a le sien. En contrepartie, c'est une épargne longue : contrat d'au moins dix ans, épargne remboursable au plus tôt à 60 ans et au plus tard à 75 ans, en capital, en rente viagère ou en mixte. Le remboursement anticipé est exclu, sauf maladie grave ou invalidité."
+   },
+   {
+    "type": "h",
+    "text": "L'épargne-logement"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-5",
+    "text": "Les cotisations à un contrat d'épargne-logement se déduisent jusqu'à 1 344 euros par an et par personne du ménage lorsque le souscripteur a entre 18 et 41 ans, 672 euros au-delà. Le plafond se majore pour le conjoint imposé collectivement et pour chaque enfant donnant droit à une modération d'impôt : pour une famille, cela se multiplie vite. L'épargne doit financer l'habitation personnelle ; utilisée à autre chose avant dix ans, la déduction est reprise par imposition rectificative."
+   },
+   {
+    "type": "h",
+    "text": "Les autres leviers, déjà détaillés dans le guide"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-6",
+    "text": "Les frais réels au-delà des forfaits, les primes d'assurance et les frais de garde sont détaillés dans la fiche « Ce qui réduit votre impôt ». Les intérêts d'un prêt pour l'habitation principale ont leur fiche propre, et le régime des impatriés la sienne. Pour un couple dont l'un travaille hors du Luxembourg, le choix d'imposition en classe 2 mérite un calcul, voir la fiche sur les classes d'impôt."
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-7",
+    "text": "Les plafonds cités ici sont ceux publiés par Guichet.lu à la date de vérification de ce guide. Ils évoluent : avant de signer un contrat pour raison fiscale, la page officielle fait foi."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "conseil_fiscal-8",
+    "text": "Classe erronée : demander la correction au bureau RTS, formulaire 164 R, sans tarder. 111bis : jusqu'à 4 500 € par an et par contribuable depuis 2026, épargne bloquée jusqu'à 60 ans au plus tôt. Épargne-logement : 1 344 € par personne jusqu'à 41 ans, 672 € ensuite, plafond multiplié par la taille du ménage."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "conseil_fiscal-9",
+    "q": "Comment faire corriger une classe d'impôt inexacte ?",
+    "a": "Cela arrive, surtout la première année. Ni vous ni l'employeur ne pouvez corriger la fiche de retenue : demandez la modification au bureau RTS compétent pour votre commune, de préférence avec le formulaire 164 R, sans attendre."
+   },
+   {
+    "type": "faq",
+    "id": "conseil_fiscal-10",
+    "q": "Comment obtient-on sa fiche de retenue d'impôt ?",
+    "a": "Non, pour un salarié elle est émise automatiquement par l'administration après l'affiliation à la sécurité sociale, faite par l'employeur, sous une trentaine de jours ouvrables. La démarche utile, c'est de vérifier la classe inscrite dès réception."
+   }
+  ]
+ },
+ {
+  "id": "impatries",
+  "title": "Régime des impatriés",
+  "category": "Impots",
+  "summary": "Réservé à des profils précis : la moitié de la rémunération brute exonérée, pendant neuf années au maximum.",
+  "url": "https://lux-guide.github.io/#fiche/impatries",
+  "sources": [
+   {
+    "title": "Administration des contributions directes",
+    "url": "https://impotsdirects.public.lu/fr/az.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "impatries-1",
+    "text": "Ce régime ne concerne qu'une minorité de nouveaux arrivants, mais son effet est considérable pour ceux qui y ont droit. Depuis le 1er janvier 2025, il exonère d'impôt 50 % de la rémunération brute annuelle totale, dans la limite de 400 000 euros de rémunération éligible. La différence avec l'ancien dispositif est importante : il ne s'agit plus d'une prime distincte, mais d'une exonération portant sur l'ensemble de la rémunération."
+   },
+   {
+    "type": "h",
+    "text": "Qui peut en bénéficier"
+   },
+   {
+    "type": "p",
+    "id": "impatries-2",
+    "text": "Le régime s'adresse aux personnes réellement venues de l'étranger pour occuper le poste. Il faut n'avoir été ni résident fiscal luxembourgeois, ni avoir exercé une activité au Luxembourg, ni avoir résidé à moins de cent cinquante kilomètres de la frontière, pendant les cinq années précédentes. Cette dernière condition exclut de fait une grande partie des candidats venus de Lorraine, de Wallonie ou de Sarre."
+   },
+   {
+    "type": "p",
+    "id": "impatries-3",
+    "text": "S'y ajoute une condition de rémunération, avec un brut annuel fixe minimum de l'ordre de 75 000 euros hors avantages en nature. Côté employeur, le nombre d'impatriés ne doit pas dépasser 30 % de l'effectif, avec des assouplissements pour les entreprises récentes."
+   },
+   {
+    "type": "h",
+    "text": "Deux effets que l'on oublie souvent"
+   },
+   {
+    "type": "p",
+    "id": "impatries-4",
+    "text": "Premier effet : l'exonération augmente mécaniquement votre revenu net, ce qui peut vous faire dépasser des plafonds utilisés ailleurs, notamment pour l'accès au logement abordable ou à certaines aides. Un avantage fiscal peut donc fermer une autre porte."
+   },
+   {
+    "type": "p",
+    "id": "impatries-5",
+    "text": "Second effet, plus structurant : le régime s'éteint. Il court sur l'année du début d'activité au Luxembourg, plus les huit suivantes, soit neuf années d'imposition au maximum. Un prêt immobilier sur vingt-cinq ou trente ans doit donc être calibré sur le revenu d'après le régime, pas sur celui d'aujourd'hui. C'est l'erreur la plus coûteuse que commettent les nouveaux arrivants bien rémunérés."
+   },
+   {
+    "type": "p",
+    "id": "impatries-6",
+    "text": "Enfin, le bénéfice n'est pas automatique : il se demande via l'employeur, qui doit respecter des obligations déclaratives. Vérifiez son application sur vos premières fiches de paie."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "impatries-7",
+    "text": "Conditions strictes, dont l'éloignement de la frontière les cinq années précédentes. Neuf années d'imposition au maximum, puis extinction. Bâtir tout crédit long sur le revenu d'après le régime."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "impatries-8",
+    "q": "Qu'est-ce que le régime des impatriés ?",
+    "a": "Une exonération portant sur la moitié de la rémunération brute, pendant neuf années au maximum. Attention, les conditions sont strictes : il faut notamment ne pas avoir résidé à moins de 150 km de la frontière durant les cinq années précédentes."
+   },
+   {
+    "type": "faq",
+    "id": "impatries-9",
+    "q": "Le régime des impatriés dépend-il de la classe d'impôt ?",
+    "a": "Oui. Le régime porte sur la rémunération, pas sur la classe : il s'applique quelle que soit la classe d'impôt. Le tableau de comparaison du simulateur affiche le gain pour les trois classes, parce qu'un célibataire nouvellement arrivé relève le plus souvent de la classe 1 et que c'est là que le régime change le plus le net."
+   }
+  ]
+ },
+ {
+  "id": "interets",
+  "title": "Déduire les intérêts d'emprunt",
+  "category": "Impots",
+  "summary": "Le plafond se multiplie par le nombre de personnes du ménage, ce qui change tout pour une famille.",
+  "url": "https://lux-guide.github.io/#fiche/interets",
+  "sources": [
+   {
+    "title": "ACD, habitation personnelle du propriétaire",
+    "url": "https://impotsdirects.public.lu/fr/az/h/habit_pers.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "interets-1",
+    "text": "Les intérêts d'un prêt finançant le logement que vous occupez sont déductibles, dans la catégorie des revenus provenant de la location de biens. Depuis l'année d'imposition 2024, le plafond annuel dépend de l'ancienneté de l'occupation : la déduction est intégrale l'année de fixation de la valeur locative et l'année suivante, puis limitée à 4 000 euros pendant quatre ans, à 3 000 euros pendant les cinq années suivantes, et à 2 000 euros ensuite."
+   },
+   {
+    "type": "h",
+    "text": "L'élément décisif : la composition du ménage"
+   },
+   {
+    "type": "p",
+    "id": "interets-2",
+    "text": "Ces montants sont souvent cités seuls, ce qui donne une image fausse du dispositif. Le plafond est en réalité majoré de son propre montant pour le conjoint ou partenaire imposé collectivement, ainsi que pour chaque enfant ouvrant droit à une modération d'impôt. Pour un couple avec deux enfants, le plafond effectif est donc quadruplé : 16 000 euros par an, puis 12 000, puis 8 000."
+   },
+   {
+    "type": "p",
+    "id": "interets-3",
+    "text": "Sur un prêt de 800 000 euros à 4,3 %, les intérêts de la première année avoisinent 34 000 euros. Les deux premières années passent donc intégralement, mais dès la troisième, le plafond mord sur près de la moitié des intérêts. Le calcul mérite d'être fait avant de s'engager."
+   },
+   {
+    "type": "p",
+    "id": "interets-4",
+    "text": "Deux limites enfin : les subventions d'intérêts versées par l'État réduisent d'autant la dépense déductible, et les intérêts liés à une résidence secondaire ne sont pas déductibles."
+   },
+   {
+    "type": "table",
+    "id": "interets-5",
+    "title": "Plafond annuel selon la composition du ménage",
+    "columns": [
+     "Période",
+     "1 personne",
+     "Couple",
+     "Couple et 2 enfants"
+    ],
+    "rows": [
+     [
+      "Années 1 et 2",
+      "intégral",
+      "intégral",
+      "intégral"
+     ],
+     [
+      "Années 3 à 6",
+      "4 000 €",
+      "8 000 €",
+      "16 000 €"
+     ],
+     [
+      "Années 7 à 11",
+      "3 000 €",
+      "6 000 €",
+      "12 000 €"
+     ],
+     [
+      "Ensuite",
+      "2 000 €",
+      "4 000 €",
+      "8 000 €"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "interets-6",
+    "text": "Le plafond se multiplie par le nombre de membres du ménage. Les deux premières années sont sans plafond. Résidence principale uniquement."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "interets-7",
+    "q": "Les intérêts d'un prêt immobilier sont-ils déductibles ?",
+    "a": "Oui, pour l'habitation principale. La déduction est intégrale les deux premières années, puis plafonnée. Surtout, le plafond est multiplié par le nombre de membres du ménage, conjoint et enfants compris."
+   }
+  ]
+ },
+ {
+  "id": "independant",
+  "title": "Exercer en indépendant",
+  "category": "Travail",
+  "summary": "Déclaration au CCSS sous huit jours, dispense possible, et une autorisation d'établissement à vérifier avant de facturer.",
+  "url": "https://lux-guide.github.io/#fiche/independant",
+  "sources": [
+   {
+    "title": "CCSS, s'affilier comme indépendant",
+    "url": "https://ccss.public.lu/fr/independants/commencer-arreter-activite/affilier.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "independant-1",
+    "text": "Le démarrage d'une activité indépendante se déclare au Centre commun de la sécurité sociale dans les huit jours, au moyen de la déclaration d'entrée pour travailleurs indépendants. Exercée à côté d'un emploi salarié, l'activité est dite accessoire : les cotisations sont alors calculées sur le revenu réel, mais avec un plancher fixé au tiers du salaire social minimum."
+   },
+   {
+    "type": "h",
+    "text": "La dispense pour revenu insignifiant"
+   },
+   {
+    "type": "p",
+    "id": "independant-2",
+    "text": "Si le revenu tiré de l'activité ne dépasse pas ce tiers sur l'année, vous pouvez demander une dispense d'affiliation. Deux points méritent attention. D'abord, elle ne s'applique jamais d'office : elle se demande expressément, sur un formulaire distinct de la déclaration d'entrée. Ensuite, elle a une contrepartie écrite noir sur blanc : la personne dispensée n'est pas couverte contre les risques maladie, pension, accident et dépendance au titre de cette activité. Sans conséquence si vous êtes par ailleurs salarié, mais à mesurer sinon."
+   },
+   {
+    "type": "p",
+    "id": "independant-3",
+    "text": "Notez également qu'une dispense d'affiliation ne produit pas de numéro d'affiliation. Si un client exige ce numéro pour vous payer, la dispense n'est pas la bonne option. Enfin, si l'administration fiscale établit ensuite un revenu supérieur au seuil, l'affiliation devient obligatoire et rétroactive."
+   },
+   {
+    "type": "h",
+    "text": "L'autorisation d'établissement, l'oubli classique"
+   },
+   {
+    "type": "p",
+    "id": "independant-4",
+    "text": "Beaucoup d'activités, dont le conseil et la formation dispensée à des tiers, exigent une autorisation d'établissement préalable. Facturer sans elle expose à des sanctions. Vérifiez ce point avant d'émettre la moindre facture, et non après : c'est le blocage le plus fréquent, et le plus long à régulariser."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "independant-5",
+    "text": "Huit jours après le début de l'activité. La dispense se demande sur un second formulaire. Vérifier l'autorisation d'établissement avant de facturer."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "independant-6",
+    "q": "Peut-on exercer une activité indépendante en plus d'un emploi salarié ?",
+    "a": "Déclarez-la au CCSS dans les huit jours. Si le revenu reste sous le tiers du salaire social minimum, demandez expressément la dispense pour revenu insignifiant. Vérifiez surtout si votre activité exige une autorisation d'établissement."
+   }
+  ]
+ },
+ {
+  "id": "allocations",
+  "title": "Allocations familiales",
+  "category": "Famille",
+  "summary": "Versées sans condition de nationalité, avec un supplément selon l'âge et une allocation de rentrée automatique.",
+  "url": "https://lux-guide.github.io/#fiche/allocations",
+  "sources": [
+   {
+    "title": "Caisse pour l'avenir des enfants",
+    "url": "https://cae.public.lu/fr/allocations.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "allocations-1",
+    "text": "Les prestations familiales sont versées par la Caisse pour l'avenir des enfants, et elles sont dues pour tout enfant résidant au Luxembourg, sans condition de nationalité. C'est la résidence qui compte, pas le passeport, ce qui en fait l'une des aides les plus simples à obtenir pour un nouvel arrivant."
+   },
+   {
+    "type": "p",
+    "id": "allocations-2",
+    "text": "Le montant de base s'élève à 315,04 euros par mois et par enfant, majoré de 23,81 euros au-delà de six ans et de 59,44 euros au-delà de douze ans, valeurs applicables au 1er juin 2026. S'y ajoute chaque année, en août, une allocation de rentrée scolaire de 115 euros pour un enfant de plus de six ans et de 235 euros au-delà de douze ans, versée automatiquement, sans aucune demande."
+   },
+   {
+    "type": "p",
+    "id": "allocations-3",
+    "text": "Seule la demande initiale nécessite une démarche, auprès de la caisse, en ligne via MyGuichet ou par formulaire. Ces montants suivent l'indexation générale : ils sont revalorisés à chaque tranche indiciaire, ce qui explique qu'un montant lu il y a un an ne corresponde plus."
+   },
+   {
+    "type": "table",
+    "id": "allocations-4",
+    "title": "Montants mensuels par enfant au 1er juin 2026",
+    "columns": [
+     "Situation",
+     "Montant"
+    ],
+    "rows": [
+     [
+      "Montant de base",
+      "315,04 €"
+     ],
+     [
+      "Supplément au-delà de 6 ans",
+      "+ 23,81 €"
+     ],
+     [
+      "Supplément au-delà de 12 ans",
+      "+ 59,44 €"
+     ],
+     [
+      "Rentrée scolaire, plus de 6 ans",
+      "115 € en août"
+     ],
+     [
+      "Rentrée scolaire, plus de 12 ans",
+      "235 € en août"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "allocations-5",
+    "text": "Aucune condition de nationalité, seule la résidence compte. L'allocation de rentrée est automatique. Montants revalorisés à chaque tranche indiciaire."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "allocations-6",
+    "q": "Quel est le montant des allocations familiales ?",
+    "a": "315,04 euros par mois et par enfant, plus 23,81 euros au-delà de six ans et 59,44 euros au-delà de douze ans, montants au 1er juin 2026. Une allocation de rentrée de 115 ou 235 euros est versée automatiquement en août."
+   }
+  ]
+ },
+ {
+  "id": "conges",
+  "title": "Congés et jours fériés",
+  "category": "Travail",
+  "summary": "Vingt-six jours ouvrables de congé légal et onze jours fériés, souvent améliorés par convention collective.",
+  "url": "https://lux-guide.github.io/#fiche/conges",
+  "sources": [
+   {
+    "title": "Inspection du travail et des mines",
+    "url": "https://itm.public.lu/fr/conditions-travail/conges.html"
+   },
+   {
+    "title": "Guichet.lu, congé légal annuel",
+    "url": "https://guichet.public.lu/fr/citoyens/travail/conges-jours-feries/annuel/conge-legal-annuel.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "conges-1",
+    "text": "Le congé annuel légal s'élève à vingt-six jours ouvrables par an. Le droit s'ouvre après trois mois de travail ininterrompu chez le même employeur, puis s'acquiert par douzièmes. Une semaine de congé compte au maximum pour cinq jours ouvrables, même si votre temps de travail est réparti sur davantage de jours. S'y ajoutent onze jours fériés légaux, que l'employeur peut partiellement remplacer par des fêtes locales ou professionnelles, à condition d'en respecter le total."
+   },
+   {
+    "type": "p",
+    "id": "conges-2",
+    "text": "Ces chiffres ne sont qu'un plancher. Les conventions collectives, très présentes dans la finance et les services, accordent fréquemment plusieurs jours supplémentaires. Avant de comparer deux offres d'emploi, vérifiez la convention applicable : l'écart peut atteindre une semaine entière."
+   },
+   {
+    "type": "h",
+    "text": "Essai et préavis"
+   },
+   {
+    "type": "p",
+    "id": "conges-3",
+    "text": "La période d'essai doit être stipulée par écrit au plus tard au moment de l'entrée en service, et sa durée conditionne le préavis applicable pendant cette période. À la fin du contrat, retenez un point souvent ignoré : le congé reste dû pendant le préavis, même en cas de dispense de travail, et l'employeur ne peut pas vous imposer de solder vos jours à ce moment-là."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "conges-4",
+    "text": "Vingt-six jours ouvrables et onze jours fériés au minimum. Droit ouvert après trois mois chez le même employeur. Vérifier la convention collective avant de comparer deux offres."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "conges-5",
+    "q": "Combien de jours de congé donne la loi ?",
+    "a": "Vingt-six jours ouvrables de congé légal par an, plus onze jours fériés. Le droit s'ouvre après trois mois chez le même employeur, et les conventions collectives accordent souvent davantage."
+   }
+  ]
+ },
+ {
+  "id": "emploi",
+  "title": "Chercher un emploi",
+  "category": "Travail",
+  "summary": "Un marché très international, où les postes vacants doivent être déclarés au service public de l'emploi.",
+  "url": "https://lux-guide.github.io/#fiche/emploi",
+  "sources": [
+   {
+    "title": "ADEM",
+    "url": "https://adem.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "emploi-1",
+    "text": "L'Agence pour le développement de l'emploi est le service public de l'emploi. S'y inscrire ouvre l'accès à un accompagnement, à des formations et, sous conditions, à l'indemnisation. Un détail vaut à lui seul l'inscription : les employeurs sont légalement tenus de lui déclarer leurs postes vacants, ce qui en fait une source d'offres qui ne circulent pas toujours ailleurs."
+   },
+   {
+    "type": "p",
+    "id": "emploi-2",
+    "text": "Le marché est profondément international. Une part considérable des salariés vient chaque jour de France, de Belgique et d'Allemagne, ce qui élargit d'autant la concurrence sur chaque poste, mais explique aussi que le multilinguisme soit un critère de sélection à part entière. Les secteurs les plus actifs restent la finance, les technologies, la logistique, la santé et les institutions européennes."
+   },
+   {
+    "type": "p",
+    "id": "emploi-3",
+    "text": "Côté candidature, la présentation locale est sobre, en français ou en anglais selon l'employeur. Mentionnez explicitement votre niveau dans chaque langue, plutôt qu'une liste sans précision : c'est l'information que le recruteur cherche en premier, et son absence est souvent lue comme un aveu."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "emploi-4",
+    "text": "L'inscription à l'ADEM ouvre des offres non publiées ailleurs. Préciser le niveau atteint dans chaque langue. Concurrence élargie aux régions frontalières."
+   }
+  ]
+ },
+ {
+  "id": "banque",
+  "title": "Banque et moyens de paiement",
+  "category": "Finances",
+  "summary": "Un compte local n'est pas obligatoire, mais il débloque la garantie locative et l'identité numérique.",
+  "url": "https://lux-guide.github.io/#fiche/banque",
+  "sources": [
+   {
+    "title": "luxembourg.public.lu, vivre au Luxembourg",
+    "url": "https://luxembourg.public.lu/fr/vivre.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "banque-1",
+    "text": "Un IBAN européen suffit légalement pour recevoir un salaire et payer un loyer : refuser un compte d'un autre pays de la zone SEPA est interdit. En pratique, deux obstacles justifient malgré tout l'ouverture d'un compte luxembourgeois. Le premier est la garantie locative, que les banques étrangères n'émettent généralement pas. Le second est LuxTrust, souvent offert aux clients d'une banque locale et payant en direct."
+   },
+   {
+    "type": "p",
+    "id": "banque-2",
+    "text": "L'ouverture demande une pièce d'identité, un justificatif d'adresse et, le plus souvent, le contrat de travail. Les principaux acteurs de détail sont Spuerkeess, la banque de l'État, ainsi que BIL, BGL BNP Paribas, ING et la Banque Raiffeisen."
+   },
+   {
+    "type": "p",
+    "id": "banque-3",
+    "text": "Comparez les grilles tarifaires avant de choisir, car elles varient nettement d'un établissement à l'autre. Regardez non seulement les frais de tenue de compte, mais aussi le coût des cartes, celui des virements et les conditions d'exonération liées à la domiciliation du salaire."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "banque-4",
+    "text": "Un IBAN SEPA étranger ne peut pas être refusé pour le salaire. Compte local nécessaire en pratique pour la garantie locative. Ouvrir le compte avant de signer un bail."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "banque-5",
+    "q": "Un compte bancaire étranger peut-il servir à recevoir le salaire ?",
+    "a": "Oui, un IBAN de la zone SEPA ne peut pas être refusé pour le versement d'un salaire ou le paiement d'un loyer. En pratique, deux choses poussent quand même à ouvrir un compte local : la garantie locative, que les banques étrangères n'émettent généralement pas, et LuxTrust, souvent offert aux clients d'une banque luxembourgeoise."
+   },
+   {
+    "type": "faq",
+    "id": "banque-6",
+    "q": "Que faut-il pour ouvrir un compte bancaire ?",
+    "a": "Une pièce d'identité, un justificatif d'adresse et, le plus souvent, le contrat de travail. Comparez les grilles tarifaires avant de choisir : elles varient nettement d'un établissement à l'autre, sur les frais de tenue de compte comme sur le coût des cartes et des virements."
+   },
+   {
+    "type": "faq",
+    "id": "banque-7",
+    "q": "Un compte bancaire luxembourgeois est-il obligatoire ?",
+    "a": "Pas légalement : un IBAN européen suffit pour le salaire et le loyer. En pratique, un compte local reste nécessaire pour émettre une garantie locative, et il rend LuxTrust souvent gratuit."
+   }
+  ]
+ },
+ {
+  "id": "cout_vie",
+  "title": "Salaire, coût de la vie et indexation",
+  "category": "Finances",
+  "summary": "Des salaires élevés, un logement cher, et une indexation automatique qui n'existe pas ailleurs.",
+  "url": "https://lux-guide.github.io/#fiche/cout_vie",
+  "sources": [
+   {
+    "title": "STATEC",
+    "url": "https://statistiques.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "cout_vie-1",
+    "text": "Le Luxembourg applique une indexation automatique des salaires : dès que l'indice des prix progresse de 2,5 %, une tranche indiciaire est déclenchée et l'ensemble des salaires, pensions et minima sociaux est revalorisé d'autant. Ce mécanisme, rare en Europe, explique que les montants légaux changent plusieurs fois sur une même période et qu'une valeur trouvée en ligne soit vite obsolète."
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-2",
+    "text": "Le salaire social minimum figure parmi les plus élevés d'Europe et sert de référence à de nombreux plafonds sociaux et fiscaux, à commencer par le plafond cotisable, fixé à cinq fois son montant."
+   },
+   {
+    "type": "h",
+    "text": "Où part l'avantage salarial"
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-3",
+    "text": "Le logement absorbe l'essentiel de l'écart de rémunération avec les régions voisines, ce qui explique qu'une part importante des salariés choisisse de résider de l'autre côté de la frontière. En contrepartie, les transports publics sont gratuits et la fiscalité des ménages, en particulier en classe 2, se révèle souvent plus favorable que chez les voisins."
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-4",
+    "text": "Un dernier point à vérifier avant de signer : le treizième mois est fréquent mais n'a rien d'une obligation légale. Il dépend du contrat ou de la convention collective. Comparez donc les offres sur le brut annuel total, et non sur le salaire mensuel affiché."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "cout_vie-5",
+    "text": "Indexation automatique à chaque 2,5 % d'inflation. Plafond cotisable : cinq fois le salaire social minimum. Comparer les offres sur le brut annuel, treizième mois compris."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "cout_vie-6",
+    "q": "Le salaire luxembourgeois compense-t-il le coût de la vie ?",
+    "a": "Comparez sur le brut annuel, treizième mois compris, et intégrez le logement dès le début du calcul : c'est lui qui absorbe l'essentiel de l'écart de salaire avec les régions voisines. Le salaire social minimum figure parmi les plus élevés d'Europe et sert de référence à de nombreux plafonds sociaux et fiscaux."
+   },
+   {
+    "type": "faq",
+    "id": "cout_vie-7",
+    "q": "Qu'est-ce que l'indexation des salaires ?",
+    "a": "Un mécanisme automatique : dès que l'indice des prix progresse de 2,5 %, une tranche indiciaire est déclenchée et les salaires, pensions et minima sont revalorisés d'autant."
+   }
+  ]
+ },
+ {
+  "id": "ecole",
+  "title": "Scolariser ses enfants",
+  "category": "Famille",
+  "summary": "Trois voies possibles, et un choix qui se prépare bien avant le déménagement.",
+  "url": "https://lux-guide.github.io/#fiche/ecole",
+  "sources": [
+   {
+    "title": "Ministère de l'Éducation nationale",
+    "url": "https://men.public.lu/fr.html"
+   },
+   {
+    "title": "Écoles européennes",
+    "url": "https://www.eursc.eu/fr"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "ecole-1",
+    "text": "C'est la démarche la plus longue et la plus contrainte de toute l'installation, et celle qu'il faut engager en premier, avant même la recherche de logement. Trois voies coexistent, très différentes."
+   },
+   {
+    "type": "h",
+    "text": "L'école publique, gratuite et multilingue"
+   },
+   {
+    "type": "p",
+    "id": "ecole-2",
+    "text": "L'enseignement public luxembourgeois alphabétise en luxembourgeois, puis introduit l'allemand, puis le français. Il intègre remarquablement bien les enfants arrivés jeunes. Pour une arrivée plus tardive, en revanche, la barrière linguistique est réelle et doit être évaluée sans complaisance, en fonction de l'âge et du parcours de l'enfant."
+   },
+   {
+    "type": "h",
+    "text": "Les écoles européennes et internationales"
+   },
+   {
+    "type": "p",
+    "id": "ecole-3",
+    "text": "Les écoles européennes proposent un cursus par section linguistique menant au baccalauréat européen. L'accès est prioritaire pour les enfants de personnels des institutions européennes ; les autres familles sont admises selon les places disponibles et acquittent un minerval. Il existe par ailleurs des écoles internationales publiques, gratuites, avec des sections anglophone, francophone ou germanophone, très demandées. Enfin, des établissements privés proposent le baccalauréat international ou des cursus étrangers, avec des frais significatifs."
+   },
+   {
+    "type": "h",
+    "text": "Anticiper, et emporter les bons papiers"
+   },
+   {
+    "type": "p",
+    "id": "ecole-4",
+    "text": "L'inscription à la commune précède généralement l'inscription scolaire, et les places dans les sections les plus recherchées partent parfois un an à l'avance. Vérifiez la disponibilité de la section linguistique visée, et pas seulement celle de l'établissement. Avant de quitter votre pays, demandez à l'école d'origine un certificat de radiation ainsi que les bulletins des dernières années : ils sont presque toujours exigés, et bien plus difficiles à obtenir une fois parti. La rentrée se situe au début du mois de septembre."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "ecole-5",
+    "text": "Commencer par l'école, avant même le logement. Vérifier la section linguistique, pas seulement l'établissement. Récupérer certificat de radiation et bulletins avant de partir."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "ecole-6",
+    "q": "Comment se fait l'inscription à l'école ?",
+    "a": "Commencez par là, avant même le logement. L'enregistrement à la commune précède l'inscription scolaire, et les sections les plus demandées se remplissent parfois un an à l'avance."
+   }
+  ]
+ },
+ {
+  "id": "garde",
+  "title": "Garde d'enfants et chèque-service",
+  "category": "Famille",
+  "summary": "Une aide de l'État qui réduit fortement le coût de la garde, à condition que la structure soit conventionnée.",
+  "url": "https://lux-guide.github.io/#fiche/garde",
+  "sources": [
+   {
+    "title": "Guichet.lu, famille et éducation",
+    "url": "https://guichet.public.lu/fr/citoyens/famille-education.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "garde-1",
+    "text": "Le chèque-service accueil subventionne les heures de garde chez les prestataires conventionnés. Il s'obtient à la commune de résidence, sur présentation du certificat de résidence et des pièces d'identité, ce qui suppose d'avoir déjà effectué la déclaration d'arrivée. Le tarif horaire restant à votre charge dépend du revenu du ménage et du rang de l'enfant dans la fratrie, et certaines heures d'encadrement ainsi que des repas sont pris en charge dans des limites définies."
+   },
+   {
+    "type": "p",
+    "id": "garde-2",
+    "text": "Un point de vigilance domine tous les autres : vérifiez que la structure est bien conventionnée. Toutes les crèches privées ne le sont pas, et l'écart de coût entre une place conventionnée et une place qui ne l'est pas se chiffre en centaines d'euros par mois."
+   },
+   {
+    "type": "p",
+    "id": "garde-3",
+    "text": "Enfin, inscrivez-vous sur les listes d'attente très tôt, sans attendre d'avoir un logement définitif ni une date d'arrivée certaine. Dans les communes les plus demandées, les délais se comptent en mois, parfois davantage pour les tout-petits."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "garde-4",
+    "text": "Passer par la commune, après l'enregistrement. Vérifier le conventionnement avant de signer. S'inscrire sur les listes d'attente le plus tôt possible."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "garde-5",
+    "q": "Existe-t-il une aide pour la crèche ?",
+    "a": "Oui, le chèque-service accueil, obtenu à la commune après l'enregistrement. Il subventionne les heures de garde chez les prestataires conventionnés, avec un reste à charge fonction du revenu."
+   }
+  ]
+ },
+ {
+  "id": "sante_pratique",
+  "title": "Se soigner au quotidien",
+  "category": "Sante",
+  "summary": "Libre choix du médecin, aucun parcours de soins imposé, et un numéro unique pour les urgences.",
+  "url": "https://lux-guide.github.io/#fiche/sante_pratique",
+  "sources": [
+   {
+    "title": "Portail Santé",
+    "url": "https://sante.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "sante_pratique-1",
+    "text": "Le numéro d'urgence est le 112, gratuit et valable dans tout le pays depuis n'importe quel téléphone. Pour les soins courants, le système diffère nettement du modèle français : il n'existe ni médecin traitant obligatoire, ni parcours de soins imposé. Vous choisissez librement votre médecin et pouvez consulter un spécialiste directement, sans passer par un généraliste."
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-2",
+    "text": "Cette liberté a une contrepartie pratique : trouver un médecin qui accepte de nouveaux patients peut prendre du temps à l'arrivée. Lancez les recherches sans attendre d'en avoir besoin, en particulier pour un pédiatre ou un gynécologue."
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-3",
+    "text": "Pour les soirs et les week-ends, les pharmacies de garde et les maisons médicales de garde assurent la continuité des soins, avec des listes publiées en ligne et mises à jour quotidiennement. Repérez celle qui dessert votre commune dès l'installation."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "sante_pratique-4",
+    "text": "112 pour les urgences, gratuit. Aucun parcours de soins imposé, accès direct aux spécialistes. Chercher un médecin dès l'arrivée, avant d'en avoir besoin."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "sante_pratique-5",
+    "q": "Quel numéro d'urgence appeler ?",
+    "a": "Le 112, gratuit et valable partout. Pour les soins courants, il n'existe ni médecin traitant obligatoire ni parcours de soins : vous consultez directement le spécialiste de votre choix."
+   }
+  ]
+ },
+ {
+  "id": "permis",
+  "title": "Permis de conduire",
+  "category": "Mobilite",
+  "summary": "Un permis européen reste valable sans limite. L'enregistrement est facultatif, gratuit, et ne se fait pas en ligne.",
+  "url": "https://lux-guide.github.io/#fiche/permis",
+  "sources": [
+   {
+    "title": "Guichet.lu, permis étranger",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/permis-conduire/international/transcription-enregistement-permis.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "permis-1",
+    "text": "Un permis délivré par un État de l'Espace économique européen reste valable au Luxembourg, sans limitation de durée. Ni l'échange ni l'enregistrement ne sont obligatoires, contrairement à une idée répandue chez les nouveaux arrivants."
+   },
+   {
+    "type": "p",
+    "id": "permis-2",
+    "text": "L'enregistrement auprès de la Société nationale de circulation automobile présente néanmoins un intérêt concret : en cas de perte ou de vol, l'administration connaît l'existence et les données de votre permis, et peut délivrer rapidement un duplicata. Sans cet enregistrement, il faut repasser par l'autorité qui a délivré le titre, souvent depuis l'étranger, ce qui peut prendre des semaines."
+   },
+   {
+    "type": "p",
+    "id": "permis-3",
+    "text": "La demande se dépose par courrier postal auprès du service des permis de conduire, ou en personne à l'accueil de Guichet.lu. Elle ne se fait ni par courriel ni via MyGuichet : la seule démarche permis disponible en ligne est la prise de rendez-vous pour l'examen théorique. Joignez le formulaire de transcription, échange ou enregistrement, une photocopie recto verso lisible du permis et une copie d'une pièce d'identité valide. L'enregistrement est gratuit, alors que l'échange contre un permis luxembourgeois est payant."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "permis-4",
+    "text": "Permis européen valable sans limite, aucune obligation. Enregistrement gratuit, par courrier ou au guichet. Utile surtout pour obtenir vite un duplicata."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "permis-5",
+    "q": "Un permis de conduire européen reste-t-il valable ?",
+    "a": "Oui, sans limite de durée et sans obligation d'échange ni d'enregistrement. L'enregistrement reste utile pour obtenir rapidement un duplicata en cas de perte ou de vol."
+   }
+  ]
+ },
+ {
+  "id": "vehicule",
+  "title": "Immatriculer son véhicule",
+  "category": "Mobilite",
+  "summary": "Un ordre imposé, une pièce à obtenir à chaque étape, et six mois après la déclaration d'arrivée pour tout boucler.",
+  "url": "https://lux-guide.github.io/#fiche/vehicule",
+  "sources": [
+   {
+    "title": "Guichet.lu, immatriculer un véhicule lors d'un déménagement",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/vehicule-demenagement-transfrontalier.html"
+   },
+   {
+    "title": "SNCA, véhicule d'occasion immatriculé dans l'Union",
+    "url": "https://snca.public.lu/fr/vehicules/immatriculation/immatriculer-vehicule-occasion/vehicule-immatricule-eu.html"
+   },
+   {
+    "title": "Douanes, émission de la vignette 705",
+    "url": "https://douanes.public.lu/fr/vehicules/Emission_vignette_705.html"
+   },
+   {
+    "title": "Douanes, questions sur les véhicules",
+    "url": "https://douanes.public.lu/fr/support/faq/faq-vehicules.html"
+   },
+   {
+    "title": "Guichet.lu, acheter un véhicule immatriculé au Luxembourg",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/acheter-vehicule-luxembourg.html"
+   },
+   {
+    "title": "Guichet.lu, conformité du véhicule",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/immatriculer-vehicule/conformite-vehicule.html"
+   },
+   {
+    "title": "Guichet.lu, contrôle technique",
+    "url": "https://guichet.public.lu/fr/citoyens/transport/transports-individuels/vehicule-motorise/controle-technique-pneumatiques/controle-technique-obligatoire-vehicule.html"
+   },
+   {
+    "title": "SNCT, prix du contrôle technique",
+    "url": "https://snct.lu/prix/"
+   },
+   {
+    "title": "France, déclarer la cession d'un véhicule",
+    "url": "https://immatriculation.ants.gouv.fr/"
+   },
+   {
+    "title": "France, certificat de cession Cerfa 15776",
+    "url": "https://www.formulaires.service-public.gouv.fr/gf/cerfa_15776.do"
+   },
+   {
+    "title": "Belgique, exporter un véhicule",
+    "url": "https://mobilit.belgium.be/fr/route/immatriculer-et-radier/exporter-un-vehicule-plaque-x"
+   },
+   {
+    "title": "Belgique, Car-Pass",
+    "url": "https://www.car-pass.be/fr"
+   },
+   {
+    "title": "Allemagne, plaque d'exportation, service de Berlin",
+    "url": "https://service.berlin.de/dienstleistung/121476/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "vehicule-1",
+    "text": "Délai — 6 mois — après la déclaration d'arrivée à la commune"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-2",
+    "text": "Coût — 50 € — droit de chancellerie, hors plaques et contrôle"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-3",
+    "text": "Dépôt — SNCA — sur rendez-vous, plaques déjà faites"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-4",
+    "text": "Mon véhicule vient d'un pays de l'Union — La procédure complète, ci-dessous."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-5",
+    "text": "J'achète une occasion déjà immatriculée au Luxembourg — Le vendeur vous remet les deux parties du certificat et un document-facture. Vous assurez le véhicule."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-6",
+    "text": "J'achète neuf chez un concessionnaire — Il immatricule pour vous. Il vous reste l'assurance."
+   },
+   {
+    "type": "h",
+    "text": "Étapes"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-7",
+    "text": "Dans cet ordre : chaque étape donne une pièce que la suivante demande, et la SNCA refuse un dossier incomplet."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-8",
+    "text": "Réserver un numéro, puis faire les plaques — Numéro de la série courante ou numéro personnalisé. Dès la confirmation, faites fabriquer les plaques chez un fabricant agréé au Luxembourg : elles sont demandées au rendez-vous. — En ligne sur MyGuichet.lu — Ou nplaques@snca.lu, (+352) 26 62 64 00 — Sans supplément en série courante, 200 € pour un numéro personnalisé — La réservation du numéro, puis les plaques"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-9",
+    "text": "Assurer le véhicule — Responsabilité civile, auprès d'une compagnie agréée au Luxembourg. L'attestation fait partie du dossier : l'assurance vient avant le dépôt. — L'attestation d'assurance — Avant de résilier l'ancien contrat, réclamez le relevé d'information — assurance_auto"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-10",
+    "text": "Payer le droit de chancellerie — Au guichet de l'Administration de l'enregistrement, des domaines et de la TVA, ou par virement. Le timbre se vend aussi à la SNCA, avec 3 € de frais. — Virement à AED-GUICHET UNIQUE-TIMBRES — IBAN LU76 0019 5955 4404 7000, BIC BCEELULL — 50 € — Le timbre, ou la preuve de virement avec nom, prénom, motif, numéro d'immatriculation et numéro de châssis"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-11",
+    "text": "Obtenir la vignette 705 aux douanes — Exigée pour tout véhicule venu d'un autre État membre, même quand aucune TVA n'est due. Le véhicule doit être présenté s'il a plus de six mois et plus de 6 000 km. — Centre douanier Luxembourg-Howald, 1 rue in Bouler (Croix de Gasperich), L-1350 Luxembourg, (+352) 281 84 499 — Centre douanier Nord, 2 rue Clairefontaine, L-9290 Diekirch, (+352) 81 70 45 1 — Lundi à vendredi, 8 h à 17 h — Le véhicule, le certificat d'immatriculation étranger, la facture ou le contrat de vente, une pièce d'identité — La vignette 705"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-12",
+    "text": "Déposer le dossier à la SNCA — Sur rendez-vous, dans le centre de votre choix. Vérifiez avant que le contrôle technique tient la durée luxembourgeoise. — Sandweiler, 11 rue de Luxembourg, L-5230 Sandweiler — Esch-sur-Alzette, 22 rue Jos Kieffer, L-4149 Esch-sur-Alzette — Fridhaff, 8 rue Fridhaff, L-9379 Diekirch — (+352) 26 62 64 00, lundi à vendredi, 7 h 30 à 16 h 30 — Le dossier complet et les plaques — Voir le dossier à cocher — Le certificat d'immatriculation à votre nom, et une vignette fiscale provisoire de 30 jours"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-13",
+    "text": "Ensuite, les douanes vous facturent la taxe sur les véhicules. La vignette provisoire couvre l'attente."
+   },
+   {
+    "type": "h",
+    "text": "Dossier"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-14",
+    "text": "Formulaire « Demande en obtention d'un certificat d'immatriculation », signé — Sur Guichet.lu"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-15",
+    "text": "Droit de chancellerie — Le timbre, ou la preuve de virement."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-16",
+    "text": "Attestation d'assurance en cours de validité"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-17",
+    "text": "Vignette 705"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-18",
+    "text": "Certificat d'immatriculation étranger, complet — Dans l'Union, il a en général deux parties."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-19",
+    "text": "Certificat de conformité européen — Si la première immatriculation date d'après le 1er février 2016."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-20",
+    "text": "Certificat de contrôle technique valable — Si le véhicule y est soumis. Voir Cas particuliers."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-21",
+    "text": "Facture ou contrat de vente — Sans lui, vous êtes inscrit titulaire, pas propriétaire."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-22",
+    "text": "Pièce d'identité — Quelqu'un dépose pour vous : un mandat et une copie de votre pièce d'identité."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-23",
+    "text": "Plaques luxembourgeoises — Fabriquées avant le rendez-vous."
+   },
+   {
+    "type": "h",
+    "text": "Vendeur"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-24",
+    "text": "La procédure luxembourgeoise est la même partout. Ce qui change, ce sont les pièces que le vendeur vous remet et ce qu'il doit faire chez lui. S'il oublie, votre dossier est incomplet, ou il continue de recevoir les amendes."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-25",
+    "text": "France — Il vous remet — La carte grise barrée : « vendu le », date, heure, signature — Le certificat de cession, Cerfa 15776, en deux exemplaires — Le code de cession — Un certificat de situation administrative de moins de 15 jours — Le contrôle technique de moins de 6 mois, si le véhicule a plus de 4 ans — Il fait chez lui — Déclarer la cession en ligne dans les 15 jours, ce qui produit le code de cession"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-26",
+    "text": "Belgique — Il vous remet — Les deux parties du certificat d'immatriculation — Le certificat de conformité — Le Car-Pass, obligatoire, qui retrace le kilométrage — Le contrôle technique en vue de la vente — Il fait chez lui — Garder sa plaque, qui est personnelle, et la faire radier auprès de la DIV"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-27",
+    "text": "Allemagne — Il vous remet — Les deux parties du certificat : Zulassungsbescheinigung Teil I et Teil II — Le procès-verbal du dernier contrôle technique — Il fait chez lui — Remettre les plaques allemandes — Demander une plaque d'exportation pour rouler jusqu'ici, sans désimmatriculation préalable"
+   },
+   {
+    "type": "h",
+    "text": "Coûts"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-28",
+    "text": "Poste — Montant — Droit de chancellerie — 50 € — Timbre acheté à la SNCA — + 3 € — Numéro de la série courante — sans supplément — Numéro personnalisé — + 200 € — Transfert d'un numéro personnalisé — + 24 € — Plaques — prix du fabricant — Contrôle technique au Luxembourg, si nécessaire — 98,50 € — TVA — seulement si le véhicule est neuf au sens fiscal — Taxe sur les véhicules — selon le véhicule, facturée par les douanes"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-29",
+    "text": "Le contrôle technique au Luxembourg : 77 € pour une voiture, plus 21,50 € de frais administratifs pour un véhicule importé (SNCT, prix au 2 mai 2025)."
+   },
+   {
+    "type": "h",
+    "text": "Cas particuliers"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-30",
+    "text": "Le certificat n'est pas au nom du vendeur — Un acte de vente signé par les deux parties, daté, avec le numéro de châssis, établit la propriété. Une facture de professionnel aussi. — Si le certificat porte un autre nom que celui du vendeur, demandez la chaîne complète : l'acte entre la personne inscrite et votre vendeur, puis le vôtre. — Sans aucune de ces pièces, la SNCA vous inscrit comme titulaire, et le certificat dit que vous n'êtes pas identifié comme propriétaire. Vous roulez, assurez et payez la taxe, mais la revente et les litiges se compliquent."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-31",
+    "text": "Le contrôle technique passé à l'étranger — Un certificat passé dans un autre État membre ou en Suisse reste valable, mais pour la durée prévue au Luxembourg : premier contrôle 4 ans après la première mise en circulation, le suivant 2 ans plus tard, puis chaque année. — Exemple : une voiture de plus de six ans contrôlée en France il y a plus d'un an doit repasser le contrôle. — Le plus simple est de le refaire dans le pays d'origine avant le dépôt. Un centre luxembourgeois peut refuser un véhicule encore en plaques étrangères : un refus a été constaté en septembre 2026."
+   },
+   {
+    "type": "p",
+    "id": "vehicule-32",
+    "text": "Rouler avant l'immatriculation — Avec les plaques qui portent votre futur numéro et une assurance responsabilité civile, vous pouvez conduire le véhicule jusqu'au lieu d'immatriculation, et jusqu'à un garage ou un contrôle technique."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "vehicule-33",
+    "text": "Ordre : numéro et plaques, assurance, droit de chancellerie, vignette 705, SNCA. Les plaques se font avant le rendez-vous SNCA. La vignette 705 est exigée même sans TVA à payer. Sans acte de vente, vous êtes titulaire, pas propriétaire. Six mois après la déclaration d'arrivée."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-34",
+    "q": "La carte grise n'est pas au nom du vendeur, est-ce bloquant ?",
+    "a": "Non, et un acte de vente règle la question. Un contrat signé des deux parties, daté, désignant le véhicule par son numéro de châssis, établit la propriété ; quand le certificat est à un troisième nom, demandez la chaîne complète des actes, de la personne inscrite jusqu'à vous. Sans aucune preuve, la SNCA vous inscrit comme titulaire, mais le certificat porte la mention que le titulaire n'est pas identifié comme propriétaire."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-35",
+    "q": "Faut-il repasser le contrôle technique en arrivant au Luxembourg ?",
+    "a": "Pas si le contrôle étranger est encore valable. Un certificat passé dans un autre État membre ou en Suisse reste valable, mais sa durée devient celle du droit luxembourgeois : premier contrôle quatre ans après la première mise en circulation, deuxième deux ans après, puis chaque année."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-36",
+    "q": "Dans quel délai immatriculer un véhicule qu'on amène avec soi ?",
+    "a": "Dans les six mois de la déclaration d'arrivée à la commune. Avant la SNCA, il faut le numéro d'immatriculation, l'assurance luxembourgeoise et la vignette 705 des douanes, cette dernière étant exigée même quand aucune TVA n'est due."
+   },
+   {
+    "type": "faq",
+    "id": "vehicule-37",
+    "q": "Comment s'immatricule un véhicule importé ?",
+    "a": "Cela dépend de votre cas. Import : contrôle technique, assurance, puis immatriculation. Achat chez un professionnel : il s'en charge. Achat entre particuliers : la démarche vous incombe, avec les deux parties du certificat."
+   }
+  ]
+ },
+ {
+  "id": "assurance_auto",
+  "title": "Assurer son véhicule",
+  "category": "Mobilite",
+  "summary": "Obligatoire avant de rouler, et le relevé d'informations de votre ancien assureur vaut de l'argent.",
+  "url": "https://lux-guide.github.io/#fiche/assurance_auto",
+  "sources": [
+   {
+    "title": "Commissariat aux assurances",
+    "url": "https://www.caa.lu/fr/accueil"
+   },
+   {
+    "title": "Directive européenne 2021/2118, relevé de sinistres",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021L2118"
+   },
+   {
+    "title": "France, contenu du relevé d'information, annexe à l'article A121-1",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051155686"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "assurance_auto-1",
+    "text": "L'assurance en responsabilité civile est obligatoire pour tout véhicule immatriculé, et l'attestation est exigée au moment de l'immatriculation. Elle doit donc être souscrite avant, et non après."
+   },
+   {
+    "type": "h",
+    "text": "Le relevé d'information est un droit, pas une faveur"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-2",
+    "text": "Le point qui pèse le plus sur la prime est votre historique de sinistres, et le document qui le porte s'appelle relevé d'information en France, attestation de sinistralité en Belgique, certificat bonus-malus au Luxembourg. C'est le même document. Depuis la directive européenne de 2021 sur l'assurance automobile, votre assureur doit vous le remettre dans les quinze jours de votre demande, et il couvre au moins les cinq dernières années. Un assureur d'un autre État membre doit en tenir compte comme il tiendrait compte d'un document national : la directive interdit de traiter différemment un conducteur selon sa nationalité ou son pays de résidence précédent."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-3",
+    "text": "Réclamez-le avant de résilier. Après la résiliation il reste dû, mais il faut souvent relancer."
+   },
+   {
+    "type": "h",
+    "text": "Si vous n'avez jamais eu de contrat à votre nom"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-4",
+    "text": "C'est le cas de qui conduisait la voiture d'un parent, d'un conjoint ou d'un beau-parent sans être inscrit au contrat. Le relevé appartient au preneur d'assurance et ne nomme que les conducteurs désignés au contrat : celui de votre proche ne vous mentionne pas, et son bonus ne vous suit pas."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-5",
+    "text": "Concrètement, vous entrez alors au degré neutre de l'échelle luxembourgeoise, celle qui va de -3 à 22 et dont le degré 11 correspond à la prime de base. Ce n'est pas bloquant : aucun relevé n'est exigé pour assurer ni pour immatriculer, il ne joue que sur le prix. Deux choses valent la peine d'être tentées : demander à l'assureur de votre proche une attestation écrite disant que vous conduisiez le véhicule sans sinistre, qu'un assureur luxembourgeois est libre d'accepter ou non, et vous faire inscrire comme conducteur désigné sur un contrat tant que vous roulez sans en avoir un à vous."
+   },
+   {
+    "type": "h",
+    "text": "Ce qui distingue les contrats"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-6",
+    "text": "Au-delà de la responsabilité civile obligatoire, les garanties dites tous risques couvrent aussi les dommages à votre propre véhicule. La comparaison utile porte sur quelques points précis : le montant des franchises, la présence d'une assistance dès le domicile ou seulement à partir d'une certaine distance, le prêt d'un véhicule de remplacement, et la couverture du bris de glace."
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-7",
+    "text": "Comme pour l'habitation, ces éléments figurent dans les conditions générales et non dans le devis. Réclamez le document d'information standardisé, les conditions générales et les conditions particulières : deux contrats au même prix peuvent différer nettement sur la franchise et sur l'assistance, c'est-à-dire précisément sur ce que vous constaterez le jour du sinistre."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "assurance_auto-8",
+    "text": "Assurance obligatoire avant l'immatriculation. Le relevé d'information se réclame dans les quinze jours, c'est un droit. Sans contrat à son nom, on entre au degré neutre, et rien n'est bloqué. Comparer franchises et assistance, pas seulement la prime."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "assurance_auto-9",
+    "q": "Faut-il un relevé d'information pour assurer sa voiture au Luxembourg ?",
+    "a": "Il n'est pas exigé, ni pour assurer ni pour immatriculer : il ne joue que sur le prix. Si vous avez eu un contrat à votre nom, réclamez-le, c'est un droit : votre assureur doit le fournir dans les quinze jours et il couvre au moins cinq ans. Sans contrat à votre nom, il n'y a rien à demander, et vous entrez au degré neutre de l'échelle luxembourgeoise, le degré 11 sur une échelle qui va de -3 à 22."
+   },
+   {
+    "type": "faq",
+    "id": "assurance_auto-10",
+    "q": "J'ai conduit la voiture d'un proche sans être inscrit au contrat, est-ce que ça compte ?",
+    "a": "Pas automatiquement. Le relevé appartient au preneur d'assurance et ne nomme que les conducteurs désignés au contrat : celui de votre proche ne vous mentionne pas. Vous pouvez demander à son assureur une attestation écrite disant que vous conduisiez sans sinistre, mais aucun assureur luxembourgeois n'est tenu de l'accepter. Se faire inscrire comme conducteur désigné évite le problème pour la suite."
+   }
+  ]
+ },
+ {
+  "id": "transport",
+  "title": "Transports publics gratuits",
+  "category": "Mobilite",
+  "summary": "Gratuité totale depuis février 2020, mais une desserte très inégale selon les communes.",
+  "url": "https://lux-guide.github.io/#fiche/transport",
+  "sources": [
+   {
+    "title": "mobiliteit.lu",
+    "url": "https://www.mobiliteit.lu/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "transport-1",
+    "text": "Depuis le 29 février 2020, les transports publics sont gratuits pour tous sur l'ensemble du territoire : bus, trams et trains en seconde classe, sans titre de transport à acheter. La gratuité bénéficie également aux frontaliers, mais uniquement sur la portion luxembourgeoise de leur trajet. Seule la première classe des trains reste payante."
+   },
+   {
+    "type": "p",
+    "id": "transport-2",
+    "text": "Cette gratuité pèse davantage qu'on ne le croit dans un budget familial, et peut légitimement remettre en cause l'achat d'une seconde voiture. Encore faut-il que la desserte suive : le réseau est dense autour de la capitale et le long des axes ferroviaires, mais nettement plus clairsemé dans les zones rurales, où la voiture reste souvent indispensable."
+   },
+   {
+    "type": "p",
+    "id": "transport-3",
+    "text": "Avant de choisir une commune, vérifiez donc concrètement les horaires depuis l'arrêt le plus proche, aux heures qui vous concernent, et pas seulement l'existence d'une ligne. Des parkings relais gratuits en périphérie permettent par ailleurs de combiner voiture et train, et d'éviter le stationnement en ville, cher et contraint."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "transport-4",
+    "text": "Gratuit partout, sans titre de transport. Vérifier la desserte réelle avant de choisir une commune. Peut remettre en cause l'achat d'une seconde voiture."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "transport-5",
+    "q": "Les transports publics sont-ils vraiment gratuits ?",
+    "a": "Oui, depuis février 2020, sur tout le territoire et pour tous, y compris les frontaliers sur la portion luxembourgeoise. Seule la première classe des trains reste payante."
+   }
+  ]
+ },
+ {
+  "id": "telecom",
+  "title": "Internet et téléphonie",
+  "category": "Quotidien",
+  "summary": "Des délais très variables selon la saison, une solution provisoire à réclamer, et une médiation gratuite.",
+  "url": "https://lux-guide.github.io/#fiche/telecom",
+  "sources": [
+   {
+    "title": "ILR, service de médiation",
+    "url": "https://www.ilr.lu/mediation/"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "telecom-1",
+    "text": "Les principaux opérateurs fixes sont POST, l'opérateur historique, ainsi qu'Orange, Tango, Eltrona et Luxembourg Online. La fibre couvre les localités principales, mais l'éligibilité se vérifie à l'adresse exacte, et non à la commune : dans l'ancien, le raccordement peut s'arrêter au pied de l'immeuble."
+   },
+   {
+    "type": "h",
+    "text": "Des délais qui dépendent de la saison"
+   },
+   {
+    "type": "p",
+    "id": "telecom-2",
+    "text": "Comptez deux à trois semaines entre la souscription et l'installation en période normale. Cette moyenne est trompeuse : les mois de forte mobilité, typiquement de juin à septembre, période des déménagements et des rentrées, allongent sensiblement les délais, parfois au-delà d'un mois. Les fins d'année et les périodes de congés produisent le même effet, pour une autre raison : le nombre de techniciens disponibles diminue."
+   },
+   {
+    "type": "p",
+    "id": "telecom-3",
+    "text": "Si votre logement n'est pas encore raccordé, une intervention en deux passages peut être nécessaire, l'une pour amener la fibre, l'autre pour installer l'équipement. Chaque passage suppose votre présence, et un rendez-vous manqué peut être facturé. Faites confirmer par écrit la date et le créneau horaire, et signalez immédiatement toute particularité d'accès, comme un numéro de rue ou un nom d'interphone différent de celui du contrat."
+   },
+   {
+    "type": "h",
+    "text": "Ne pas rester sans connexion"
+   },
+   {
+    "type": "p",
+    "id": "telecom-4",
+    "text": "Réclamez systématiquement une solution 4G provisoire : plusieurs opérateurs en prêtent une pendant l'attente, mais rarement sans qu'on la demande. C'est le réflexe qui évite de commencer un télétravail sans connexion."
+   },
+   {
+    "type": "h",
+    "text": "Choisir son offre"
+   },
+   {
+    "type": "p",
+    "id": "telecom-5",
+    "text": "Les offres combinent souvent internet, ligne fixe et télévision, avec un engagement de douze à vingt-quatre mois. Une règle simple mérite d'être retenue : la montée en gamme est possible à tout moment, la descente rarement. Commencez donc petit, vous ajusterez ensuite. Prévoyez une pièce d'identité, le bail ou l'acte de propriété et vos coordonnées bancaires."
+   },
+   {
+    "type": "h",
+    "text": "En cas de litige"
+   },
+   {
+    "type": "p",
+    "id": "telecom-6",
+    "text": "Le service de médiation de l'Institut luxembourgeois de régulation est compétent pour les litiges avec un opérateur, et sa saisine est gratuite. Une condition est impérative : avoir adressé une réclamation écrite à l'opérateur et n'avoir obtenu aucune réponse, ou une réponse insatisfaisante. Un appel téléphonique, même suivi d'un refus explicite, ne remplit pas cette condition. Écrivez, et conservez la trace."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "telecom-7",
+    "text": "Deux à trois semaines, mais davantage de juin à septembre. Réclamer la 4G provisoire, elle n'est pas proposée d'office. Litige : réclamation écrite d'abord, puis médiation gratuite."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "telecom-8",
+    "q": "Combien de temps pour avoir internet ?",
+    "a": "Deux à trois semaines en période normale, mais nettement plus de juin à septembre, saison des déménagements. Réclamez une solution 4G provisoire : plusieurs opérateurs en prêtent une, rarement sans qu'on la demande."
+   }
+  ]
+ },
+ {
+  "id": "langues",
+  "title": "Langues et intégration",
+  "category": "Quotidien",
+  "summary": "Trois langues administratives, l'anglais très présent au travail, et des cours subventionnés.",
+  "url": "https://lux-guide.github.io/#fiche/langues",
+  "sources": [
+   {
+    "title": "Institut national des langues",
+    "url": "https://www.inll.lu/"
+   },
+   {
+    "title": "Formation des adultes",
+    "url": "https://men.public.lu/fr/themes-transversaux/formation-adultes.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "langues-1",
+    "text": "Le pays fonctionne avec trois langues administratives. Le français domine dans l'administration et les commerces, l'allemand dans la presse et à l'école primaire, le luxembourgeois dans la vie sociale et associative. L'anglais s'est imposé dans les secteurs financier et européen, au point qu'il est possible d'y travailler durablement sans parler les trois autres."
+   },
+   {
+    "type": "p",
+    "id": "langues-2",
+    "text": "Cette souplesse a toutefois une limite nette : le luxembourgeois devient indispensable pour la naturalisation, ainsi que pour de nombreux emplois publics ou en contact avec le public. Si l'un ou l'autre figure dans vos projets, commencez tôt, car le niveau attendu demande du temps."
+   },
+   {
+    "type": "p",
+    "id": "langues-3",
+    "text": "L'Institut national des langues propose des cours à tarif réduit dans les quatre langues, avec des sessions du soir adaptées aux salariés. Les communes et le service de la formation des adultes en organisent également, souvent moins chers et plus proches du domicile, avec l'avantage d'y rencontrer d'autres habitants du quartier."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "langues-4",
+    "text": "Trois langues administratives, plus l'anglais au travail. Le luxembourgeois conditionne la naturalisation. Cours subventionnés à l'INL et dans les communes."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "langues-5",
+    "q": "Le luxembourgeois est-il nécessaire pour travailler ?",
+    "a": "Cela dépend du poste. Trois langues sont administratives, le français, l'allemand et le luxembourgeois, et l'anglais est très présent dans les entreprises internationales. En revanche, les postes de la fonction publique demandent souvent les trois langues du pays."
+   },
+   {
+    "type": "faq",
+    "id": "langues-6",
+    "q": "Faut-il apprendre le luxembourgeois ?",
+    "a": "Pas pour travailler : l'anglais et le français suffisent dans beaucoup de secteurs. En revanche, oui pour la naturalisation et pour de nombreux emplois publics. Des cours subventionnés existent."
+   }
+  ]
+ },
+ {
+  "id": "nationalite",
+  "title": "Nationalité luxembourgeoise",
+  "category": "Administratif",
+  "summary": "La double nationalité est admise, mais la naturalisation suppose une résidence durable et une épreuve de langue.",
+  "url": "https://lux-guide.github.io/#fiche/nationalite",
+  "sources": [
+   {
+    "title": "Guichet.lu, nationalité luxembourgeoise",
+    "url": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "nationalite-1",
+    "text": "Le Luxembourg admet la double nationalité : devenir luxembourgeois n'oblige pas à renoncer à sa nationalité d'origine. C'est une différence notable avec plusieurs pays voisins, et elle explique l'intérêt de nombreux résidents de longue durée pour la démarche."
+   },
+   {
+    "type": "p",
+    "id": "nationalite-2",
+    "text": "La voie principale est la naturalisation. Elle suppose une résidence régulière d'une durée minimale, la réussite d'une épreuve de luxembourgeois parlé, et la participation à des cours d'instruction civique. D'autres voies existent selon la situation familiale, notamment pour les enfants nés au Luxembourg ou les personnes ayant un ascendant luxembourgeois."
+   },
+   {
+    "type": "p",
+    "id": "nationalite-3",
+    "text": "Les conditions exactes, en particulier la durée de résidence exigée et le niveau de langue attendu, ont changé plusieurs fois au cours des dernières années. Vérifiez-les sur la fiche officielle avant d'engager quoi que ce soit, et anticipez surtout le volet linguistique, de loin le plus long à préparer."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "nationalite-4",
+    "text": "Double nationalité admise. Épreuve de luxembourgeois parlé et instruction civique. Vérifier la durée de résidence exigée, elle évolue."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "nationalite-5",
+    "q": "Combien de temps faut-il pour obtenir la nationalité ?",
+    "a": "La naturalisation suppose une résidence durable et une épreuve de langue. Le volet linguistique est le plus long à préparer, ce qui vaut de commencer les cours dès la première année si la naturalisation vous intéresse, sans attendre d'y être contraint."
+   },
+   {
+    "type": "faq",
+    "id": "nationalite-6",
+    "q": "Peut-on avoir la double nationalité ?",
+    "a": "Oui, le Luxembourg l'admet. La naturalisation suppose une résidence durable, une épreuve de luxembourgeois parlé et des cours d'instruction civique. Anticipez le volet linguistique."
+   }
+  ]
+ },
+ {
+  "id": "dechets",
+  "title": "Déchets et vie communale",
+  "category": "Quotidien",
+  "summary": "La commune fournit les bacs, publie le calendrier et donne accès au centre de recyclage.",
+  "url": "https://lux-guide.github.io/#fiche/dechets",
+  "sources": [
+   {
+    "title": "Portail de l'environnement",
+    "url": "https://environnement.public.lu/fr.html"
+   }
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "id": "dechets-1",
+    "text": "La gestion des déchets relève entièrement de la commune : c'est elle qui fournit les bacs, publie le calendrier de collecte et donne accès au centre de recyclage. Le tri est poussé, avec des jours de collecte distincts pour les ordures ménagères, le papier et le carton, le verre, les emballages, les déchets organiques et les déchets verts."
+   },
+   {
+    "type": "p",
+    "id": "dechets-2",
+    "text": "Les encombrants et les déchets spéciaux se déposent au centre de recyclage, souvent sur présentation d'un justificatif de domicile. Repérez son emplacement et ses horaires dès l'emménagement : c'est précisément le moment où l'on produit le plus de cartons et où l'on se débarrasse de mobilier."
+   },
+   {
+    "type": "p",
+    "id": "dechets-3",
+    "text": "Plus largement, la commune est le guichet de quantité de services du quotidien : certificats, vignettes de stationnement résidentiel, inscriptions scolaires et périscolaires, chèque-service. Récupérer le calendrier de collecte et identifier son interlocuteur communal font partie des gestes qui évitent beaucoup de contrariétés les premières semaines."
+   },
+   {
+    "type": "h",
+    "text": "À retenir"
+   },
+   {
+    "type": "p",
+    "id": "dechets-4",
+    "text": "Tout passe par la commune. Repérer le centre de recyclage dès l'emménagement. Récupérer le calendrier de collecte."
+   },
+   {
+    "type": "h",
+    "text": "Questions fréquentes"
+   },
+   {
+    "type": "faq",
+    "id": "dechets-5",
+    "q": "Comment fonctionne le tri des déchets ?",
+    "a": "Tout passe par la commune : elle fournit les bacs, publie le calendrier de collecte et donne accès au centre de recyclage. Récupérez ce calendrier dès l'emménagement."
+   }
+  ]
+ }
+]

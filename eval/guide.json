@@ -1,0 +1,19 @@
+[
+  {"question": "Combien de jours ai-je pour déclarer mon arrivée à la commune ?", "current_page": "arrivee", "expected_page": "arrivee"},
+  {"question": "Do I need to exchange my EU driving licence?", "current_page": "arrivee", "expected_page": "permis"},
+  {"question": "Is it free?", "current_page": "permis", "expected_page": "permis"},
+  {"question": "How much are family allowances per child?", "current_page": "bail", "expected_page": "allocations"},
+  {"question": "Quelle est la classe d'impôt d'un couple marié ?", "current_page": null, "expected_page": "impots_classes"},
+  {"question": "What documents do I need to register my car?", "current_page": "assurance_auto", "expected_page": "vehicule"},
+  {"question": "Combien coûte un abonnement de bus ?", "current_page": "arrivee", "expected_page": "transport"},
+  {"question": "Mon assurance habitation couvre-t-elle la responsabilité civile ?", "current_page": "arrivee", "expected_page": "assurance_habitation"},
+  {"question": "How do I get a LuxTrust certificate?", "current_page": null, "expected_page": "luxtrust"},
+  {"question": "How many days of paid leave does an employee get per year?", "current_page": "emploi", "expected_page": "conges"},
+  {"question": "Can I deduct the interest on my mortgage?", "current_page": "achat", "expected_page": "interets"},
+  {"question": "Quel est le montant maximum de la garantie locative ?", "current_page": "recherche_logement", "expected_page": "bail"},
+  {"question": "What is the best pizza place in Esch?", "current_page": "arrivee", "expected_page": null},
+  {"question": "How do I apply for a US visa?", "current_page": null, "expected_page": null},
+  {"question": "My bike was stolen from the common cellar, does my home insurance cover it?", "current_page": "assurance_habitation", "expected_page": "assurance_habitation"},
+  {"question": "How many days do I have to declare my arrival at the commune?", "current_page": "arrivee", "expected_page": "arrivee", "profile": {"citizenship": "EU"}, "must_mention": ["8 days", "eight days"]},
+  {"question": "How many days do I have to declare my arrival at the commune?", "current_page": "arrivee", "expected_page": "arrivee", "profile": {"citizenship": "non-EU"}, "must_mention": ["3 days", "three days"]}
+]

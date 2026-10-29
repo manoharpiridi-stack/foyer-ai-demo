@@ -1,0 +1,18 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+frontend/dist/
+
+# Terraform: state holds the OpenAI key; tfvars holds the alert email
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/*.tfvars
+
+# Vector indexes: large, rebuilt by scripts/build_excel_index.py and scripts/build_guide_index.py
+data/chroma/
+eval/baseline_chroma/
+
+# Personal notes, not part of the project
+EXPLANATION.md
+STUDY_GUIDE.md
