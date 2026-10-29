@@ -1,37 +1,34 @@
----
-title: Insurance AI Demo
-emoji: 📊
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # Insurance AI demo
 
 Two small, working answers to exercises from the [Foyer AI recruitment guide](https://lux-guide.github.io/recrutement-ia/).
 
+**Live demo:** https://6gfomnbycy5lizf7a4wysk6chu0epdsx.lambda-url.eu-central-1.on.aws/
+(if the app has been idle, the first visit can take about 5 seconds and the first question about 10 seconds while AWS starts it).
+
 | Tab | Exercise | Approach |
 |---|---|---|
-| Ask a 100,000-row Excel file | 2. RAG on a 100,000-row Excel file | An LLM routes each question: **text-to-SQL** (DuckDB) for counts, totals and filters over all rows, or **row-level vector search** (Chroma) to find claims similar to a described situation. |
-| Luxembourg newcomer guide chatbot | 3. Chatbot for lux-guide.github.io | Searches the page being read first, then the whole guide. Answers only from cited passages, opens the page that holds the answer and highlights the passages. Says so when the guide doesn't cover a question. |
+| Ask a 100,000-row Excel file | 2. RAG on a 100,000-row Excel file | The messy file is cleaned first. Then an LLM routes each question: **text-to-SQL** (DuckDB) for counts, totals and filters over all rows, or **row-level vector search** (Chroma) to find claims similar to a described situation. |
+| Luxembourg newcomer guide chatbot | 3. Chatbot for lux-guide.github.io | Searches the page being read first, then the whole guide. Answers only from cited passages (checked in code), opens the page that holds the answer and highlights the passages, adapts to the reader's situation (EU / non-EU, car, family), and says so when the guide doesn't cover a question. |
 
 Every answer shows **how it was produced**: the SQL or search used, the retrieved passages, and the time spent in each step.
 
-**Live demo:** https://6gfomnbycy5lizf7a4wysk6chu0epdsx.lambda-url.eu-central-1.on.aws/
-(if the app has been idle, the first visit can take about 5 seconds and the first question about 10 seconds while AWS starts it).
+## Results
+
+- Exercise 2: **20/20** test questions. On the same questions, the usual "embed every row, retrieve the top 20" RAG
+  scores **4/20** (it can only describe a sample, not count over 100,000 rows): [eval/baseline_results.md](eval/baseline_results.md).
+- Exercise 3: **17/17** test questions, including 3 out-of-scope questions correctly declined and 2 profile questions.
+- Details: [eval/results.md](eval/results.md). The 37 questions are my own and the claims data is synthetic.
 
 ## Stack
 
 - **Backend:** FastAPI, OpenAI (`gpt-4.1-mini`, `text-embedding-3-small` at 256 dimensions), DuckDB, Chroma
-- **Frontend:** React (Vite), plain CSS
-- **Deployment:** one Docker image, which FastAPI uses to serve both the API and the React app. It runs on **AWS Lambda**
+- **Frontend:** React (Vite, built into a single HTML file), plain CSS
+- **Deployment:** one Docker image, in which FastAPI serves both the API and the React app. It runs on **AWS Lambda**
   (`eu-central-1`) through the Lambda Web Adapter, with ECR, a Function URL and a keep-warm schedule, all defined in
-  Terraform (`terraform/`) and deployed with `uv run python scripts/deploy.py`. The same image also runs on Hugging Face
-  Spaces or locally.
+  Terraform (`terraform/`) and deployed with `uv run python scripts/deploy.py`. The same image runs locally.
 - **Observability:** one JSON log line per question (route, step times, tokens, estimated cost, errors) in CloudWatch,
   turned into metrics, a dashboard, saved queries and email alarms (`backend/monitoring.py`, `terraform/monitoring.tf`).
+- **CI:** GitHub Actions runs the tests, the frontend build and Terraform validation on every push.
 
 ## Data
 
@@ -60,23 +57,26 @@ uv run uvicorn backend.main:app --port 8000
 cd frontend && npm install && npm run dev
 ```
 
-Tests: `uv run pytest` (also run by GitHub Actions on every push, with the frontend build and Terraform validation).
-
-Evaluation: `uv run python scripts/evaluate.py` writes [eval/results.md](eval/results.md).
-Baseline: `uv run python scripts/baseline.py` compares naive row RAG with the routed approach
-([eval/baseline_results.md](eval/baseline_results.md): naive 4/20, routed 20/20).
+Tests: `uv run pytest`. Evaluation: `uv run python scripts/evaluate.py`. Baseline: `uv run python scripts/baseline.py`.
 
 ## Project layout
 
 ```
 backend/
-  main.py      FastAPI app, serves the React build
-  excel.py     Exercise 2: plan → SQL or vector search → explain
-  guide.py     Exercise 3: retrieve → answer with citations → check citations
-  llm.py       OpenAI chat (JSON) and embeddings
-  stores.py    DuckDB (read-only) and Chroma
-scripts/       data generation, index building, translation, evaluation, deploy
-terraform/     AWS infrastructure (ECR, Lambda, Function URL, keep-warm schedule)
-eval/          test questions and results
-frontend/src/  React app (ExcelTab, GuideTab)
+  main.py          FastAPI app: API routes, health and warm-up endpoints, serves the React build
+  excel.py         Exercise 2: plan → SQL or vector search → explain
+  guide.py         Exercise 3: retrieve → answer with citations → check citations (+ reader profile)
+  llm.py           OpenAI chat (JSON) and embeddings, token counting
+  stores.py        DuckDB (read-only) and Chroma
+  monitoring.py    one JSON log line per question
+scripts/
+  make_claims.py, cleaning.py, build_excel_index.py    Excel data: generate, clean, index
+  build_guide_index.py, translate_guide.py             guide data: download, index, translate
+  evaluate.py, baseline.py                             evaluation and the naive-RAG comparison
+  deploy.py                                            build, push and deploy to AWS
+terraform/         main.tf (ECR, Lambda, Function URL, keep-warm), monitoring.tf (metrics, alarms, dashboard)
+frontend/src/      React app: Overview, ExcelTab, GuideTab, recent questions
+eval/              test questions and results
+tests/             unit tests (cleaning rules, cost estimate)
+.github/workflows/ checks run on every push
 ```
